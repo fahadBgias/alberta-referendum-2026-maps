@@ -1,0 +1,77 @@
+# Every 15 minutes: pull the latest unofficial results, commit them if the count moved,
+# and publish the site to GitHub Pages. Also publishes whenever you push a change to main.
+#
+# One-time setup: Settings -> Pages -> Build and deployment -> Source: "GitHub Actions".
+# To stop the updates once counting is over: Actions -> "Update results" -> "..." -> Disable workflow.
+
+name: Update results
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # GitHub may start scheduled runs a few minutes late
+  workflow_dispatch:          # "Run workflow" button for a manual refresh
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-results
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch the latest results
+        run: python scripts/fetch_results.py
+
+      - name: Commit if the count moved
+        id: commit
+        run: |
+          if git diff --quiet -- data; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No new numbers."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "Results update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+  deploy:
+    needs: update
+    if: always() && (github.event_name == 'push' || needs.update.outputs.changed == 'true')
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main   # include the data commit made by the update job
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

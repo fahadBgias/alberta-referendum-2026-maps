@@ -1,0 +1,492 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Alberta Referendum Maps</title>
+<meta name="description" content="Live maps of the 2026 Alberta referendum: which side leads in each of the 87 electoral divisions on all 10 questions, updated from Elections Alberta's unofficial results.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="How Alberta's 87 divisions voted on all 10 referendum questions">
+<meta property="og:description" content="Interactive maps of the 2026 Alberta referendum by electoral division, updated from Elections Alberta's unofficial results.">
+<meta property="og:url" content="https://YOUR-GITHUB-USERNAME.github.io/alberta-referendum-maps/">
+<meta property="og:image" content="https://YOUR-GITHUB-USERNAME.github.io/alberta-referendum-maps/preview.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500;600;800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<style>
+/* Layout: election-night results desk. Header, question picker, one map row (Alberta + Edmonton + Calgary at equal height), detail row, at-a-glance grid, notes. */
+:root{
+  --bg:#f3f5f7; --surface:#ffffff; --ink:#10161d; --ink-2:#475260; --muted:#6b7684; --line:#dde2e8;
+  --yes:#2a78d6; --no:#d80621; --none:#c3c9d1; --chip:#e9edf2; --ca:var(--yes); --cb:var(--no);
+  --f-head:"Libre Franklin","Helvetica Neue",Arial,sans-serif;
+  --f-body:"Source Serif 4",Georgia,"Times New Roman",serif;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0d1116; --surface:#151b22; --ink:#edf1f5; --ink-2:#b3bcc7; --muted:#8a96a5; --line:#28313b;
+  --yes:#4c93ea; --no:#ef3b4f; --none:#3b4450; --chip:#1e2630; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0d1116; --surface:#151b22; --ink:#edf1f5; --ink-2:#b3bcc7; --muted:#8a96a5; --line:#28313b;
+  --yes:#4c93ea; --no:#ef3b4f; --none:#3b4450; --chip:#1e2630; color-scheme:dark}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--f-head);font-size:15px;line-height:1.5;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0}
+.wrap{max-width:1120px;margin:0 auto}
+h1,h2,h3{text-wrap:balance;margin:0}
+.tnum{font-variant-numeric:tabular-nums}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--ink);outline-offset:2px}
+
+.hdr{padding-block:40px 20px;display:grid;gap:12px}
+.eyebrow{margin:0;font-size:12px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-2)}
+h1{font-size:clamp(28px,4.2vw,46px);line-height:1.08;font-weight:800;letter-spacing:-.015em;max-width:20ch}
+.dek{margin:0;font-family:var(--f-body);font-size:18px;line-height:1.55;color:var(--ink-2);max-width:62ch}
+.byline{margin:4px 0 0;font-size:13px;color:var(--muted);display:flex;flex-wrap:wrap;gap:4px 14px;align-items:center}
+.byline b{color:var(--ink);font-weight:600}
+.live{display:inline-flex;align-items:center;gap:6px;font-weight:600;color:var(--ink-2)}
+.live i{width:7px;height:7px;border-radius:50%;background:var(--no);display:inline-block}
+.live.done i{background:var(--muted)}
+@media (prefers-reduced-motion:no-preference){.live:not(.done) i{animation:pulse 2s ease-in-out infinite}}
+@keyframes pulse{50%{opacity:.35}}
+#asof{border-radius:4px;transition:background-color .6s}
+#asof.fresh{background:var(--chip)}
+
+.picker{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:8px;padding-block:8px 24px}
+.pk{display:grid;gap:2px;text-align:left;background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:10px 12px;cursor:pointer;min-width:0}
+.pk:hover{border-color:var(--ink-2)}
+.pk[aria-pressed="true"]{border-color:var(--ink);box-shadow:inset 0 0 0 1px var(--ink)}
+.pk .pq{font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.pk .ps{font-size:14px;font-weight:600;line-height:1.25}
+.pk .pr{font-size:12.5px;color:var(--ink-2);display:flex;align-items:center;gap:6px;margin-top:2px}
+.sq{width:9px;height:9px;border-radius:2px;display:inline-block;flex:none}
+.sq.y{background:var(--ca)} .sq.n{background:var(--cb)} .sq.z{background:var(--none)}
+.swap{--ca:var(--no);--cb:var(--yes)}
+
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:24px;display:grid;gap:22px}
+.status{margin:0;font-size:15px;color:var(--ink-2)}
+.qhead{display:grid;gap:6px}
+.qnum{margin:0;font-size:12px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.qhead h2{font-size:clamp(22px,2.6vw,30px);font-weight:800;letter-spacing:-.01em}
+.qtext{margin:0;font-family:var(--f-body);font-size:16px;line-height:1.55;color:var(--ink-2);max-width:78ch}
+
+.res{display:grid;gap:8px}
+.bar{position:relative;display:flex;gap:2px;height:22px;border-radius:5px;overflow:hidden}
+.bar .seg{height:100%}
+.bar .a{background:var(--ca)} .bar .b{background:var(--cb)} .bar .lose{opacity:.32}
+.half{position:absolute;left:calc(50% - 1px);top:-4px;bottom:-4px;width:2px;background:var(--ink)}
+.barlab{display:flex;justify-content:space-between;gap:12px;font-size:14px;color:var(--ink-2);flex-wrap:wrap}
+.barlab b{color:var(--ink);font-size:20px;font-weight:800;margin:0 4px}
+.barlab .r{text-align:right}
+.led{margin:0;font-size:14px;color:var(--ink-2)}
+.led b{color:var(--ink)}
+
+.maps{display:grid;grid-template-columns:0.564fr 0.683fr 0.788fr;gap:20px;align-items:end}
+.mlab{font-size:12px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:0 0 6px}
+svg.map{width:100%;height:auto;display:block;overflow:visible}
+.map path{stroke:var(--surface);stroke-width:.6px;fill:var(--none)}
+.map path.y{fill:var(--ca)} .map path.n{fill:var(--cb)} .map path.c{fill-opacity:.42}
+.map .frame{fill:none;stroke:var(--ink-2);stroke-width:1px;pointer-events:none}
+.main path{cursor:pointer}
+.main path:hover{stroke:var(--ink);stroke-width:1.2px}
+.main path.sel{stroke:var(--ink);stroke-width:2.2px}
+
+.detail{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);gap:20px;align-items:start}
+.info{background:var(--bg);border-radius:10px;padding:16px 18px;display:grid;gap:10px;min-height:150px}
+.info .ie{margin:0;font-size:11px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.info h3{font-size:20px;font-weight:800}
+.irow{display:grid;grid-template-columns:92px minmax(0,1fr) auto;gap:10px;align-items:center;font-size:14px}
+.irow .t{height:10px;border-radius:3px;background:var(--chip);overflow:hidden}
+.irow .t span{display:block;height:100%}
+.irow .v{font-weight:600;white-space:nowrap}
+.irow .v small{font-weight:400;color:var(--muted);margin-left:6px}
+.rep{font-size:13px;color:var(--muted);margin:0}
+.flag{margin:0;font-size:13px;line-height:1.5;padding:10px 12px;border-radius:8px;border:1px solid var(--line);background:var(--surface);color:var(--ink-2)}
+.flag b{color:var(--ink)}
+.side{display:grid;gap:16px}
+.legend{display:grid;gap:8px;font-size:13px;color:var(--ink-2)}
+.legend div{display:flex;align-items:center;gap:8px}
+.legend .sq{width:12px;height:12px}
+.sq.yc{background:var(--ca);opacity:.42} .sq.nc{background:var(--cb);opacity:.42}
+label.find{display:grid;gap:6px;font-size:12px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+select{font:inherit;font-size:15px;letter-spacing:0;text-transform:none;font-weight:400;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:9px 10px;width:100%}
+
+.sec{padding-block:44px 0}
+.sec > h2{font-size:24px;font-weight:800;letter-spacing:-.01em;margin-bottom:6px}
+.sec > .sub{margin:0 0 18px;font-family:var(--f-body);font-size:16px;color:var(--ink-2);max-width:66ch}
+.glance{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}
+.mini{display:grid;gap:8px;text-align:left;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px;cursor:pointer;min-width:0}
+.mini:hover{border-color:var(--ink-2)}
+.mini[aria-pressed="true"]{border-color:var(--ink);box-shadow:inset 0 0 0 1px var(--ink)}
+.mini .mh{font-size:13px;font-weight:600;line-height:1.3}
+.mini .mh span{color:var(--muted);font-weight:600;margin-right:4px}
+.mini .mr{font-size:12.5px;color:var(--ink-2);display:flex;align-items:center;gap:6px}
+.mm{display:grid;grid-template-columns:0.564fr 0.683fr 0.788fr;gap:6px;align-items:end}
+.mm .map path{stroke-width:.35px}
+
+.notes{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:28px;font-family:var(--f-body);font-size:15.5px;line-height:1.6;color:var(--ink-2)}
+.notes h3{font-family:var(--f-head);font-size:15px;font-weight:800;color:var(--ink);margin-bottom:6px}
+.notes p,.notes ul{margin:0 0 10px}
+.notes ul{padding-left:18px}
+.notes a{color:var(--ink);text-underline-offset:2px}
+footer{padding-block:40px 48px;font-size:13px;color:var(--muted);border-top:1px solid var(--line);margin-top:44px;display:grid;gap:4px}
+footer a{color:var(--ink-2)}
+
+@media (max-width:760px){
+  .hdr{padding-block:28px 14px}
+  .dek{font-size:16.5px}
+  .picker{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .panel{padding:16px;gap:18px}
+  .maps{grid-template-columns:1.541fr 1fr;grid-template-rows:auto auto;gap:10px 12px;align-items:start}
+  .maps .m-ab{grid-row:span 2}
+  .detail{grid-template-columns:minmax(0,1fr)}
+  .barlab b{font-size:17px}
+  .irow{grid-template-columns:78px minmax(0,1fr) auto}
+  .glance{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+  .mini{padding:10px}
+}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+</style>
+</head>
+<body>
+<header class="wrap hdr">
+  <p class="eyebrow">Alberta referendum · Monday, October 19, 2026</p>
+  <h1>How Alberta's 87 divisions voted, question by question</h1>
+  <p class="dek">Pick any of the 10 referendum questions to see which side leads in every electoral division. Edmonton and Calgary are drawn at their own scale so all 46 city divisions are visible.</p>
+  <p class="byline"><span>By <b>Fahad Bin Gias</b></span><span class="live" id="live"><i aria-hidden="true"></i><span id="livetext">Live</span></span><span>Unofficial count as of <time id="asof" class="tnum">…</time></span><span id="reporting" class="tnum"></span></p>
+</header>
+
+<main class="wrap">
+  <nav class="picker" id="picker" aria-label="Choose a referendum question"></nav>
+
+  <section class="panel" id="panel" aria-live="polite">
+    <p class="status" id="status">Loading the latest results…</p>
+    <div class="qhead">
+      <p class="qnum" id="qnum"></p>
+      <h2 id="qshort"></h2>
+      <p class="qtext" id="qtext"></p>
+    </div>
+    <div class="res">
+      <div class="bar" id="bar" role="img" aria-label="Province-wide result"><div class="seg a" id="segA"></div><div class="seg b" id="segB"></div><span class="half" aria-hidden="true"></span></div>
+      <div class="barlab tnum"><span id="labA"></span><span class="r" id="labB"></span></div>
+      <p class="led tnum" id="led"></p>
+    </div>
+    <div class="maps">
+      <div class="m-ab"><p class="mlab">Alberta</p><svg class="map main" id="mP" viewBox="-2 -2 352 621" role="img" aria-label="Map of Alberta's electoral divisions"></svg></div>
+      <div><p class="mlab">Edmonton</p><svg class="map main" id="mE" viewBox="-2 -2 295 430" role="img" aria-label="Map of Edmonton's electoral divisions"></svg></div>
+      <div><p class="mlab">Calgary</p><svg class="map main" id="mC" viewBox="-2 -2 328 415" role="img" aria-label="Map of Calgary's electoral divisions"></svg></div>
+    </div>
+    <div class="detail">
+      <div class="info" id="info"></div>
+      <div class="side">
+        <div class="legend" id="legend"></div>
+        <label class="find" for="ed-select">Find a division
+          <select id="ed-select"><option value="">Choose from all 87</option></select>
+        </label>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec" aria-labelledby="g-h">
+    <h2 id="g-h">All 10 questions at a glance</h2>
+    <p class="sub">Every question side by side. On Question 10, red marks Remain. Outside Question 10, rural Alberta leans Yes almost everywhere, while Edmonton and Calgary are split or lean No. Select a card to open that question above.</p>
+    <div class="glance" id="glance"></div>
+  </section>
+
+  <section class="sec" aria-labelledby="n-h">
+    <h2 id="n-h">About these numbers</h2>
+    <div class="notes">
+      <div>
+        <h3>Reading the map</h3>
+        <p>Each shape is one of Alberta's 87 provincial electoral divisions. Its colour shows which side is ahead there: blue for Yes and red for No, and on Question 10, red for Remain and blue for Referendum. A lighter shade means the lead is under 5 percentage points. Grey means no votes have been reported yet for that question.</p>
+        <p>Map area is not population. The large rural divisions fill most of the Alberta map, while the 46 Edmonton and Calgary divisions hold roughly half the province's voters.</p>
+      </div>
+      <div>
+        <h3>Where the count stands</h3>
+        <p>These are Elections Alberta's unofficial results, still being hand-counted. Question 10 was counted first and Questions 1 to 9 follow in order, so the later questions have fewer votes counted and can still shift. Official results are scheduled for October 29, 2026.</p>
+        <p>This page picks up new numbers automatically. A script checks Elections Alberta's results feed every 15 minutes, and the page looks for an update every 5 minutes while it is open.</p>
+        <p id="partial"></p>
+      </div>
+      <div>
+        <h3>Data checks</h3>
+        <p>A question's vote total in a division should not be higher than the number of ballots counted there on Question 10. Figures that break that rule are shown exactly as published and flagged on the map:</p>
+        <ul id="flags"></ul>
+      </div>
+      <div>
+        <h3>Sources</h3>
+        <ul>
+          <li><a href="https://results.elections.ab.ca/8400">Elections Alberta, 2026 Referendum unofficial results</a></li>
+          <li><a href="https://geospatial.alberta.ca/titan/rest/services/boundary/goa_administrative_area_10tm_nad83_aep/MapServer/3">Government of Alberta, Provincial Electoral Divisions (2019 boundaries)</a></li>
+          <li><a href="data/results.csv">Download the results by division (CSV)</a></li>
+        </ul>
+        <p>Boundaries are simplified for display. Percentages are each side's share of valid votes on that question.</p>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="wrap">
+  <span>Independent analysis by Fahad Bin Gias (<a href="https://www.linkedin.com/in/fahadbingias">LinkedIn</a>). Not affiliated with Elections Alberta or the Government of Alberta.</span>
+  <span>Code and data: <a href="https://github.com/YOUR-GITHUB-USERNAME/alberta-referendum-maps">GitHub</a></span>
+</footer>
+
+<script>
+(function(){
+  var NS = 'http://www.w3.org/2000/svg', CHECK_EVERY_MS = 5 * 60 * 1000;
+  var G = null, R = null, cur = 10, sel = null, mainEls = {}, flagMap = {};
+  var $ = function(id){ return document.getElementById(id); };
+  var fmt = function(n){ return n.toLocaleString('en-CA'); };
+  var pc = function(a, t){ return (100 * a / t).toFixed(1); };
+  var timeFmt = new Intl.DateTimeFormat('en-CA', {timeZone: 'America/Edmonton', month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit'});
+
+  function load(path){
+    return fetch(path + '?t=' + Date.now(), {cache: 'no-store'}).then(function(r){
+      if (!r.ok) throw new Error(path + ' returned ' + r.status);
+      return r.json();
+    });
+  }
+
+  function v(q, ed){ return R.questions[q].votes[ed]; }
+  function cls(q, ed){
+    var x = v(q, ed), t = x[0] + x[1];
+    if (!t) return 'z';
+    return (x[0] >= x[1] ? 'y' : 'n') + (Math.abs(x[0] - x[1]) / t < 0.05 ? ' c' : '');
+  }
+  function totals(q){
+    var o = {a:0, b:0, wa:0, wb:0, z:0};
+    for (var e = 1; e <= 87; e++){
+      var x = v(q, e); o.a += x[0]; o.b += x[1];
+      if (!(x[0] + x[1])) o.z++; else if (x[0] >= x[1]) o.wa++; else o.wb++;
+    }
+    return o;
+  }
+  function closest(q){
+    var best = null, bm = 2;
+    for (var e = 1; e <= 87; e++){
+      var x = v(q, e), t = x[0] + x[1];
+      if (t < 500) continue;
+      var m = Math.abs(x[0] - x[1]) / t;
+      if (m < bm){ bm = m; best = e; }
+    }
+    return best;
+  }
+
+  function draw(svgs, interactive){
+    var els = {};
+    function add(svg, d, ed){
+      var p = document.createElementNS(NS, 'path');
+      p.setAttribute('d', d); p.setAttribute('fill-rule', 'evenodd'); p.setAttribute('vector-effect', 'non-scaling-stroke');
+      if (interactive) p.addEventListener('click', function(){ pick(ed); });
+      svg.appendChild(p); (els[ed] = els[ed] || []).push(p);
+    }
+    for (var k in G.f){
+      var ed = +k, g = G.f[k];
+      add(svgs[0], g[0], ed);
+      if (g[1]) add(ed <= 26 ? svgs[2] : svgs[1], g[1], ed);
+    }
+    [[206,353,18,25],[188,492,19,24]].forEach(function(r){
+      var f = document.createElementNS(NS, 'rect');
+      f.setAttribute('x', r[0]); f.setAttribute('y', r[1]); f.setAttribute('width', r[2]); f.setAttribute('height', r[3]);
+      f.setAttribute('class', 'frame'); f.setAttribute('vector-effect', 'non-scaling-stroke');
+      svgs[0].appendChild(f);
+    });
+    return els;
+  }
+  function paint(els, q){
+    for (var ed in els){
+      var c = cls(q, ed) + (els === mainEls && sel === +ed ? ' sel' : '');
+      els[ed].forEach(function(p){ p.setAttribute('class', c); });
+    }
+  }
+
+  function leaderLine(q){
+    var Q = R.questions[q], t = totals(q), T = t.a + t.b, aw = t.a >= t.b;
+    return {side: aw ? Q.a : Q.b, pct: T ? pc(aw ? t.a : t.b, T) : '0.0', y: aw, won: aw ? t.wa : t.wb};
+  }
+
+  function buildPicker(){
+    var nav = $('picker'); nav.innerHTML = '';
+    R.order.forEach(function(q){
+      var Q = R.questions[q], L = leaderLine(q), b = document.createElement('button');
+      b.className = 'pk' + (q === 10 ? ' swap' : ''); b.type = 'button'; b.id = 'pick-q' + q; b.dataset.q = q;
+      b.innerHTML = '<span class="pq">Question ' + q + '</span><span class="ps"></span><span class="pr tnum"><span class="sq ' + (L.y ? 'y' : 'n') + '"></span><span></span></span>';
+      b.querySelector('.ps').textContent = Q.short;
+      b.querySelector('.pr span:last-child').textContent = L.side + ' ' + L.pct + '%';
+      b.addEventListener('click', function(){ render(q); });
+      nav.appendChild(b);
+    });
+  }
+
+  function buildGlance(){
+    var box = $('glance'); box.innerHTML = '';
+    R.order.forEach(function(q){
+      var Q = R.questions[q], L = leaderLine(q), b = document.createElement('button');
+      b.className = 'mini' + (q === 10 ? ' swap' : ''); b.type = 'button'; b.dataset.q = q;
+      b.innerHTML = '<div class="mh"><span>Q' + q + '</span></div><div class="mr tnum"><span class="sq ' + (L.y ? 'y' : 'n') + '"></span><span></span></div>' +
+        '<div class="mm"><svg class="map" viewBox="-2 -2 352 621" aria-hidden="true"></svg><svg class="map" viewBox="-2 -2 295 430" aria-hidden="true"></svg><svg class="map" viewBox="-2 -2 328 415" aria-hidden="true"></svg></div>';
+      b.querySelector('.mh').appendChild(document.createTextNode(Q.short));
+      b.querySelector('.mr span:last-child').textContent = L.side + ' ' + L.pct + '% · leads ' + L.won + ' of 87';
+      b.setAttribute('aria-label', 'Question ' + q + ', ' + Q.short + ': ' + L.side + ' ' + L.pct + ' percent');
+      var s = b.querySelectorAll('svg');
+      paint(draw([s[0], s[1], s[2]], false), q);
+      b.addEventListener('click', function(){
+        render(q);
+        var reduce = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
+        $('panel').scrollIntoView({behavior: reduce ? 'auto' : 'smooth', block: 'start'});
+      });
+      box.appendChild(b);
+    });
+  }
+
+  function buildSelect(){
+    var s = $('ed-select');
+    R.names.forEach(function(n, i){
+      var o = document.createElement('option'); o.value = i + 1;
+      o.textContent = String(i + 1).padStart(2, '0') + ' · ' + n; s.appendChild(o);
+    });
+    s.addEventListener('change', function(){ if (s.value) pick(+s.value); });
+  }
+
+  function row(label, n, t, color, win){
+    var d = document.createElement('div'); d.className = 'irow tnum';
+    var p = t ? pc(n, t) : '0.0';
+    d.innerHTML = '<span></span><span class="t"><span style="width:' + p + '%;background:var(' + color + ');opacity:' + (win ? 1 : .4) + '"></span></span><span class="v"></span>';
+    d.children[0].textContent = label;
+    d.children[2].textContent = p + '%';
+    var sm = document.createElement('small'); sm.textContent = fmt(n); d.children[2].appendChild(sm);
+    return d;
+  }
+
+  function info(){
+    var Q = R.questions[cur], ed = sel, pinned = !!sel, box = $('info');
+    if (!ed) ed = closest(cur);
+    box.innerHTML = '';
+    if (!ed){ box.textContent = 'Select a division on the map.'; return; }
+    var x = v(cur, ed), t = x[0] + x[1], pr = R.polls[ed] || [0, 0];
+    var e = document.createElement('p'); e.className = 'ie';
+    e.textContent = pinned ? 'Division ' + String(ed).padStart(2, '0') : 'Closest race on this question';
+    var h = document.createElement('h3'); h.textContent = R.names[ed - 1];
+    box.appendChild(e); box.appendChild(h);
+    if (t){
+      box.appendChild(row(Q.a, x[0], t, '--ca', x[0] >= x[1]));
+      box.appendChild(row(Q.b, x[1], t, '--cb', x[1] > x[0]));
+      var m = document.createElement('p'); m.className = 'rep tnum';
+      var lead = Math.abs(x[0] - x[1]);
+      m.textContent = (x[0] === x[1] ? 'Tied' : (x[0] > x[1] ? Q.a : Q.b) + ' ahead by ' + fmt(lead) + ' votes (' + (100 * lead / t).toFixed(1) + ' points)') + ' · ' + pr[0] + ' of ' + pr[1] + ' voting areas reporting';
+      box.appendChild(m);
+    } else {
+      var z = document.createElement('p'); z.className = 'rep';
+      z.textContent = 'No votes reported yet for this question · ' + pr[0] + ' of ' + pr[1] + ' voting areas reporting';
+      box.appendChild(z);
+    }
+    var f = flagMap[cur + '-' + ed];
+    if (f){
+      var fl = document.createElement('p'); fl.className = 'flag tnum';
+      fl.innerHTML = '<b>Data check:</b> ';
+      fl.appendChild(document.createTextNode(fmt(f.total) + ' votes are recorded on this question here, but only ' + fmt(f.ballots) + ' ballots have been counted on Question 10. The unofficial feed likely has an entry error or a reporting lag. Shown as published.'));
+      box.appendChild(fl);
+    }
+    if (!pinned){
+      var hint = document.createElement('p'); hint.className = 'rep';
+      hint.textContent = 'Select any division on the map, or use the list, to see its numbers.';
+      box.appendChild(hint);
+    }
+  }
+
+  function legend(){
+    var Q = R.questions[cur], L = $('legend');
+    L.innerHTML = '';
+    [['y', Q.a + ' leads'], ['n', Q.b + ' leads'], ['yc', 'Lighter shade: lead under 5 points'], ['z', 'No votes reported yet']].forEach(function(r){
+      var d = document.createElement('div');
+      d.innerHTML = '<span class="sq ' + r[0] + '"></span>' + (r[0] === 'yc' ? '<span class="sq nc" style="margin-left:-5px"></span>' : '') + '<span></span>';
+      d.lastChild.textContent = r[1]; L.appendChild(d);
+    });
+  }
+
+  function pick(ed){
+    if (sel && mainEls[sel]) mainEls[sel].forEach(function(p){ p.classList.remove('sel'); });
+    sel = ed;
+    mainEls[ed].forEach(function(p){ p.classList.add('sel'); p.parentNode.appendChild(p); });
+    $('ed-select').value = ed;
+    info();
+  }
+
+  function render(q){
+    cur = q;
+    $('panel').classList.toggle('swap', q === 10);
+    var Q = R.questions[q], t = totals(q), T = t.a + t.b, aw = t.a >= t.b;
+    $('qnum').textContent = 'Question ' + q;
+    $('qshort').textContent = Q.short;
+    $('qtext').textContent = Q.text;
+    var pa = T ? 100 * t.a / T : 50, pb = 100 - pa;
+    $('segA').style.width = pa + '%'; $('segB').style.width = pb + '%';
+    $('segA').className = 'seg a' + (aw ? '' : ' lose'); $('segB').className = 'seg b' + (aw ? ' lose' : '');
+    $('bar').setAttribute('aria-label', Q.a + ' ' + pa.toFixed(1) + ' percent, ' + Q.b + ' ' + pb.toFixed(1) + ' percent');
+    function lab(el, name, p, n){
+      el.innerHTML = '';
+      el.appendChild(document.createTextNode(name));
+      var b = document.createElement('b'); b.textContent = p.toFixed(1) + '%'; el.appendChild(b);
+      el.appendChild(document.createTextNode(fmt(n)));
+    }
+    lab($('labA'), Q.a, pa, t.a); lab($('labB'), Q.b, pb, t.b);
+    var led = $('led'); led.innerHTML = '';
+    function bit(txt, bold){ var s = document.createElement(bold ? 'b' : 'span'); s.textContent = txt; led.appendChild(s); }
+    bit(Q.a + ' leads in '); bit(t.wa, true); bit(' divisions · ' + Q.b + ' in '); bit(t.wb, true);
+    bit(t.z ? ' · ' + t.z + ' not reported yet' : '');
+    bit(' · ' + fmt(T) + ' votes counted on this question');
+    paint(mainEls, q);
+    document.querySelectorAll('.pk,.mini').forEach(function(b){ b.setAttribute('aria-pressed', +b.dataset.q === q ? 'true' : 'false'); });
+    legend(); info();
+    try { history.replaceState(null, '', '#q' + q); } catch (e) {}
+  }
+
+  function statusText(){
+    var done = R.pollsReporting >= R.totalPolls;
+    $('live').classList.toggle('done', done);
+    $('livetext').textContent = done ? 'All voting areas reported' : 'Live';
+    $('asof').textContent = timeFmt.format(new Date(R.updated)) + ' MT';
+    $('asof').setAttribute('datetime', R.updated);
+    $('reporting').textContent = fmt(R.pollsReporting) + ' of ' + fmt(R.totalPolls) + ' voting areas reporting (' + (100 * R.pollsReporting / R.totalPolls).toFixed(1) + '%)';
+    var low = [];
+    for (var e = 1; e <= 87; e++){ var p = R.polls[e]; if (p && p[0] / p[1] < 0.5) low.push(R.names[e - 1] + ' (' + p[0] + ' of ' + p[1] + ')'); }
+    $('partial').textContent = low.length ? 'Divisions with fewer than half their voting areas in, where colours are most likely to change: ' + low.join(', ') + '.' : '';
+    var ul = $('flags'); ul.innerHTML = '';
+    R.flags.forEach(function(f){
+      var li = document.createElement('li'); li.className = 'tnum';
+      li.textContent = R.names[f.ed - 1] + ', Question ' + f.q + ': ' + fmt(f.total) + ' votes recorded against ' + fmt(f.ballots) + ' Question 10 ballots.';
+      ul.appendChild(li);
+    });
+    if (!R.flags.length){ var ok = document.createElement('li'); ok.textContent = 'None in the latest data.'; ul.appendChild(ok); }
+  }
+
+  function setData(res){
+    R = res; flagMap = {};
+    R.flags.forEach(function(f){ flagMap[f.q + '-' + f.ed] = f; });
+  }
+
+  function checkForUpdate(){
+    if (document.hidden) return;
+    load('data/results.json').then(function(res){
+      if (res.updated === R.updated && res.pollsReporting === R.pollsReporting) return;
+      setData(res); buildPicker(); buildGlance(); statusText(); render(cur);
+      var a = $('asof'); a.classList.add('fresh'); setTimeout(function(){ a.classList.remove('fresh'); }, 2500);
+    }).catch(function(){ /* keep showing the last numbers */ });
+  }
+
+  Promise.all([load('data/geometry.json'), load('data/results.json')]).then(function(x){
+    G = x[0]; setData(x[1]);
+    $('status').hidden = true;
+    mainEls = draw([$('mP'), $('mE'), $('mC')], true);
+    buildSelect(); buildPicker(); buildGlance(); statusText();
+    var h = (location.hash || '').match(/^#q(\d+)$/);
+    render(h && R.questions[h[1]] ? +h[1] : 10);
+    setInterval(checkForUpdate, CHECK_EVERY_MS);
+    document.addEventListener('visibilitychange', checkForUpdate);
+  }).catch(function(err){
+    $('status').textContent = 'The results could not be loaded (' + err.message + '). Refresh the page to try again.';
+  });
+})();
+</script>
+</body>
+</html>
