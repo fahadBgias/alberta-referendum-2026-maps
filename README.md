@@ -51,13 +51,6 @@ python -m http.server 8000               # then open http://localhost:8000
 
 Python 3.10+ with the standard library only. No packages to install.
 
-## Set up your own copy
-
-1. Push this folder to a public GitHub repository named `alberta-referendum-maps`.
-2. In the repo: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
-3. **Actions → Update results → Run workflow** to publish the first version. After that it runs every 15 minutes.
-4. Replace `YOUR-GITHUB-USERNAME` in `index.html` and this README with your GitHub username, so link previews on LinkedIn show `preview.png`.
-5. When counting is finished, disable the workflow: **Actions → Update results → ⋯ → Disable workflow**.
 
 ## Sources
 
