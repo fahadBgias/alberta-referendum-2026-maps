@@ -8,8 +8,8 @@
 <meta property="og:type" content="website">
 <meta property="og:title" content="How Alberta's 87 divisions voted on all 10 referendum questions">
 <meta property="og:description" content="Interactive maps of the 2026 Alberta referendum by electoral division, updated from Elections Alberta's unofficial results.">
-<meta property="og:url" content="https://YOUR-GITHUB-USERNAME.github.io/alberta-referendum-maps/">
-<meta property="og:image" content="https://YOUR-GITHUB-USERNAME.github.io/alberta-referendum-maps/preview.png">
+<meta property="og:url" content="https://fahadbgias.github.io/alberta-referendum-2026-maps/">
+<meta property="og:image" content="https://fahadbgias.github.io/alberta-referendum-2026-maps/preview.png">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -41,8 +41,8 @@ button{font:inherit;color:inherit}
 
 .hdr{padding-block:40px 20px;display:grid;gap:12px}
 .eyebrow{margin:0;font-size:12px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-2)}
-h1{font-size:clamp(28px,4.2vw,46px);line-height:1.08;font-weight:800;letter-spacing:-.015em;max-width:20ch}
-.dek{margin:0;font-family:var(--f-body);font-size:18px;line-height:1.55;color:var(--ink-2);max-width:62ch}
+h1{font-size:clamp(28px,3.6vw,42px);line-height:1.08;font-weight:800;letter-spacing:-.015em}
+.dek{margin:0;font-family:var(--f-body);font-size:18px;line-height:1.55;color:var(--ink-2)}
 .byline{margin:4px 0 0;font-size:13px;color:var(--muted);display:flex;flex-wrap:wrap;gap:4px 14px;align-items:center}
 .byline b{color:var(--ink);font-weight:600}
 .live{display:inline-flex;align-items:center;gap:6px;font-weight:600;color:var(--ink-2)}
@@ -69,7 +69,7 @@ h1{font-size:clamp(28px,4.2vw,46px);line-height:1.08;font-weight:800;letter-spac
 .qhead{display:grid;gap:6px}
 .qnum{margin:0;font-size:12px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
 .qhead h2{font-size:clamp(22px,2.6vw,30px);font-weight:800;letter-spacing:-.01em}
-.qtext{margin:0;font-family:var(--f-body);font-size:16px;line-height:1.55;color:var(--ink-2);max-width:78ch}
+.qtext{margin:0;font-family:var(--f-body);font-size:16px;line-height:1.55;color:var(--ink-2)}
 
 .res{display:grid;gap:8px}
 .bar{position:relative;display:flex;gap:2px;height:22px;border-radius:5px;overflow:hidden}
@@ -114,7 +114,7 @@ select{font:inherit;font-size:15px;letter-spacing:0;text-transform:none;font-wei
 
 .sec{padding-block:44px 0}
 .sec > h2{font-size:24px;font-weight:800;letter-spacing:-.01em;margin-bottom:6px}
-.sec > .sub{margin:0 0 18px;font-family:var(--f-body);font-size:16px;color:var(--ink-2);max-width:66ch}
+.sec > .sub{margin:0 0 18px;font-family:var(--f-body);font-size:16px;color:var(--ink-2)}
 .glance{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}
 .mini{display:grid;gap:8px;text-align:left;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px;cursor:pointer;min-width:0}
 .mini:hover{border-color:var(--ink-2)}
@@ -125,14 +125,31 @@ select{font:inherit;font-size:15px;letter-spacing:0;text-transform:none;font-wei
 .mm{display:grid;grid-template-columns:0.564fr 0.683fr 0.788fr;gap:6px;align-items:end}
 .mm .map path{stroke-width:.35px}
 
-.notes{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:28px;font-family:var(--f-body);font-size:15.5px;line-height:1.6;color:var(--ink-2)}
-.notes h3{font-family:var(--f-head);font-size:15px;font-weight:800;color:var(--ink);margin-bottom:6px}
-.notes p,.notes ul{margin:0 0 10px}
-.notes ul{padding-left:18px}
+.notes{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:32px;align-items:start;font-family:var(--f-body);font-size:15.5px;line-height:1.6;color:var(--ink-2)}
+.notes > div{min-width:0}
+.notes h3{font-family:var(--f-head);font-size:15px;line-height:1.5;font-weight:800;color:var(--ink);margin:0 0 6px}
+.notes h3 .cnt{font-size:13px;font-weight:600;color:var(--muted);margin-left:6px}
+.notes p{margin:0 0 10px}
+.notes p:last-child{margin-bottom:0}
 .notes a{color:var(--ink);text-underline-offset:2px}
-footer{padding-block:40px 48px;font-size:13px;color:var(--muted);border-top:1px solid var(--line);margin-top:44px;display:grid;gap:4px}
-footer a{color:var(--ink-2)}
+.flagbox{max-height:300px;overflow:auto;margin-top:12px;border:1px solid var(--line);border-radius:8px;background:var(--surface)}
+.flagbox.more{-webkit-mask-image:linear-gradient(#000 78%,transparent);mask-image:linear-gradient(#000 78%,transparent)}
+.flagbox table{width:100%;border-collapse:collapse;font-family:var(--f-head);font-size:13px;line-height:1.35;color:var(--ink-2)}
+.flagbox thead th{position:sticky;top:0;z-index:1;background:var(--surface);font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);text-align:right;padding:8px 10px;border-bottom:1px solid var(--line);white-space:nowrap}
+.flagbox td,.flagbox tbody th{padding:7px 10px;border-bottom:1px solid var(--line);text-align:right;vertical-align:top;white-space:nowrap}
+.flagbox thead th:first-child,.flagbox tbody th{text-align:left}
+.flagbox tbody th{font-weight:600;color:var(--ink);white-space:normal}
+.flagbox tbody tr:last-child > *{border-bottom:0}
+footer{padding-block:28px 48px;font-size:13px;line-height:1.55;color:var(--muted);border-top:1px solid var(--line);margin-top:40px;display:grid;gap:6px}
+footer p{margin:0}
+footer .by{font-size:14px;color:var(--ink-2)}
+footer .by b{color:var(--ink);font-weight:600}
+footer a{color:var(--ink-2);text-underline-offset:2px}
+footer.wrap{margin-top:40px}
 
+@media (max-width:900px){
+  .notes{grid-template-columns:minmax(0,1fr);gap:24px}
+}
 @media (max-width:760px){
   .hdr{padding-block:28px 14px}
   .dek{font-size:16.5px}
@@ -145,6 +162,10 @@ footer a{color:var(--ink-2)}
   .irow{grid-template-columns:78px minmax(0,1fr) auto}
   .glance{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
   .mini{padding:10px}
+}
+@media (max-width:400px){
+  .flagbox td,.flagbox th{padding-inline:6px}
+  .flagbox thead th{white-space:normal;vertical-align:bottom}
 }
 @media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
 </style>
@@ -209,26 +230,24 @@ footer a{color:var(--ink-2)}
         <p id="partial"></p>
       </div>
       <div>
-        <h3>Data checks</h3>
-        <p>A question's vote total in a division should not be higher than the number of ballots counted there on Question 10. Figures that break that rule are shown exactly as published and flagged on the map:</p>
-        <ul id="flags"></ul>
-      </div>
-      <div>
-        <h3>Sources</h3>
-        <ul>
-          <li><a href="https://results.elections.ab.ca/8400">Elections Alberta, 2026 Referendum unofficial results</a></li>
-          <li><a href="https://geospatial.alberta.ca/titan/rest/services/boundary/goa_administrative_area_10tm_nad83_aep/MapServer/3">Government of Alberta, Provincial Electoral Divisions (2019 boundaries)</a></li>
-          <li><a href="data/results.csv">Download the results by division (CSV)</a></li>
-        </ul>
-        <p>Boundaries are simplified for display. Percentages are each side's share of valid votes on that question.</p>
+        <h3>Data checks<span class="cnt tnum" id="flagcount"></span></h3>
+        <p>A question's vote total in a division should not be higher than the number of ballots counted there on Question 10. Figures that break that rule are shown exactly as published and flagged on the map.</p>
+        <p id="noflags" hidden>None in the latest data.</p>
+        <div class="flagbox" id="flagbox" tabindex="0" role="region" aria-label="Flagged figures, scrollable">
+          <table class="tnum">
+            <thead><tr><th scope="col">Division</th><th scope="col">Q</th><th scope="col">Votes</th><th scope="col">Q10 ballots</th></tr></thead>
+            <tbody id="flags"></tbody>
+          </table>
+        </div>
       </div>
     </div>
   </section>
 </main>
 
 <footer class="wrap">
-  <span>Independent analysis by Fahad Bin Gias (<a href="https://www.linkedin.com/in/fahadbingias">LinkedIn</a>). Not affiliated with Elections Alberta or the Government of Alberta.</span>
-  <span>Code and data: <a href="https://github.com/YOUR-GITHUB-USERNAME/alberta-referendum-maps">GitHub</a></span>
+  <p class="by">Independent analysis by <b>Fahad Bin Gias</b> (<a href="https://www.linkedin.com/in/fahadbingias">LinkedIn</a>). Not affiliated with Elections Alberta or the Government of Alberta.</p>
+  <p>Code and data: <a href="https://github.com/fahadBgias/alberta-referendum-2026-maps">GitHub</a> · <a href="data/results.csv">Download the results by division (CSV)</a></p>
+  <p>Sources: <a href="https://results.elections.ab.ca/8400">Elections Alberta, 2026 Referendum unofficial results</a> · <a href="https://geospatial.alberta.ca/titan/rest/services/boundary/goa_administrative_area_10tm_nad83_aep/MapServer/3">Government of Alberta, Provincial Electoral Divisions (2019 boundaries)</a>. Boundaries are simplified for display. Percentages are each side's share of valid votes on that question.</p>
 </footer>
 
 <script>
@@ -451,13 +470,24 @@ footer a{color:var(--ink-2)}
     var low = [];
     for (var e = 1; e <= 87; e++){ var p = R.polls[e]; if (p && p[0] / p[1] < 0.5) low.push(R.names[e - 1] + ' (' + p[0] + ' of ' + p[1] + ')'); }
     $('partial').textContent = low.length ? 'Divisions with fewer than half their voting areas in, where colours are most likely to change: ' + low.join(', ') + '.' : '';
-    var ul = $('flags'); ul.innerHTML = '';
+    var tb = $('flags'), n = R.flags.length; tb.innerHTML = '';
     R.flags.forEach(function(f){
-      var li = document.createElement('li'); li.className = 'tnum';
-      li.textContent = R.names[f.ed - 1] + ', Question ' + f.q + ': ' + fmt(f.total) + ' votes recorded against ' + fmt(f.ballots) + ' Question 10 ballots.';
-      ul.appendChild(li);
+      var tr = document.createElement('tr');
+      [R.names[f.ed - 1], f.q, fmt(f.total), fmt(f.ballots)].forEach(function(t, i){
+        var c = document.createElement(i ? 'td' : 'th');
+        if (!i) c.scope = 'row';
+        c.textContent = t; tr.appendChild(c);
+      });
+      tb.appendChild(tr);
     });
-    if (!R.flags.length){ var ok = document.createElement('li'); ok.textContent = 'None in the latest data.'; ul.appendChild(ok); }
+    $('flagcount').textContent = n ? n + ' flagged' : '';
+    $('flagbox').hidden = !n; $('noflags').hidden = !!n;
+    fadeFlags();
+  }
+
+  function fadeFlags(){
+    var b = $('flagbox');
+    b.classList.toggle('more', b.scrollTop + b.clientHeight < b.scrollHeight - 4);
   }
 
   function setData(res){
@@ -481,6 +511,8 @@ footer a{color:var(--ink-2)}
     buildSelect(); buildPicker(); buildGlance(); statusText();
     var h = (location.hash || '').match(/^#q(\d+)$/);
     render(h && R.questions[h[1]] ? +h[1] : 10);
+    $('flagbox').addEventListener('scroll', fadeFlags, {passive: true});
+    window.addEventListener('resize', fadeFlags);
     setInterval(checkForUpdate, CHECK_EVERY_MS);
     document.addEventListener('visibilitychange', checkForUpdate);
   }).catch(function(err){
