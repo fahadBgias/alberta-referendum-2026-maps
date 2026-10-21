@@ -2,7 +2,7 @@
 
 Live, interactive maps of the October 19, 2026 Alberta referendum: which side leads in each of the province's 87 electoral divisions, on all 10 questions.
 
-**Live site:** https://YOUR-GITHUB-USERNAME.github.io/alberta-referendum-maps/
+**Live site:** https://fahadbgias.github.io/alberta-referendum-maps/
 
 ![All 10 questions mapped by electoral division](preview.png)
 
