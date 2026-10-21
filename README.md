@@ -27,7 +27,7 @@ flowchart LR
 
 Elections Alberta's results page loads its numbers from a JSON feed (`/data/8400?questions=N`). That feed can't be read directly from another website's page, so a scheduled GitHub Actions workflow reads it on GitHub's servers instead:
 
-1. `scripts/fetch_results.py` downloads the division-level results for each question. If the feed's data version changes (it did on referendum night), the script reads the current version and question IDs from the results page and tries again.
+1. `scripts/fetch_results.py` downloads the division-level results for each question. If the feed's data version changes (it did during the count), the script reads the current version and question IDs from the results page and tries again.
 2. It checks the data (below) and writes `data/results.json`, `data/results.csv` and a running `data/history.csv`.
 3. If the count moved, the workflow commits the new files and republishes the site. If nothing changed, it does nothing.
 
@@ -39,7 +39,7 @@ The boundaries come from the Government of Alberta's map service. `scripts/build
 
 - **Completeness:** every question must have all 87 divisions, or the run fails and the previous data stays up.
 - **Totals:** the divisions must add up to the feed's own province-wide totals. A mismatch is logged as a warning.
-- **Impossible counts:** in each division, a question's total votes should not be higher than the ballots counted there on Question 10, which was counted first. Divisions that break this rule are flagged on the map and in the CSV, and shown exactly as published. On referendum night this caught Calgary-Varsity on Question 1 (48,256 votes against 20,288 Question 10 ballots) and Grande Prairie-Wapiti on Questions 4 to 7.
+- **Impossible counts:** in each division, a question's total votes should not be higher than the ballots counted there on Question 10, which was counted first. Divisions that break this rule are flagged on the map and in the CSV, and shown exactly as published. During the count this caught Calgary-Varsity on Question 1 (48,256 votes against 20,288 Question 10 ballots) and Grande Prairie-Wapiti on Questions 4 to 7.
 
 ## Run it yourself
 
@@ -50,7 +50,6 @@ python -m http.server 8000               # then open http://localhost:8000
 ```
 
 Python 3.10+ with the standard library only. No packages to install.
-
 
 ## Sources
 

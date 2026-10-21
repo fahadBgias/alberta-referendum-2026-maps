@@ -1,15 +1,12 @@
 # Every 15 minutes: pull the latest unofficial results, commit them if the count moved,
-# and publish the site to GitHub Pages. Also publishes whenever you push a change to main.
-#
-# One-time setup: Settings -> Pages -> Build and deployment -> Source: "GitHub Actions".
-# To stop the updates once counting is over: Actions -> "Update results" -> "..." -> Disable workflow.
+# and publish the site to GitHub Pages. A push to main also republishes the site.
 
 name: Update results
 
 on:
   schedule:
     - cron: "*/15 * * * *"   # GitHub may start scheduled runs a few minutes late
-  workflow_dispatch:          # "Run workflow" button for a manual refresh
+  workflow_dispatch:          # manual refresh
   push:
     branches: [main]
 
