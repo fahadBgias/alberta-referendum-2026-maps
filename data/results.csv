@@ -1,871 +1,871 @@
 division_number,division_name,question,question_short,option_a,option_b,votes_a,votes_b,share_a_pct,leader,voting_areas_reported,voting_areas_total,data_flag,updated_utc
-1,Calgary-Acadia,1,Immigration control,Yes,No,11385,12499,47.67,No,57,57,,2026-10-21T23:49:27Z
-2,Calgary-Beddington,1,Immigration control,Yes,No,12433,9874,55.74,Yes,53,53,,2026-10-21T23:49:27Z
-3,Calgary-Bow,1,Immigration control,Yes,No,14273,16043,47.08,No,69,69,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-4,Calgary-Buffalo,1,Immigration control,Yes,No,9579,14703,39.45,No,78,78,,2026-10-21T23:49:27Z
-5,Calgary-Cross,1,Immigration control,Yes,No,7714,7701,50.04,Yes,48,48,,2026-10-21T23:49:27Z
-6,Calgary-Currie,1,Immigration control,Yes,No,9543,13364,41.66,No,56,58,,2026-10-21T23:49:27Z
-7,Calgary-East,1,Immigration control,Yes,No,8944,7114,55.70,Yes,74,74,,2026-10-21T23:49:27Z
-8,Calgary-Edgemont,1,Immigration control,Yes,No,10827,13794,43.97,No,57,57,,2026-10-21T23:49:27Z
-9,Calgary-Elbow,1,Immigration control,Yes,No,11299,15626,41.96,No,60,60,,2026-10-21T23:49:27Z
-10,Calgary-Falconridge,1,Immigration control,Yes,No,6475,7457,46.48,No,51,51,,2026-10-21T23:49:27Z
-11,Calgary-Fish Creek,1,Immigration control,Yes,No,13618,13512,50.20,Yes,59,59,,2026-10-21T23:49:27Z
-12,Calgary-Foothills,1,Immigration control,Yes,No,12555,13877,47.50,No,52,62,,2026-10-21T23:49:27Z
-13,Calgary-Glenmore,1,Immigration control,Yes,No,12539,14638,46.14,No,59,59,,2026-10-21T23:49:27Z
-14,Calgary-Hays,1,Immigration control,Yes,No,14085,10921,56.33,Yes,58,58,,2026-10-21T23:49:27Z
-15,Calgary-Klein,1,Immigration control,Yes,No,10016,12330,44.82,No,53,53,,2026-10-21T23:49:27Z
-16,Calgary-Lougheed,1,Immigration control,Yes,No,11289,9362,54.67,Yes,45,45,,2026-10-21T23:49:27Z
-17,Calgary-Bhullar-McCall,1,Immigration control,Yes,No,5294,7768,40.53,No,39,39,,2026-10-21T23:49:27Z
-18,Calgary-Mountain View,1,Immigration control,Yes,No,9374,18943,33.10,No,90,90,,2026-10-21T23:49:27Z
-19,Calgary-North,1,Immigration control,Yes,No,10277,10162,50.28,Yes,52,52,,2026-10-21T23:49:27Z
-20,Calgary-North East,1,Immigration control,Yes,No,12317,13959,46.88,No,62,65,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-21,Calgary-North West,1,Immigration control,Yes,No,13015,14731,46.91,No,58,58,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-22,Calgary-Peigan,1,Immigration control,Yes,No,12256,10775,53.22,Yes,52,52,,2026-10-21T23:49:27Z
-23,Calgary-Shaw,1,Immigration control,Yes,No,13255,11890,52.71,Yes,70,71,,2026-10-21T23:49:27Z
-24,Calgary-South East,1,Immigration control,Yes,No,18424,14132,56.59,Yes,76,76,,2026-10-21T23:49:27Z
-25,Calgary-Varsity,1,Immigration control,Yes,No,7623,13849,35.50,No,51,51,,2026-10-21T23:49:27Z
-26,Calgary-West,1,Immigration control,Yes,No,12417,12706,49.42,No,54,54,,2026-10-21T23:49:27Z
-27,Edmonton-Beverly-Clareview,1,Immigration control,Yes,No,5865,6634,46.92,No,33,49,,2026-10-21T23:49:27Z
-28,Edmonton-Castle Downs,1,Immigration control,Yes,No,9452,10315,47.82,No,41,69,,2026-10-21T23:49:27Z
-29,Edmonton-City Centre,1,Immigration control,Yes,No,6826,13531,33.53,No,75,79,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-30,Edmonton-Decore,1,Immigration control,Yes,No,8912,9143,49.36,No,56,56,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-31,Edmonton-Ellerslie,1,Immigration control,Yes,No,10747,12392,46.45,No,49,52,,2026-10-21T23:49:27Z
-32,Edmonton-Glenora,1,Immigration control,Yes,No,7679,13703,35.91,No,52,52,,2026-10-21T23:49:27Z
-33,Edmonton-Gold Bar,1,Immigration control,Yes,No,9111,16960,34.95,No,58,58,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-34,Edmonton-Highlands-Norwood,1,Immigration control,Yes,No,6246,10133,38.13,No,48,49,,2026-10-21T23:49:27Z
-35,Edmonton-Manning,1,Immigration control,Yes,No,10137,10753,48.53,No,48,59,,2026-10-21T23:49:27Z
-36,Edmonton-McClung,1,Immigration control,Yes,No,8590,10139,45.86,No,51,51,,2026-10-21T23:49:27Z
-37,Edmonton-Meadows,1,Immigration control,Yes,No,8976,11322,44.22,No,61,61,,2026-10-21T23:49:27Z
-38,Edmonton-Mill Woods,1,Immigration control,Yes,No,7836,8449,48.12,No,53,53,,2026-10-21T23:49:27Z
-39,Edmonton-North West,1,Immigration control,Yes,No,8127,9839,45.24,No,62,68,,2026-10-21T23:49:27Z
-40,Edmonton-Riverview,1,Immigration control,Yes,No,6867,12840,34.85,No,53,53,,2026-10-21T23:49:27Z
-41,Edmonton-Rutherford,1,Immigration control,Yes,No,8414,13924,37.67,No,50,50,,2026-10-21T23:49:27Z
-42,Edmonton-South,1,Immigration control,Yes,No,14873,16832,46.91,No,88,88,,2026-10-21T23:49:27Z
-43,Edmonton-South West,1,Immigration control,Yes,No,17632,18418,48.91,No,76,76,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-44,Edmonton-Strathcona,1,Immigration control,Yes,No,5813,14702,28.34,No,50,50,,2026-10-21T23:49:27Z
-45,Edmonton-West Henday,1,Immigration control,Yes,No,13072,13286,49.59,No,59,59,,2026-10-21T23:49:27Z
-46,Edmonton-Whitemud,1,Immigration control,Yes,No,9651,14342,40.22,No,51,51,,2026-10-21T23:49:27Z
-47,Airdrie-Cochrane,1,Immigration control,Yes,No,23245,15382,60.18,Yes,92,92,,2026-10-21T23:49:27Z
-48,Airdrie-East,1,Immigration control,Yes,No,19328,10772,64.21,Yes,73,73,,2026-10-21T23:49:27Z
-49,Athabasca-Barrhead-Westlock,1,Immigration control,Yes,No,16549,6589,71.52,Yes,62,62,,2026-10-21T23:49:27Z
-50,Banff-Kananaskis,1,Immigration control,Yes,No,12806,15892,44.62,No,64,64,,2026-10-21T23:49:27Z
-51,Bonnyville-Cold Lake-St. Paul,1,Immigration control,Yes,No,8077,4276,65.38,Yes,55,74,,2026-10-21T23:49:27Z
-52,Brooks-Medicine Hat,1,Immigration control,Yes,No,15021,7066,68.01,Yes,71,71,,2026-10-21T23:49:27Z
-53,Camrose,1,Immigration control,Yes,No,15357,7099,68.39,Yes,64,70,,2026-10-21T23:49:27Z
-54,Cardston-Siksika,1,Immigration control,Yes,No,12002,5470,68.69,Yes,67,68,,2026-10-21T23:49:27Z
-55,Central Peace-Notley,1,Immigration control,Yes,No,9768,2988,76.58,Yes,60,60,,2026-10-21T23:49:27Z
-56,Chestermere-Strathmore,1,Immigration control,Yes,No,17474,9204,65.50,Yes,69,71,,2026-10-21T23:49:27Z
-57,Cypress-Medicine Hat,1,Immigration control,Yes,No,15716,8904,63.83,Yes,59,59,,2026-10-21T23:49:27Z
-58,Drayton Valley-Devon,1,Immigration control,Yes,No,18967,6464,74.58,Yes,68,68,,2026-10-21T23:49:27Z
-59,Drumheller-Stettler,1,Immigration control,Yes,No,15347,4243,78.34,Yes,71,71,,2026-10-21T23:49:27Z
-60,Fort McMurray-Lac La Biche,1,Immigration control,Yes,No,8936,4229,67.88,Yes,58,63,,2026-10-21T23:49:27Z
-61,Fort McMurray-Wood Buffalo,1,Immigration control,Yes,No,7349,3024,70.85,Yes,13,40,,2026-10-21T23:49:27Z
-62,Fort Saskatchewan-Vegreville,1,Immigration control,Yes,No,16350,8826,64.94,Yes,61,82,,2026-10-21T23:49:27Z
-63,Grande Prairie,1,Immigration control,Yes,No,12366,6059,67.12,Yes,44,52,,2026-10-21T23:49:27Z
-64,Grande Prairie-Wapiti,1,Immigration control,Yes,No,17709,5447,76.48,Yes,69,81,,2026-10-21T23:49:27Z
-65,Highwood,1,Immigration control,Yes,No,19455,9879,66.32,Yes,112,112,,2026-10-21T23:49:27Z
-66,Innisfail-Sylvan Lake,1,Immigration control,Yes,No,19371,7195,72.92,Yes,73,73,,2026-10-21T23:49:27Z
-67,Lac Ste. Anne-Parkland,1,Immigration control,Yes,No,17299,7304,70.31,Yes,75,75,,2026-10-21T23:49:27Z
-68,Lacombe-Ponoka,1,Immigration control,Yes,No,17577,6988,71.55,Yes,72,72,,2026-10-21T23:49:27Z
-69,Leduc-Beaumont,1,Immigration control,Yes,No,18605,11017,62.81,Yes,68,68,,2026-10-21T23:49:27Z
-70,Lesser Slave Lake,1,Immigration control,Yes,No,5766,4164,58.07,Yes,45,48,,2026-10-21T23:49:27Z
-71,Lethbridge-East,1,Immigration control,Yes,No,12447,11748,51.44,Yes,67,69,,2026-10-21T23:49:27Z
-72,Lethbridge-West,1,Immigration control,Yes,No,12421,13995,47.02,No,67,67,,2026-10-21T23:49:27Z
-73,Livingstone-Macleod,1,Immigration control,Yes,No,18158,9462,65.74,Yes,93,94,,2026-10-21T23:49:27Z
-74,Maskwacis-Wetaskiwin,1,Immigration control,Yes,No,12652,6075,67.56,Yes,53,57,,2026-10-21T23:49:27Z
-75,Morinville-St. Albert,1,Immigration control,Yes,No,17259,12469,58.06,Yes,58,64,,2026-10-21T23:49:27Z
-76,Olds-Didsbury-Three Hills,1,Immigration control,Yes,No,20596,6795,75.19,Yes,71,71,,2026-10-21T23:49:27Z
-77,Peace River,1,Immigration control,Yes,No,9373,5269,64.01,Yes,68,69,,2026-10-21T23:49:27Z
-78,Red Deer-North,1,Immigration control,Yes,No,13287,8092,62.15,Yes,64,64,,2026-10-21T23:49:27Z
-79,Red Deer-South,1,Immigration control,Yes,No,15945,10726,59.78,Yes,71,73,,2026-10-21T23:49:27Z
-80,Rimbey-Rocky Mountain House-Sundre,1,Immigration control,Yes,No,15096,4559,76.80,Yes,83,85,,2026-10-21T23:49:27Z
-81,Sherwood Park,1,Immigration control,Yes,No,15398,14657,51.23,Yes,61,61,,2026-10-21T23:49:27Z
-82,Spruce Grove-Stony Plain,1,Immigration control,Yes,No,18487,11944,60.75,Yes,66,67,,2026-10-21T23:49:27Z
-83,St. Albert,1,Immigration control,Yes,No,14082,16142,46.59,No,59,60,,2026-10-21T23:49:27Z
-84,Strathcona-Sherwood Park,1,Immigration control,Yes,No,17403,12229,58.73,Yes,63,63,,2026-10-21T23:49:27Z
-85,Taber-Warner,1,Immigration control,Yes,No,13628,4579,74.85,Yes,70,70,,2026-10-21T23:49:27Z
-86,Vermilion-Lloydminster-Wainwright,1,Immigration control,Yes,No,14360,4565,75.88,Yes,55,66,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-87,West Yellowhead,1,Immigration control,Yes,No,8367,3208,72.29,Yes,73,74,,2026-10-21T23:49:27Z
-1,Calgary-Acadia,2,Program eligibility,Yes,No,9804,11056,47.00,No,57,57,,2026-10-21T23:49:27Z
-2,Calgary-Beddington,2,Program eligibility,Yes,No,10090,12422,44.82,No,53,53,,2026-10-21T23:49:27Z
-3,Calgary-Bow,2,Program eligibility,Yes,No,13354,16553,44.65,No,69,69,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-4,Calgary-Buffalo,2,Program eligibility,Yes,No,8861,15240,36.77,No,78,78,,2026-10-21T23:49:27Z
-5,Calgary-Cross,2,Program eligibility,Yes,No,7343,8029,47.77,No,48,48,,2026-10-21T23:49:27Z
-6,Calgary-Currie,2,Program eligibility,Yes,No,9181,15212,37.64,No,56,58,,2026-10-21T23:49:27Z
-7,Calgary-East,2,Program eligibility,Yes,No,8536,7517,53.17,Yes,74,74,,2026-10-21T23:49:27Z
-8,Calgary-Edgemont,2,Program eligibility,Yes,No,10583,14279,42.57,No,57,57,,2026-10-21T23:49:27Z
-9,Calgary-Elbow,2,Program eligibility,Yes,No,10376,15513,40.08,No,60,60,,2026-10-21T23:49:27Z
-10,Calgary-Falconridge,2,Program eligibility,Yes,No,6049,7991,43.08,No,51,51,,2026-10-21T23:49:27Z
-11,Calgary-Fish Creek,2,Program eligibility,Yes,No,12743,13548,48.47,No,59,59,,2026-10-21T23:49:27Z
-12,Calgary-Foothills,2,Program eligibility,Yes,No,11938,14443,45.25,No,52,62,,2026-10-21T23:49:27Z
-13,Calgary-Glenmore,2,Program eligibility,Yes,No,11781,15193,43.68,No,59,59,,2026-10-21T23:49:27Z
-14,Calgary-Hays,2,Program eligibility,Yes,No,12942,11866,52.17,Yes,58,58,,2026-10-21T23:49:27Z
-15,Calgary-Klein,2,Program eligibility,Yes,No,9548,12799,42.73,No,53,53,,2026-10-21T23:49:27Z
-16,Calgary-Lougheed,2,Program eligibility,Yes,No,10746,10225,51.24,Yes,45,45,,2026-10-21T23:49:27Z
-17,Calgary-Bhullar-McCall,2,Program eligibility,Yes,No,4950,8256,37.48,No,39,39,,2026-10-21T23:49:27Z
-18,Calgary-Mountain View,2,Program eligibility,Yes,No,8804,19685,30.90,No,90,90,,2026-10-21T23:49:27Z
-19,Calgary-North,2,Program eligibility,Yes,No,9718,10695,47.61,No,52,52,,2026-10-21T23:49:27Z
-20,Calgary-North East,2,Program eligibility,Yes,No,11183,14093,44.24,No,62,65,,2026-10-21T23:49:27Z
-21,Calgary-North West,2,Program eligibility,Yes,No,12266,15295,44.50,No,58,58,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-22,Calgary-Peigan,2,Program eligibility,Yes,No,11873,11059,51.77,Yes,52,52,,2026-10-21T23:49:27Z
-23,Calgary-Shaw,2,Program eligibility,Yes,No,12770,12946,49.66,No,70,71,,2026-10-21T23:49:27Z
-24,Calgary-South East,2,Program eligibility,Yes,No,17317,14243,54.87,Yes,76,76,,2026-10-21T23:49:27Z
-25,Calgary-Varsity,2,Program eligibility,Yes,No,7182,14071,33.79,No,51,51,,2026-10-21T23:49:27Z
-26,Calgary-West,2,Program eligibility,Yes,No,11911,12690,48.42,No,54,54,,2026-10-21T23:49:27Z
-27,Edmonton-Beverly-Clareview,2,Program eligibility,Yes,No,5577,6825,44.97,No,33,49,,2026-10-21T23:49:27Z
-28,Edmonton-Castle Downs,2,Program eligibility,Yes,No,9045,10776,45.63,No,41,69,,2026-10-21T23:49:27Z
-29,Edmonton-City Centre,2,Program eligibility,Yes,No,5767,12738,31.16,No,75,79,,2026-10-21T23:49:27Z
-30,Edmonton-Decore,2,Program eligibility,Yes,No,8697,9473,47.86,No,56,56,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-31,Edmonton-Ellerslie,2,Program eligibility,Yes,No,9996,13315,42.88,No,49,52,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-32,Edmonton-Glenora,2,Program eligibility,Yes,No,7230,14078,33.93,No,52,52,,2026-10-21T23:49:27Z
-33,Edmonton-Gold Bar,2,Program eligibility,Yes,No,8510,17344,32.92,No,58,58,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-34,Edmonton-Highlands-Norwood,2,Program eligibility,Yes,No,5801,10517,35.55,No,48,49,,2026-10-21T23:49:27Z
-35,Edmonton-Manning,2,Program eligibility,Yes,No,9746,11207,46.51,No,48,59,,2026-10-21T23:49:27Z
-36,Edmonton-McClung,2,Program eligibility,Yes,No,8078,10629,43.18,No,51,51,,2026-10-21T23:49:27Z
-37,Edmonton-Meadows,2,Program eligibility,Yes,No,8537,11896,41.78,No,61,61,,2026-10-21T23:49:27Z
-38,Edmonton-Mill Woods,2,Program eligibility,Yes,No,6793,8452,44.56,No,53,53,,2026-10-21T23:49:27Z
-39,Edmonton-North West,2,Program eligibility,Yes,No,7515,10414,41.92,No,62,68,,2026-10-21T23:49:27Z
-40,Edmonton-Riverview,2,Program eligibility,Yes,No,7162,14570,32.96,No,53,53,,2026-10-21T23:49:27Z
-41,Edmonton-Rutherford,2,Program eligibility,Yes,No,7024,11206,38.53,No,50,50,,2026-10-21T23:49:27Z
-42,Edmonton-South,2,Program eligibility,Yes,No,14167,17695,44.46,No,88,88,,2026-10-21T23:49:27Z
-43,Edmonton-South West,2,Program eligibility,Yes,No,12500,14287,46.66,No,76,76,,2026-10-21T23:49:27Z
-44,Edmonton-Strathcona,2,Program eligibility,Yes,No,5219,15875,24.74,No,50,50,,2026-10-21T23:49:27Z
-45,Edmonton-West Henday,2,Program eligibility,Yes,No,12370,13929,47.04,No,59,59,,2026-10-21T23:49:27Z
-46,Edmonton-Whitemud,2,Program eligibility,Yes,No,9239,14738,38.53,No,51,51,,2026-10-21T23:49:27Z
-47,Airdrie-Cochrane,2,Program eligibility,Yes,No,22649,16806,57.40,Yes,92,92,,2026-10-21T23:49:27Z
-48,Airdrie-East,2,Program eligibility,Yes,No,18474,11532,61.57,Yes,73,73,,2026-10-21T23:49:27Z
-49,Athabasca-Barrhead-Westlock,2,Program eligibility,Yes,No,16018,7006,69.57,Yes,62,62,,2026-10-21T23:49:27Z
-50,Banff-Kananaskis,2,Program eligibility,Yes,No,12295,16328,42.95,No,64,64,,2026-10-21T23:49:27Z
-51,Bonnyville-Cold Lake-St. Paul,2,Program eligibility,Yes,No,7806,4550,63.18,Yes,55,74,,2026-10-21T23:49:27Z
-52,Brooks-Medicine Hat,2,Program eligibility,Yes,No,14266,7674,65.02,Yes,71,71,,2026-10-21T23:49:27Z
-53,Camrose,2,Program eligibility,Yes,No,15081,7485,66.83,Yes,64,70,,2026-10-21T23:49:27Z
-54,Cardston-Siksika,2,Program eligibility,Yes,No,11157,5683,66.25,Yes,67,68,,2026-10-21T23:49:27Z
-55,Central Peace-Notley,2,Program eligibility,Yes,No,9457,3271,74.30,Yes,60,60,,2026-10-21T23:49:27Z
-56,Chestermere-Strathmore,2,Program eligibility,Yes,No,18023,10468,63.26,Yes,69,71,,2026-10-21T23:49:27Z
-57,Cypress-Medicine Hat,2,Program eligibility,Yes,No,14058,9222,60.39,Yes,59,59,,2026-10-21T23:49:27Z
-58,Drayton Valley-Devon,2,Program eligibility,Yes,No,18484,6984,72.58,Yes,68,68,,2026-10-21T23:49:27Z
-59,Drumheller-Stettler,2,Program eligibility,Yes,No,15155,4671,76.44,Yes,71,71,,2026-10-21T23:49:27Z
-60,Fort McMurray-Lac La Biche,2,Program eligibility,Yes,No,8680,4576,65.48,Yes,58,63,,2026-10-21T23:49:27Z
-61,Fort McMurray-Wood Buffalo,2,Program eligibility,Yes,No,6972,3320,67.74,Yes,13,40,,2026-10-21T23:49:27Z
-62,Fort Saskatchewan-Vegreville,2,Program eligibility,Yes,No,15103,8480,64.04,Yes,61,82,,2026-10-21T23:49:27Z
-63,Grande Prairie,2,Program eligibility,Yes,No,11631,6681,63.52,Yes,44,52,,2026-10-21T23:49:27Z
-64,Grande Prairie-Wapiti,2,Program eligibility,Yes,No,16975,6123,73.49,Yes,69,81,,2026-10-21T23:49:27Z
-65,Highwood,2,Program eligibility,Yes,No,19755,11464,63.28,Yes,112,112,,2026-10-21T23:49:27Z
-66,Innisfail-Sylvan Lake,2,Program eligibility,Yes,No,18854,7807,70.72,Yes,73,73,,2026-10-21T23:49:27Z
-67,Lac Ste. Anne-Parkland,2,Program eligibility,Yes,No,17323,8211,67.84,Yes,75,75,,2026-10-21T23:49:27Z
-68,Lacombe-Ponoka,2,Program eligibility,Yes,No,17128,7522,69.48,Yes,72,72,,2026-10-21T23:49:27Z
-69,Leduc-Beaumont,2,Program eligibility,Yes,No,17853,11644,60.52,Yes,68,68,,2026-10-21T23:49:27Z
-70,Lesser Slave Lake,2,Program eligibility,Yes,No,5477,4443,55.21,Yes,45,48,,2026-10-21T23:49:27Z
-71,Lethbridge-East,2,Program eligibility,Yes,No,11791,12431,48.68,No,67,69,,2026-10-21T23:49:27Z
-72,Lethbridge-West,2,Program eligibility,Yes,No,11458,14896,43.48,No,67,67,,2026-10-21T23:49:27Z
-73,Livingstone-Macleod,2,Program eligibility,Yes,No,17682,9943,64.01,Yes,93,94,,2026-10-21T23:49:27Z
-74,Maskwacis-Wetaskiwin,2,Program eligibility,Yes,No,12765,7307,63.60,Yes,53,57,,2026-10-21T23:49:27Z
-75,Morinville-St. Albert,2,Program eligibility,Yes,No,16561,13110,55.82,Yes,58,64,,2026-10-21T23:49:27Z
-76,Olds-Didsbury-Three Hills,2,Program eligibility,Yes,No,19998,7352,73.12,Yes,71,71,,2026-10-21T23:49:27Z
-77,Peace River,2,Program eligibility,Yes,No,8759,5848,59.96,Yes,68,69,,2026-10-21T23:49:27Z
-78,Red Deer-North,2,Program eligibility,Yes,No,12661,7925,61.50,Yes,64,64,,2026-10-21T23:49:27Z
-79,Red Deer-South,2,Program eligibility,Yes,No,15164,10697,58.64,Yes,71,73,,2026-10-21T23:49:27Z
-80,Rimbey-Rocky Mountain House-Sundre,2,Program eligibility,Yes,No,14347,4796,74.95,Yes,83,85,,2026-10-21T23:49:27Z
-81,Sherwood Park,2,Program eligibility,Yes,No,14654,15317,48.89,No,61,61,,2026-10-21T23:49:27Z
-82,Spruce Grove-Stony Plain,2,Program eligibility,Yes,No,17396,12576,58.04,Yes,66,67,,2026-10-21T23:49:27Z
-83,St. Albert,2,Program eligibility,Yes,No,11874,13557,46.69,No,59,60,,2026-10-21T23:49:27Z
-84,Strathcona-Sherwood Park,2,Program eligibility,Yes,No,16362,12339,57.01,Yes,63,63,,2026-10-21T23:49:27Z
-85,Taber-Warner,2,Program eligibility,Yes,No,13109,4988,72.44,Yes,70,70,,2026-10-21T23:49:27Z
-86,Vermilion-Lloydminster-Wainwright,2,Program eligibility,Yes,No,13967,4996,73.65,Yes,55,66,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-87,West Yellowhead,2,Program eligibility,Yes,No,8018,3514,69.53,Yes,73,74,,2026-10-21T23:49:27Z
-1,Calgary-Acadia,3,12-month wait for supports,Yes,No,10375,11996,46.38,No,57,57,,2026-10-21T23:49:27Z
-2,Calgary-Beddington,3,12-month wait for supports,Yes,No,10304,12197,45.79,No,53,53,,2026-10-21T23:49:27Z
-3,Calgary-Bow,3,12-month wait for supports,Yes,No,13620,16346,45.45,No,69,69,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-4,Calgary-Buffalo,3,12-month wait for supports,Yes,No,9145,15087,37.74,No,78,78,,2026-10-21T23:49:27Z
-5,Calgary-Cross,3,12-month wait for supports,Yes,No,7324,8043,47.66,No,48,48,,2026-10-21T23:49:27Z
-6,Calgary-Currie,3,12-month wait for supports,Yes,No,9393,15263,38.10,No,56,58,,2026-10-21T23:49:27Z
-7,Calgary-East,3,12-month wait for supports,Yes,No,8592,7411,53.69,Yes,74,74,,2026-10-21T23:49:27Z
-8,Calgary-Edgemont,3,12-month wait for supports,Yes,No,10886,14258,43.29,No,57,57,,2026-10-21T23:49:27Z
-9,Calgary-Elbow,3,12-month wait for supports,Yes,No,10770,15974,40.27,No,60,60,,2026-10-21T23:49:27Z
-10,Calgary-Falconridge,3,12-month wait for supports,Yes,No,6122,7881,43.72,No,51,51,,2026-10-21T23:49:27Z
-11,Calgary-Fish Creek,3,12-month wait for supports,Yes,No,13190,13900,48.69,No,59,59,,2026-10-21T23:49:27Z
-12,Calgary-Foothills,3,12-month wait for supports,Yes,No,12281,13874,46.95,No,52,62,,2026-10-21T23:49:27Z
-13,Calgary-Glenmore,3,12-month wait for supports,Yes,No,12056,14577,45.27,No,59,59,,2026-10-21T23:49:27Z
-14,Calgary-Hays,3,12-month wait for supports,Yes,No,13515,11697,53.61,Yes,58,58,,2026-10-21T23:49:27Z
-15,Calgary-Klein,3,12-month wait for supports,Yes,No,9764,12713,43.44,No,53,53,,2026-10-21T23:49:27Z
-16,Calgary-Lougheed,3,12-month wait for supports,Yes,No,10860,10110,51.79,Yes,45,45,,2026-10-21T23:49:27Z
-17,Calgary-Bhullar-McCall,3,12-month wait for supports,Yes,No,5024,8101,38.28,No,39,39,,2026-10-21T23:49:27Z
-18,Calgary-Mountain View,3,12-month wait for supports,Yes,No,9024,19481,31.66,No,90,90,,2026-10-21T23:49:27Z
-19,Calgary-North,3,12-month wait for supports,Yes,No,9843,10618,48.11,No,52,52,,2026-10-21T23:49:27Z
-20,Calgary-North East,3,12-month wait for supports,Yes,No,11293,14001,44.65,No,62,65,,2026-10-21T23:49:27Z
-21,Calgary-North West,3,12-month wait for supports,Yes,No,12133,14431,45.67,No,58,58,,2026-10-21T23:49:27Z
-22,Calgary-Peigan,3,12-month wait for supports,Yes,No,12282,11208,52.29,Yes,52,52,,2026-10-21T23:49:27Z
-23,Calgary-Shaw,3,12-month wait for supports,Yes,No,13102,13061,50.08,Yes,70,71,,2026-10-21T23:49:27Z
-24,Calgary-South East,3,12-month wait for supports,Yes,No,17733,14338,55.29,Yes,76,76,,2026-10-21T23:49:27Z
-25,Calgary-Varsity,3,12-month wait for supports,Yes,No,6597,12866,33.90,No,51,51,,2026-10-21T23:49:27Z
-26,Calgary-West,3,12-month wait for supports,Yes,No,12538,13740,47.71,No,54,54,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-27,Edmonton-Beverly-Clareview,3,12-month wait for supports,Yes,No,5641,6581,46.15,No,33,49,,2026-10-21T23:49:27Z
-28,Edmonton-Castle Downs,3,12-month wait for supports,Yes,No,9265,10605,46.63,No,41,69,,2026-10-21T23:49:27Z
-29,Edmonton-City Centre,3,12-month wait for supports,Yes,No,6065,13058,31.72,No,75,79,,2026-10-21T23:49:27Z
-30,Edmonton-Decore,3,12-month wait for supports,Yes,No,8703,9415,48.04,No,56,56,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-31,Edmonton-Ellerslie,3,12-month wait for supports,Yes,No,10275,13317,43.55,No,49,52,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-32,Edmonton-Glenora,3,12-month wait for supports,Yes,No,7790,13633,36.36,No,52,52,,2026-10-21T23:49:27Z
-33,Edmonton-Gold Bar,3,12-month wait for supports,Yes,No,8725,17115,33.77,No,58,58,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-34,Edmonton-Highlands-Norwood,3,12-month wait for supports,Yes,No,5989,10445,36.44,No,48,49,,2026-10-21T23:49:27Z
-35,Edmonton-Manning,3,12-month wait for supports,Yes,No,9636,10460,47.95,No,48,59,,2026-10-21T23:49:27Z
-36,Edmonton-McClung,3,12-month wait for supports,Yes,No,8345,10491,44.30,No,51,51,,2026-10-21T23:49:27Z
-37,Edmonton-Meadows,3,12-month wait for supports,Yes,No,8862,11580,43.35,No,61,61,,2026-10-21T23:49:27Z
-38,Edmonton-Mill Woods,3,12-month wait for supports,Yes,No,7421,8638,46.21,No,53,53,,2026-10-21T23:49:27Z
-39,Edmonton-North West,3,12-month wait for supports,Yes,No,7505,10061,42.72,No,62,68,,2026-10-21T23:49:27Z
-40,Edmonton-Riverview,3,12-month wait for supports,Yes,No,7752,15000,34.07,No,53,53,,2026-10-21T23:49:27Z
-41,Edmonton-Rutherford,3,12-month wait for supports,Yes,No,8177,14241,36.48,No,50,50,,2026-10-21T23:49:27Z
-42,Edmonton-South,3,12-month wait for supports,Yes,No,14429,17091,45.78,No,88,88,,2026-10-21T23:49:27Z
-43,Edmonton-South West,3,12-month wait for supports,Yes,No,12519,14238,46.79,No,76,76,,2026-10-21T23:49:27Z
-44,Edmonton-Strathcona,3,12-month wait for supports,Yes,No,5519,15586,26.15,No,50,50,,2026-10-21T23:49:27Z
-45,Edmonton-West Henday,3,12-month wait for supports,Yes,No,12630,13770,47.84,No,59,59,,2026-10-21T23:49:27Z
-46,Edmonton-Whitemud,3,12-month wait for supports,Yes,No,9359,14454,39.30,No,51,51,,2026-10-21T23:49:27Z
-47,Airdrie-Cochrane,3,12-month wait for supports,Yes,No,23136,17231,57.31,Yes,92,92,,2026-10-21T23:49:27Z
-48,Airdrie-East,3,12-month wait for supports,Yes,No,18683,11314,62.28,Yes,73,73,,2026-10-21T23:49:27Z
-49,Athabasca-Barrhead-Westlock,3,12-month wait for supports,Yes,No,16364,6759,70.77,Yes,62,62,,2026-10-21T23:49:27Z
-50,Banff-Kananaskis,3,12-month wait for supports,Yes,No,12536,16128,43.73,No,64,64,,2026-10-21T23:49:27Z
-51,Bonnyville-Cold Lake-St. Paul,3,12-month wait for supports,Yes,No,7970,4330,64.80,Yes,55,74,,2026-10-21T23:49:27Z
-52,Brooks-Medicine Hat,3,12-month wait for supports,Yes,No,14605,7523,66.00,Yes,71,71,,2026-10-21T23:49:27Z
-53,Camrose,3,12-month wait for supports,Yes,No,15105,7379,67.18,Yes,64,70,,2026-10-21T23:49:27Z
-54,Cardston-Siksika,3,12-month wait for supports,Yes,No,11604,6029,65.81,Yes,67,68,,2026-10-21T23:49:27Z
-55,Central Peace-Notley,3,12-month wait for supports,Yes,No,9599,3276,74.56,Yes,60,60,,2026-10-21T23:49:27Z
-56,Chestermere-Strathmore,3,12-month wait for supports,Yes,No,18070,10385,63.50,Yes,69,71,,2026-10-21T23:49:27Z
-57,Cypress-Medicine Hat,3,12-month wait for supports,Yes,No,14959,9491,61.18,Yes,59,59,,2026-10-21T23:49:27Z
-58,Drayton Valley-Devon,3,12-month wait for supports,Yes,No,18536,6937,72.77,Yes,68,68,,2026-10-21T23:49:27Z
-59,Drumheller-Stettler,3,12-month wait for supports,Yes,No,15306,4468,77.40,Yes,71,71,,2026-10-21T23:49:27Z
-60,Fort McMurray-Lac La Biche,3,12-month wait for supports,Yes,No,8768,4592,65.63,Yes,58,63,,2026-10-21T23:49:27Z
-61,Fort McMurray-Wood Buffalo,3,12-month wait for supports,Yes,No,7052,3050,69.81,Yes,13,40,,2026-10-21T23:49:27Z
-62,Fort Saskatchewan-Vegreville,3,12-month wait for supports,Yes,No,14303,6553,68.58,Yes,61,82,,2026-10-21T23:49:27Z
-63,Grande Prairie,3,12-month wait for supports,Yes,No,11860,6448,64.78,Yes,44,52,,2026-10-21T23:49:27Z
-64,Grande Prairie-Wapiti,3,12-month wait for supports,Yes,No,17077,6014,73.96,Yes,69,81,,2026-10-21T23:49:27Z
-65,Highwood,3,12-month wait for supports,Yes,No,19885,11212,63.95,Yes,112,112,,2026-10-21T23:49:27Z
-66,Innisfail-Sylvan Lake,3,12-month wait for supports,Yes,No,19075,7471,71.86,Yes,73,73,,2026-10-21T23:49:27Z
-67,Lac Ste. Anne-Parkland,3,12-month wait for supports,Yes,No,17566,7968,68.79,Yes,75,75,,2026-10-21T23:49:27Z
-68,Lacombe-Ponoka,3,12-month wait for supports,Yes,No,17199,7308,70.18,Yes,72,72,,2026-10-21T23:49:27Z
-69,Leduc-Beaumont,3,12-month wait for supports,Yes,No,18185,11342,61.59,Yes,68,68,,2026-10-21T23:49:27Z
-70,Lesser Slave Lake,3,12-month wait for supports,Yes,No,5531,4442,55.46,Yes,45,48,,2026-10-21T23:49:27Z
-71,Lethbridge-East,3,12-month wait for supports,Yes,No,12155,11989,50.34,Yes,67,69,,2026-10-21T23:49:27Z
-72,Lethbridge-West,3,12-month wait for supports,Yes,No,11740,14427,44.87,No,67,67,,2026-10-21T23:49:27Z
-73,Livingstone-Macleod,3,12-month wait for supports,Yes,No,17839,9779,64.59,Yes,93,94,,2026-10-21T23:49:27Z
-74,Maskwacis-Wetaskiwin,3,12-month wait for supports,Yes,No,12833,7273,63.83,Yes,53,57,,2026-10-21T23:49:27Z
-75,Morinville-St. Albert,3,12-month wait for supports,Yes,No,16501,13046,55.85,Yes,58,64,,2026-10-21T23:49:27Z
-76,Olds-Didsbury-Three Hills,3,12-month wait for supports,Yes,No,20283,7171,73.88,Yes,71,71,,2026-10-21T23:49:27Z
-77,Peace River,3,12-month wait for supports,Yes,No,8860,5749,60.65,Yes,68,69,,2026-10-21T23:49:27Z
-78,Red Deer-North,3,12-month wait for supports,Yes,No,12924,8629,59.96,Yes,64,64,,2026-10-21T23:49:27Z
-79,Red Deer-South,3,12-month wait for supports,Yes,No,15320,10724,58.82,Yes,71,73,,2026-10-21T23:49:27Z
-80,Rimbey-Rocky Mountain House-Sundre,3,12-month wait for supports,Yes,No,16277,5445,74.93,Yes,83,85,,2026-10-21T23:49:27Z
-81,Sherwood Park,3,12-month wait for supports,Yes,No,11524,8838,56.60,Yes,61,61,,2026-10-21T23:49:27Z
-82,Spruce Grove-Stony Plain,3,12-month wait for supports,Yes,No,18055,12229,59.62,Yes,66,67,,2026-10-21T23:49:27Z
-83,St. Albert,3,12-month wait for supports,Yes,No,13189,16723,44.09,No,59,60,,2026-10-21T23:49:27Z
-84,Strathcona-Sherwood Park,3,12-month wait for supports,Yes,No,16717,12554,57.11,Yes,63,63,,2026-10-21T23:49:27Z
-85,Taber-Warner,3,12-month wait for supports,Yes,No,13357,4750,73.77,Yes,70,70,,2026-10-21T23:49:27Z
-86,Vermilion-Lloydminster-Wainwright,3,12-month wait for supports,Yes,No,13723,4665,74.63,Yes,55,66,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-87,West Yellowhead,3,12-month wait for supports,Yes,No,8014,3521,69.48,Yes,73,74,,2026-10-21T23:49:27Z
-1,Calgary-Acadia,4,Health and education fee,Yes,No,10425,13105,44.31,No,57,57,,2026-10-21T23:49:27Z
-2,Calgary-Beddington,4,Health and education fee,Yes,No,9879,12560,44.03,No,53,53,,2026-10-21T23:49:27Z
-3,Calgary-Bow,4,Health and education fee,Yes,No,13426,16647,44.64,No,69,69,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-4,Calgary-Buffalo,4,Health and education fee,Yes,No,8892,15458,36.52,No,78,78,,2026-10-21T23:49:27Z
-5,Calgary-Cross,4,Health and education fee,Yes,No,7010,8425,45.42,No,48,48,,2026-10-21T23:49:27Z
-6,Calgary-Currie,4,Health and education fee,Yes,No,7033,8921,44.08,No,56,58,,2026-10-21T23:49:27Z
-7,Calgary-East,4,Health and education fee,Yes,No,8132,7889,50.76,Yes,74,74,,2026-10-21T23:49:27Z
-8,Calgary-Edgemont,4,Health and education fee,Yes,No,10351,14340,41.92,No,57,57,,2026-10-21T23:49:27Z
-9,Calgary-Elbow,4,Health and education fee,Yes,No,10996,15981,40.76,No,60,60,,2026-10-21T23:49:27Z
-10,Calgary-Falconridge,4,Health and education fee,Yes,No,5639,7906,41.63,No,51,51,,2026-10-21T23:49:27Z
-11,Calgary-Fish Creek,4,Health and education fee,Yes,No,13010,13965,48.23,No,59,59,,2026-10-21T23:49:27Z
-12,Calgary-Foothills,4,Health and education fee,Yes,No,11939,14552,45.07,No,52,62,,2026-10-21T23:49:27Z
-13,Calgary-Glenmore,4,Health and education fee,Yes,No,12105,14855,44.90,No,59,59,,2026-10-21T23:49:27Z
-14,Calgary-Hays,4,Health and education fee,Yes,No,13108,12449,51.29,Yes,58,58,,2026-10-21T23:49:27Z
-15,Calgary-Klein,4,Health and education fee,Yes,No,9420,12926,42.16,No,53,53,,2026-10-21T23:49:27Z
-16,Calgary-Lougheed,4,Health and education fee,Yes,No,10419,10573,49.63,No,45,45,,2026-10-21T23:49:27Z
-17,Calgary-Bhullar-McCall,4,Health and education fee,Yes,No,4441,8714,33.76,No,39,39,,2026-10-21T23:49:27Z
-18,Calgary-Mountain View,4,Health and education fee,Yes,No,9008,17592,33.86,No,90,90,,2026-10-21T23:49:27Z
-19,Calgary-North,4,Health and education fee,Yes,No,9345,11055,45.81,No,52,52,,2026-10-21T23:49:27Z
-20,Calgary-North East,4,Health and education fee,Yes,No,11965,13332,47.30,No,62,65,,2026-10-21T23:49:27Z
-21,Calgary-North West,4,Health and education fee,Yes,No,12326,15286,44.64,No,58,58,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-22,Calgary-Peigan,4,Health and education fee,Yes,No,12041,11594,50.95,Yes,52,52,,2026-10-21T23:49:27Z
-23,Calgary-Shaw,4,Health and education fee,Yes,No,7654,8208,48.25,No,70,71,,2026-10-21T23:49:27Z
-24,Calgary-South East,4,Health and education fee,Yes,No,17253,14830,53.78,Yes,76,76,,2026-10-21T23:49:27Z
-25,Calgary-Varsity,4,Health and education fee,Yes,No,6969,13864,33.45,No,51,51,,2026-10-21T23:49:27Z
-26,Calgary-West,4,Health and education fee,Yes,No,12075,13101,47.96,No,54,54,,2026-10-21T23:49:27Z
-27,Edmonton-Beverly-Clareview,4,Health and education fee,Yes,No,5470,7042,43.72,No,33,49,,2026-10-21T23:49:27Z
-28,Edmonton-Castle Downs,4,Health and education fee,Yes,No,8292,8114,50.54,Yes,41,69,,2026-10-21T23:49:27Z
-29,Edmonton-City Centre,4,Health and education fee,Yes,No,7752,12000,39.25,No,75,79,,2026-10-21T23:49:27Z
-30,Edmonton-Decore,4,Health and education fee,Yes,No,8204,9885,45.35,No,56,56,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-31,Edmonton-Ellerslie,4,Health and education fee,Yes,No,9768,13905,41.26,No,49,52,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-32,Edmonton-Glenora,4,Health and education fee,Yes,No,7378,14069,34.40,No,52,52,,2026-10-21T23:49:27Z
-33,Edmonton-Gold Bar,4,Health and education fee,Yes,No,6217,8490,42.27,No,58,58,,2026-10-21T23:49:27Z
-34,Edmonton-Highlands-Norwood,4,Health and education fee,Yes,No,5739,10650,35.02,No,48,49,,2026-10-21T23:49:27Z
-35,Edmonton-Manning,4,Health and education fee,Yes,No,9341,11641,44.52,No,48,59,,2026-10-21T23:49:27Z
-36,Edmonton-McClung,4,Health and education fee,Yes,No,7926,10848,42.22,No,51,51,,2026-10-21T23:49:27Z
-37,Edmonton-Meadows,4,Health and education fee,Yes,No,8308,11866,41.18,No,61,61,,2026-10-21T23:49:27Z
-38,Edmonton-Mill Woods,4,Health and education fee,Yes,No,7029,9017,43.81,No,53,53,,2026-10-21T23:49:27Z
-39,Edmonton-North West,4,Health and education fee,Yes,No,6774,9777,40.93,No,62,68,,2026-10-21T23:49:27Z
-40,Edmonton-Riverview,4,Health and education fee,Yes,No,8467,13994,37.70,No,53,53,,2026-10-21T23:49:27Z
-41,Edmonton-Rutherford,4,Health and education fee,Yes,No,8239,12250,40.21,No,50,50,,2026-10-21T23:49:27Z
-42,Edmonton-South,4,Health and education fee,Yes,No,13689,17951,43.26,No,88,88,,2026-10-21T23:49:27Z
-43,Edmonton-South West,4,Health and education fee,Yes,No,15706,18845,45.46,No,76,76,,2026-10-21T23:49:27Z
-44,Edmonton-Strathcona,4,Health and education fee,Yes,No,5258,15963,24.78,No,50,50,,2026-10-21T23:49:27Z
-45,Edmonton-West Henday,4,Health and education fee,Yes,No,11978,14487,45.26,No,59,59,,2026-10-21T23:49:27Z
-46,Edmonton-Whitemud,4,Health and education fee,Yes,No,9220,14686,38.57,No,51,51,,2026-10-21T23:49:27Z
-47,Airdrie-Cochrane,4,Health and education fee,Yes,No,17885,10649,62.68,Yes,92,92,,2026-10-21T23:49:27Z
-48,Airdrie-East,4,Health and education fee,Yes,No,18268,11749,60.86,Yes,73,73,,2026-10-21T23:49:27Z
-49,Athabasca-Barrhead-Westlock,4,Health and education fee,Yes,No,16029,7121,69.24,Yes,62,62,,2026-10-21T23:49:27Z
-50,Banff-Kananaskis,4,Health and education fee,Yes,No,12468,16281,43.37,No,64,64,,2026-10-21T23:49:27Z
-51,Bonnyville-Cold Lake-St. Paul,4,Health and education fee,Yes,No,7542,4744,61.39,Yes,55,74,,2026-10-21T23:49:27Z
-52,Brooks-Medicine Hat,4,Health and education fee,Yes,No,13926,7968,63.61,Yes,71,71,,2026-10-21T23:49:27Z
-53,Camrose,4,Health and education fee,Yes,No,14768,7674,65.81,Yes,64,70,,2026-10-21T23:49:27Z
-54,Cardston-Siksika,4,Health and education fee,Yes,No,11382,6301,64.37,Yes,67,68,,2026-10-21T23:49:27Z
-55,Central Peace-Notley,4,Health and education fee,Yes,No,9182,3595,71.86,Yes,60,60,,2026-10-21T23:49:27Z
-56,Chestermere-Strathmore,4,Health and education fee,Yes,No,17766,10689,62.44,Yes,69,71,,2026-10-21T23:49:27Z
-57,Cypress-Medicine Hat,4,Health and education fee,Yes,No,14764,10065,59.46,Yes,59,59,,2026-10-21T23:49:27Z
-58,Drayton Valley-Devon,4,Health and education fee,Yes,No,18323,7202,71.78,Yes,68,68,,2026-10-21T23:49:27Z
-59,Drumheller-Stettler,4,Health and education fee,Yes,No,15050,4682,76.27,Yes,71,71,,2026-10-21T23:49:27Z
-60,Fort McMurray-Lac La Biche,4,Health and education fee,Yes,No,8351,4945,62.81,Yes,58,63,,2026-10-21T23:49:27Z
-61,Fort McMurray-Wood Buffalo,4,Health and education fee,Yes,No,3036,1854,62.09,Yes,13,40,,2026-10-21T23:49:27Z
-62,Fort Saskatchewan-Vegreville,4,Health and education fee,Yes,No,13527,6579,67.28,Yes,61,82,,2026-10-21T23:49:27Z
-63,Grande Prairie,4,Health and education fee,Yes,No,11404,6883,62.36,Yes,44,52,,2026-10-21T23:49:27Z
-64,Grande Prairie-Wapiti,4,Health and education fee,Yes,No,16739,6257,72.79,Yes,69,81,,2026-10-21T23:49:27Z
-65,Highwood,4,Health and education fee,Yes,No,15890,7497,67.94,Yes,112,112,,2026-10-21T23:49:27Z
-66,Innisfail-Sylvan Lake,4,Health and education fee,Yes,No,18247,8026,69.45,Yes,73,73,,2026-10-21T23:49:27Z
-67,Lac Ste. Anne-Parkland,4,Health and education fee,Yes,No,17165,8163,67.77,Yes,75,75,,2026-10-21T23:49:27Z
-68,Lacombe-Ponoka,4,Health and education fee,Yes,No,16834,7749,68.48,Yes,72,72,,2026-10-21T23:49:27Z
-69,Leduc-Beaumont,4,Health and education fee,Yes,No,17823,11859,60.05,Yes,68,68,,2026-10-21T23:49:27Z
-70,Lesser Slave Lake,4,Health and education fee,Yes,No,5227,4755,52.36,Yes,45,48,,2026-10-21T23:49:27Z
-71,Lethbridge-East,4,Health and education fee,Yes,No,11585,12504,48.09,No,67,69,,2026-10-21T23:49:27Z
-72,Lethbridge-West,4,Health and education fee,Yes,No,11211,15164,42.51,No,67,67,,2026-10-21T23:49:27Z
-73,Livingstone-Macleod,4,Health and education fee,Yes,No,17521,10173,63.27,Yes,93,94,,2026-10-21T23:49:27Z
-74,Maskwacis-Wetaskiwin,4,Health and education fee,Yes,No,12598,7398,63.00,Yes,53,57,,2026-10-21T23:49:27Z
-75,Morinville-St. Albert,4,Health and education fee,Yes,No,13323,7974,62.56,Yes,58,64,,2026-10-21T23:49:27Z
-76,Olds-Didsbury-Three Hills,4,Health and education fee,Yes,No,19997,7389,73.02,Yes,71,71,,2026-10-21T23:49:27Z
-77,Peace River,4,Health and education fee,Yes,No,8629,5634,60.50,Yes,68,69,,2026-10-21T23:49:27Z
-78,Red Deer-North,4,Health and education fee,Yes,No,12435,9336,57.12,Yes,64,64,,2026-10-21T23:49:27Z
-79,Red Deer-South,4,Health and education fee,Yes,No,14972,11526,56.50,Yes,71,73,,2026-10-21T23:49:27Z
-80,Rimbey-Rocky Mountain House-Sundre,4,Health and education fee,Yes,No,18555,5328,77.69,Yes,83,85,,2026-10-21T23:49:27Z
-81,Sherwood Park,4,Health and education fee,Yes,No,11299,9118,55.34,Yes,61,61,,2026-10-21T23:49:27Z
-82,Spruce Grove-Stony Plain,4,Health and education fee,Yes,No,14284,8318,63.20,Yes,66,67,,2026-10-21T23:49:27Z
-83,St. Albert,4,Health and education fee,Yes,No,9418,9211,50.56,Yes,59,60,,2026-10-21T23:49:27Z
-84,Strathcona-Sherwood Park,4,Health and education fee,Yes,No,16704,12835,56.55,Yes,63,63,,2026-10-21T23:49:27Z
-85,Taber-Warner,4,Health and education fee,Yes,No,13001,5206,71.41,Yes,70,70,,2026-10-21T23:49:27Z
-86,Vermilion-Lloydminster-Wainwright,4,Health and education fee,Yes,No,13713,5185,72.56,Yes,55,66,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-87,West Yellowhead,4,Health and education fee,Yes,No,7912,3628,68.56,Yes,73,74,,2026-10-21T23:49:27Z
-1,Calgary-Acadia,5,Proof of citizenship to vote,Yes,No,12304,11502,51.68,Yes,57,57,,2026-10-21T23:49:27Z
-2,Calgary-Beddington,5,Proof of citizenship to vote,Yes,No,10690,10828,49.68,No,53,53,,2026-10-21T23:49:27Z
-3,Calgary-Bow,5,Proof of citizenship to vote,Yes,No,11536,8573,57.37,Yes,69,69,,2026-10-21T23:49:27Z
-4,Calgary-Buffalo,5,Proof of citizenship to vote,Yes,No,10501,13807,43.20,No,78,78,,2026-10-21T23:49:27Z
-5,Calgary-Cross,5,Proof of citizenship to vote,Yes,No,8192,7331,52.77,Yes,48,48,,2026-10-21T23:49:27Z
-6,Calgary-Currie,5,Proof of citizenship to vote,Yes,No,8175,7878,50.93,Yes,56,58,,2026-10-21T23:49:27Z
-7,Calgary-East,5,Proof of citizenship to vote,Yes,No,9204,6698,57.88,Yes,74,74,,2026-10-21T23:49:27Z
-8,Calgary-Edgemont,5,Proof of citizenship to vote,Yes,No,11802,12616,48.33,No,57,57,,2026-10-21T23:49:27Z
-9,Calgary-Elbow,5,Proof of citizenship to vote,Yes,No,8772,7726,53.17,Yes,60,60,,2026-10-21T23:49:27Z
-10,Calgary-Falconridge,5,Proof of citizenship to vote,Yes,No,6784,7235,48.39,No,51,51,,2026-10-21T23:49:27Z
-11,Calgary-Fish Creek,5,Proof of citizenship to vote,Yes,No,10377,6522,61.41,Yes,59,59,,2026-10-21T23:49:27Z
-12,Calgary-Foothills,5,Proof of citizenship to vote,Yes,No,4363,3022,59.08,Yes,52,62,,2026-10-21T23:49:27Z
-13,Calgary-Glenmore,5,Proof of citizenship to vote,Yes,No,9431,6754,58.27,Yes,59,59,,2026-10-21T23:49:27Z
-14,Calgary-Hays,5,Proof of citizenship to vote,Yes,No,14703,10409,58.55,Yes,58,58,,2026-10-21T23:49:27Z
-15,Calgary-Klein,5,Proof of citizenship to vote,Yes,No,10692,11622,47.92,No,53,53,,2026-10-21T23:49:27Z
-16,Calgary-Lougheed,5,Proof of citizenship to vote,Yes,No,11916,8993,56.99,Yes,45,45,,2026-10-21T23:49:27Z
-17,Calgary-Bhullar-McCall,5,Proof of citizenship to vote,Yes,No,5709,7475,43.30,No,39,39,,2026-10-21T23:49:27Z
-18,Calgary-Mountain View,5,Proof of citizenship to vote,Yes,No,7832,9769,44.50,No,90,90,,2026-10-21T23:49:27Z
-19,Calgary-North,5,Proof of citizenship to vote,Yes,No,10693,9706,52.42,Yes,52,52,,2026-10-21T23:49:27Z
-20,Calgary-North East,5,Proof of citizenship to vote,Yes,No,12836,12638,50.39,Yes,62,65,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-21,Calgary-North West,5,Proof of citizenship to vote,Yes,No,14014,13786,50.41,Yes,58,58,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-22,Calgary-Peigan,5,Proof of citizenship to vote,Yes,No,13205,10082,56.71,Yes,52,52,,2026-10-21T23:49:27Z
-23,Calgary-Shaw,5,Proof of citizenship to vote,Yes,No,9011,7091,55.96,Yes,70,71,,2026-10-21T23:49:27Z
-24,Calgary-South East,5,Proof of citizenship to vote,Yes,No,19552,12593,60.82,Yes,76,76,,2026-10-21T23:49:27Z
-25,Calgary-Varsity,5,Proof of citizenship to vote,Yes,No,4936,5718,46.33,No,51,51,,2026-10-21T23:49:27Z
-26,Calgary-West,5,Proof of citizenship to vote,Yes,No,13605,11373,54.47,Yes,54,54,,2026-10-21T23:49:27Z
-27,Edmonton-Beverly-Clareview,5,Proof of citizenship to vote,Yes,No,6182,6146,50.15,Yes,33,49,,2026-10-21T23:49:27Z
-28,Edmonton-Castle Downs,5,Proof of citizenship to vote,Yes,No,9989,9576,51.06,Yes,41,69,,2026-10-21T23:49:27Z
-29,Edmonton-City Centre,5,Proof of citizenship to vote,Yes,No,7004,12814,35.34,No,75,79,,2026-10-21T23:49:27Z
-30,Edmonton-Decore,5,Proof of citizenship to vote,Yes,No,9128,8660,51.32,Yes,56,56,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-31,Edmonton-Ellerslie,5,Proof of citizenship to vote,Yes,No,11604,11797,49.59,No,49,52,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-32,Edmonton-Glenora,5,Proof of citizenship to vote,Yes,No,8466,13071,39.31,No,52,52,,2026-10-21T23:49:27Z
-33,Edmonton-Gold Bar,5,Proof of citizenship to vote,Yes,No,7129,7720,48.01,No,58,58,,2026-10-21T23:49:27Z
-34,Edmonton-Highlands-Norwood,5,Proof of citizenship to vote,Yes,No,6718,9658,41.02,No,48,49,,2026-10-21T23:49:27Z
-35,Edmonton-Manning,5,Proof of citizenship to vote,Yes,No,10843,10005,52.01,Yes,48,59,,2026-10-21T23:49:27Z
-36,Edmonton-McClung,5,Proof of citizenship to vote,Yes,No,9294,9480,49.50,No,51,51,,2026-10-21T23:49:27Z
-37,Edmonton-Meadows,5,Proof of citizenship to vote,Yes,No,9544,10886,46.72,No,61,61,,2026-10-21T23:49:27Z
-38,Edmonton-Mill Woods,5,Proof of citizenship to vote,Yes,No,8174,7899,50.86,Yes,53,53,,2026-10-21T23:49:27Z
-39,Edmonton-North West,5,Proof of citizenship to vote,Yes,No,8485,9070,48.33,No,62,68,,2026-10-21T23:49:27Z
-40,Edmonton-Riverview,5,Proof of citizenship to vote,Yes,No,6241,6933,47.37,No,53,53,,2026-10-21T23:49:27Z
-41,Edmonton-Rutherford,5,Proof of citizenship to vote,Yes,No,6440,6812,48.60,No,50,50,,2026-10-21T23:49:27Z
-42,Edmonton-South,5,Proof of citizenship to vote,Yes,No,16430,16594,49.75,No,88,88,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-43,Edmonton-South West,5,Proof of citizenship to vote,Yes,No,15412,12922,54.39,Yes,76,76,,2026-10-21T23:49:27Z
-44,Edmonton-Strathcona,5,Proof of citizenship to vote,Yes,No,6451,14691,30.51,No,50,50,,2026-10-21T23:49:27Z
-45,Edmonton-West Henday,5,Proof of citizenship to vote,Yes,No,13835,12481,52.57,Yes,59,59,,2026-10-21T23:49:27Z
-46,Edmonton-Whitemud,5,Proof of citizenship to vote,Yes,No,6926,6755,50.62,Yes,51,51,,2026-10-21T23:49:27Z
-47,Airdrie-Cochrane,5,Proof of citizenship to vote,Yes,No,19855,8668,69.61,Yes,92,92,,2026-10-21T23:49:27Z
-48,Airdrie-East,5,Proof of citizenship to vote,Yes,No,20061,9960,66.82,Yes,73,73,,2026-10-21T23:49:27Z
-49,Athabasca-Barrhead-Westlock,5,Proof of citizenship to vote,Yes,No,17294,6011,74.21,Yes,62,62,,2026-10-21T23:49:27Z
-50,Banff-Kananaskis,5,Proof of citizenship to vote,Yes,No,10866,9235,54.06,Yes,64,64,,2026-10-21T23:49:27Z
-51,Bonnyville-Cold Lake-St. Paul,5,Proof of citizenship to vote,Yes,No,8461,3754,69.27,Yes,55,74,,2026-10-21T23:49:27Z
-52,Brooks-Medicine Hat,5,Proof of citizenship to vote,Yes,No,15564,6572,70.31,Yes,71,71,,2026-10-21T23:49:27Z
-53,Camrose,5,Proof of citizenship to vote,Yes,No,15936,6165,72.11,Yes,64,70,,2026-10-21T23:49:27Z
-54,Cardston-Siksika,5,Proof of citizenship to vote,Yes,No,12346,5319,69.89,Yes,67,68,,2026-10-21T23:49:27Z
-55,Central Peace-Notley,5,Proof of citizenship to vote,Yes,No,9527,2558,78.83,Yes,60,60,,2026-10-21T23:49:27Z
-56,Chestermere-Strathmore,5,Proof of citizenship to vote,Yes,No,16125,6318,71.85,Yes,69,71,,2026-10-21T23:49:27Z
-57,Cypress-Medicine Hat,5,Proof of citizenship to vote,Yes,No,16088,8168,66.33,Yes,59,59,,2026-10-21T23:49:27Z
-58,Drayton Valley-Devon,5,Proof of citizenship to vote,Yes,No,19536,6013,76.46,Yes,68,68,,2026-10-21T23:49:27Z
-59,Drumheller-Stettler,5,Proof of citizenship to vote,Yes,No,16101,3653,81.51,Yes,71,71,,2026-10-21T23:49:27Z
-60,Fort McMurray-Lac La Biche,5,Proof of citizenship to vote,Yes,No,6031,2686,69.19,Yes,58,63,,2026-10-21T23:49:27Z
-61,Fort McMurray-Wood Buffalo,5,Proof of citizenship to vote,Yes,No,4707,1896,71.29,Yes,13,40,,2026-10-21T23:49:27Z
-62,Fort Saskatchewan-Vegreville,5,Proof of citizenship to vote,Yes,No,14810,5406,73.26,Yes,61,82,,2026-10-21T23:49:27Z
-63,Grande Prairie,5,Proof of citizenship to vote,Yes,No,12644,5397,70.08,Yes,44,52,,2026-10-21T23:49:27Z
-64,Grande Prairie-Wapiti,5,Proof of citizenship to vote,Yes,No,18116,4957,78.52,Yes,69,81,,2026-10-21T23:49:27Z
-65,Highwood,5,Proof of citizenship to vote,Yes,No,17248,6192,73.58,Yes,112,112,,2026-10-21T23:49:27Z
-66,Innisfail-Sylvan Lake,5,Proof of citizenship to vote,Yes,No,20225,6643,75.28,Yes,73,73,,2026-10-21T23:49:27Z
-67,Lac Ste. Anne-Parkland,5,Proof of citizenship to vote,Yes,No,18626,7183,72.17,Yes,75,75,,2026-10-21T23:49:27Z
-68,Lacombe-Ponoka,5,Proof of citizenship to vote,Yes,No,18539,6196,74.95,Yes,72,72,,2026-10-21T23:49:27Z
-69,Leduc-Beaumont,5,Proof of citizenship to vote,Yes,No,19680,9940,66.44,Yes,68,68,,2026-10-21T23:49:27Z
-70,Lesser Slave Lake,5,Proof of citizenship to vote,Yes,No,5989,4018,59.85,Yes,45,48,,2026-10-21T23:49:27Z
-71,Lethbridge-East,5,Proof of citizenship to vote,Yes,No,13585,10658,56.04,Yes,67,69,,2026-10-21T23:49:27Z
-72,Lethbridge-West,5,Proof of citizenship to vote,Yes,No,13352,13078,50.52,Yes,67,67,,2026-10-21T23:49:27Z
-73,Livingstone-Macleod,5,Proof of citizenship to vote,Yes,No,19236,8388,69.64,Yes,93,94,,2026-10-21T23:49:27Z
-74,Maskwacis-Wetaskiwin,5,Proof of citizenship to vote,Yes,No,13649,6423,68.00,Yes,53,57,,2026-10-21T23:49:27Z
-75,Morinville-St. Albert,5,Proof of citizenship to vote,Yes,No,14630,6654,68.74,Yes,58,64,,2026-10-21T23:49:27Z
-76,Olds-Didsbury-Three Hills,5,Proof of citizenship to vote,Yes,No,21265,6209,77.40,Yes,71,71,,2026-10-21T23:49:27Z
-77,Peace River,5,Proof of citizenship to vote,Yes,No,9010,4650,65.96,Yes,68,69,,2026-10-21T23:49:27Z
-78,Red Deer-North,5,Proof of citizenship to vote,Yes,No,14063,7264,65.94,Yes,64,64,,2026-10-21T23:49:27Z
-79,Red Deer-South,5,Proof of citizenship to vote,Yes,No,16989,9536,64.05,Yes,71,73,,2026-10-21T23:49:27Z
-80,Rimbey-Rocky Mountain House-Sundre,5,Proof of citizenship to vote,Yes,No,21349,4853,81.48,Yes,83,85,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-81,Sherwood Park,5,Proof of citizenship to vote,Yes,No,12671,7725,62.12,Yes,61,61,,2026-10-21T23:49:27Z
-82,Spruce Grove-Stony Plain,5,Proof of citizenship to vote,Yes,No,15743,6841,69.71,Yes,66,67,,2026-10-21T23:49:27Z
-83,St. Albert,5,Proof of citizenship to vote,Yes,No,10623,7953,57.19,Yes,59,60,,2026-10-21T23:49:27Z
-84,Strathcona-Sherwood Park,5,Proof of citizenship to vote,Yes,No,14308,5753,71.32,Yes,63,63,,2026-10-21T23:49:27Z
-85,Taber-Warner,5,Proof of citizenship to vote,Yes,No,14327,4023,78.08,Yes,70,70,,2026-10-21T23:49:27Z
-86,Vermilion-Lloydminster-Wainwright,5,Proof of citizenship to vote,Yes,No,14886,3989,78.87,Yes,55,66,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-87,West Yellowhead,5,Proof of citizenship to vote,Yes,No,8620,2874,75.00,Yes,73,74,,2026-10-21T23:49:27Z
-1,Calgary-Acadia,6,Provinces pick judges,Yes,No,7137,11192,38.94,No,57,57,,2026-10-21T23:49:27Z
-2,Calgary-Beddington,6,Provinces pick judges,Yes,No,8060,13711,37.02,No,53,53,,2026-10-21T23:49:27Z
-3,Calgary-Bow,6,Provinces pick judges,Yes,No,9039,10984,45.14,No,69,69,,2026-10-21T23:49:27Z
-4,Calgary-Buffalo,6,Provinces pick judges,Yes,No,7298,16915,30.14,No,78,78,,2026-10-21T23:49:27Z
-5,Calgary-Cross,6,Provinces pick judges,Yes,No,5721,9614,37.31,No,48,48,,2026-10-21T23:49:27Z
-6,Calgary-Currie,6,Provinces pick judges,Yes,No,6103,9576,38.92,No,56,58,,2026-10-21T23:49:27Z
-7,Calgary-East,6,Provinces pick judges,Yes,No,6916,9115,43.14,No,74,74,,2026-10-21T23:49:27Z
-8,Calgary-Edgemont,6,Provinces pick judges,Yes,No,8665,16001,35.13,No,57,57,,2026-10-21T23:49:27Z
-9,Calgary-Elbow,6,Provinces pick judges,Yes,No,6702,9650,40.99,No,60,60,,2026-10-21T23:49:27Z
-10,Calgary-Falconridge,6,Provinces pick judges,Yes,No,4542,9456,32.45,No,51,51,,2026-10-21T23:49:27Z
-11,Calgary-Fish Creek,6,Provinces pick judges,Yes,No,8476,8331,50.43,Yes,59,59,,2026-10-21T23:49:27Z
-12,Calgary-Foothills,6,Provinces pick judges,Yes,No,7953,11548,40.78,No,52,62,,2026-10-21T23:49:27Z
-13,Calgary-Glenmore,6,Provinces pick judges,Yes,No,7497,8658,46.41,No,59,59,,2026-10-21T23:49:27Z
-14,Calgary-Hays,6,Provinces pick judges,Yes,No,11132,13676,44.87,No,58,58,,2026-10-21T23:49:27Z
-15,Calgary-Klein,6,Provinces pick judges,Yes,No,8041,14346,35.92,No,53,53,,2026-10-21T23:49:27Z
-16,Calgary-Lougheed,6,Provinces pick judges,Yes,No,9097,11697,43.75,No,45,45,,2026-10-21T23:49:27Z
-17,Calgary-Bhullar-McCall,6,Provinces pick judges,Yes,No,3624,9480,27.66,No,39,39,,2026-10-21T23:49:27Z
-18,Calgary-Mountain View,6,Provinces pick judges,Yes,No,7327,21053,25.82,No,90,90,,2026-10-21T23:49:27Z
-19,Calgary-North,6,Provinces pick judges,Yes,No,7443,12877,36.63,No,52,52,,2026-10-21T23:49:27Z
-20,Calgary-North East,6,Provinces pick judges,Yes,No,8569,16777,33.81,No,62,65,,2026-10-21T23:49:27Z
-21,Calgary-North West,6,Provinces pick judges,Yes,No,7851,10503,42.78,No,58,58,,2026-10-21T23:49:27Z
-22,Calgary-Peigan,6,Provinces pick judges,Yes,No,10265,13298,43.56,No,52,52,,2026-10-21T23:49:27Z
-23,Calgary-Shaw,6,Provinces pick judges,Yes,No,6386,9599,39.95,No,70,71,,2026-10-21T23:49:27Z
-24,Calgary-South East,6,Provinces pick judges,Yes,No,13512,15546,46.50,No,76,76,,2026-10-21T23:49:27Z
-25,Calgary-Varsity,6,Provinces pick judges,Yes,No,4925,11139,30.66,No,51,51,,2026-10-21T23:49:27Z
-26,Calgary-West,6,Provinces pick judges,Yes,No,10286,14858,40.91,No,54,54,,2026-10-21T23:49:27Z
-27,Edmonton-Beverly-Clareview,6,Provinces pick judges,Yes,No,4156,7964,34.29,No,33,49,,2026-10-21T23:49:27Z
-28,Edmonton-Castle Downs,6,Provinces pick judges,Yes,No,7337,12921,36.22,No,41,69,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-29,Edmonton-City Centre,6,Provinces pick judges,Yes,No,4481,15260,22.70,No,75,79,,2026-10-21T23:49:27Z
-30,Edmonton-Decore,6,Provinces pick judges,Yes,No,6902,11245,38.03,No,56,56,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-31,Edmonton-Ellerslie,6,Provinces pick judges,Yes,No,7420,15567,32.28,No,49,52,,2026-10-21T23:49:27Z
-32,Edmonton-Glenora,6,Provinces pick judges,Yes,No,5747,15406,27.17,No,52,52,,2026-10-21T23:49:27Z
-33,Edmonton-Gold Bar,6,Provinces pick judges,Yes,No,5385,9362,36.52,No,58,58,,2026-10-21T23:49:27Z
-34,Edmonton-Highlands-Norwood,6,Provinces pick judges,Yes,No,4562,11773,27.93,No,48,49,,2026-10-21T23:49:27Z
-35,Edmonton-Manning,6,Provinces pick judges,Yes,No,7483,13518,35.63,No,48,59,,2026-10-21T23:49:27Z
-36,Edmonton-McClung,6,Provinces pick judges,Yes,No,6482,11896,35.27,No,51,51,,2026-10-21T23:49:27Z
-37,Edmonton-Meadows,6,Provinces pick judges,Yes,No,6224,13864,30.98,No,61,61,,2026-10-21T23:49:27Z
-38,Edmonton-Mill Woods,6,Provinces pick judges,Yes,No,5835,10486,35.75,No,53,53,,2026-10-21T23:49:27Z
-39,Edmonton-North West,6,Provinces pick judges,Yes,No,5879,11671,33.50,No,62,68,,2026-10-21T23:49:27Z
-40,Edmonton-Riverview,6,Provinces pick judges,Yes,No,4539,8554,34.67,No,53,53,,2026-10-21T23:49:27Z
-41,Edmonton-Rutherford,6,Provinces pick judges,Yes,No,4637,8554,35.15,No,50,50,,2026-10-21T23:49:27Z
-42,Edmonton-South,6,Provinces pick judges,Yes,No,8505,13652,38.39,No,88,88,,2026-10-21T23:49:27Z
-43,Edmonton-South West,6,Provinces pick judges,Yes,No,12734,22132,36.52,No,76,76,,2026-10-21T23:49:27Z
-44,Edmonton-Strathcona,6,Provinces pick judges,Yes,No,3374,9594,26.02,No,50,50,,2026-10-21T23:49:27Z
-45,Edmonton-West Henday,6,Provinces pick judges,Yes,No,9706,16550,36.97,No,59,59,,2026-10-21T23:49:27Z
-46,Edmonton-Whitemud,6,Provinces pick judges,Yes,No,5060,8562,37.15,No,51,51,,2026-10-21T23:49:27Z
-47,Airdrie-Cochrane,6,Provinces pick judges,Yes,No,16337,12054,57.54,Yes,92,92,,2026-10-21T23:49:27Z
-48,Airdrie-East,6,Provinces pick judges,Yes,No,13305,9344,58.74,Yes,73,73,,2026-10-21T23:49:27Z
-49,Athabasca-Barrhead-Westlock,6,Provinces pick judges,Yes,No,14776,8132,64.50,Yes,62,62,,2026-10-21T23:49:27Z
-50,Banff-Kananaskis,6,Provinces pick judges,Yes,No,8623,11406,43.05,No,64,64,,2026-10-21T23:49:27Z
-51,Bonnyville-Cold Lake-St. Paul,6,Provinces pick judges,Yes,No,6897,5365,56.25,Yes,55,74,,2026-10-21T23:49:27Z
-52,Brooks-Medicine Hat,6,Provinces pick judges,Yes,No,12968,9353,58.10,Yes,71,71,,2026-10-21T23:49:27Z
-53,Camrose,6,Provinces pick judges,Yes,No,13559,8682,60.96,Yes,64,70,,2026-10-21T23:49:27Z
-54,Cardston-Siksika,6,Provinces pick judges,Yes,No,10944,6691,62.06,Yes,67,68,,2026-10-21T23:49:27Z
-55,Central Peace-Notley,6,Provinces pick judges,Yes,No,8919,3771,70.28,Yes,60,60,,2026-10-21T23:49:27Z
-56,Chestermere-Strathmore,6,Provinces pick judges,Yes,No,13017,9274,58.40,Yes,69,71,,2026-10-21T23:49:27Z
-57,Cypress-Medicine Hat,6,Provinces pick judges,Yes,No,13190,11234,54.00,Yes,59,59,,2026-10-21T23:49:27Z
-58,Drayton Valley-Devon,6,Provinces pick judges,Yes,No,17043,8267,67.34,Yes,68,68,,2026-10-21T23:49:27Z
-59,Drumheller-Stettler,6,Provinces pick judges,Yes,No,14495,5206,73.57,Yes,71,71,,2026-10-21T23:49:27Z
-60,Fort McMurray-Lac La Biche,6,Provinces pick judges,Yes,No,4627,3474,57.12,Yes,58,63,,2026-10-21T23:49:27Z
-61,Fort McMurray-Wood Buffalo,6,Provinces pick judges,Yes,No,2014,1650,54.97,Yes,13,40,,2026-10-21T23:49:27Z
-62,Fort Saskatchewan-Vegreville,6,Provinces pick judges,Yes,No,12388,7567,62.08,Yes,61,82,,2026-10-21T23:49:27Z
-63,Grande Prairie,6,Provinces pick judges,Yes,No,10654,7417,58.96,Yes,44,52,,2026-10-21T23:49:27Z
-64,Grande Prairie-Wapiti,6,Provinces pick judges,Yes,No,16007,6945,69.74,Yes,69,81,,2026-10-21T23:49:27Z
-65,Highwood,6,Provinces pick judges,Yes,No,15073,8264,64.59,Yes,112,112,,2026-10-21T23:49:27Z
-66,Innisfail-Sylvan Lake,6,Provinces pick judges,Yes,No,16876,9739,63.41,Yes,73,73,,2026-10-21T23:49:27Z
-67,Lac Ste. Anne-Parkland,6,Provinces pick judges,Yes,No,15858,10011,61.30,Yes,75,75,,2026-10-21T23:49:27Z
-68,Lacombe-Ponoka,6,Provinces pick judges,Yes,No,15675,8555,64.69,Yes,72,72,,2026-10-21T23:49:27Z
-69,Leduc-Beaumont,6,Provinces pick judges,Yes,No,13051,9795,57.13,Yes,68,68,,2026-10-21T23:49:27Z
-70,Lesser Slave Lake,6,Provinces pick judges,Yes,No,4846,5021,49.11,No,45,48,,2026-10-21T23:49:27Z
-71,Lethbridge-East,6,Provinces pick judges,Yes,No,10187,13877,42.33,No,67,69,,2026-10-21T23:49:27Z
-72,Lethbridge-West,6,Provinces pick judges,Yes,No,8920,14693,37.78,No,67,67,,2026-10-21T23:49:27Z
-73,Livingstone-Macleod,6,Provinces pick judges,Yes,No,16227,11250,59.06,Yes,93,94,,2026-10-21T23:49:27Z
-74,Maskwacis-Wetaskiwin,6,Provinces pick judges,Yes,No,11344,8391,57.48,Yes,53,57,,2026-10-21T23:49:27Z
-75,Morinville-St. Albert,6,Provinces pick judges,Yes,No,11809,9395,55.69,Yes,58,64,,2026-10-21T23:49:27Z
-76,Olds-Didsbury-Three Hills,6,Provinces pick judges,Yes,No,18602,8655,68.25,Yes,71,71,,2026-10-21T23:49:27Z
-77,Peace River,6,Provinces pick judges,Yes,No,7930,5682,58.26,Yes,68,69,,2026-10-21T23:49:27Z
-78,Red Deer-North,6,Provinces pick judges,Yes,No,9861,6871,58.93,Yes,64,64,,2026-10-21T23:49:27Z
-79,Red Deer-South,6,Provinces pick judges,Yes,No,12296,8111,60.25,Yes,71,73,,2026-10-21T23:49:27Z
-80,Rimbey-Rocky Mountain House-Sundre,6,Provinces pick judges,Yes,No,18074,6482,73.60,Yes,83,85,,2026-10-21T23:49:27Z
-81,Sherwood Park,6,Provinces pick judges,Yes,No,9714,10559,47.92,No,61,61,,2026-10-21T23:49:27Z
-82,Spruce Grove-Stony Plain,6,Provinces pick judges,Yes,No,12955,9691,57.21,Yes,66,67,,2026-10-21T23:49:27Z
-83,St. Albert,6,Provinces pick judges,Yes,No,8046,10480,43.43,No,59,60,,2026-10-21T23:49:27Z
-84,Strathcona-Sherwood Park,6,Provinces pick judges,Yes,No,11680,9048,56.35,Yes,63,63,,2026-10-21T23:49:27Z
-85,Taber-Warner,6,Provinces pick judges,Yes,No,12661,5623,69.25,Yes,70,70,,2026-10-21T23:49:27Z
-86,Vermilion-Lloydminster-Wainwright,6,Provinces pick judges,Yes,No,13051,5668,69.72,Yes,55,66,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-87,West Yellowhead,6,Provinces pick judges,Yes,No,7605,4743,61.59,Yes,73,74,,2026-10-21T23:49:27Z
-1,Calgary-Acadia,7,Abolish the Senate,Yes,No,8063,7225,52.74,Yes,57,57,,2026-10-21T23:49:27Z
-2,Calgary-Beddington,7,Abolish the Senate,Yes,No,8732,14067,38.30,No,53,53,,2026-10-21T23:49:27Z
-3,Calgary-Bow,7,Abolish the Senate,Yes,No,9403,10598,47.01,No,69,69,,2026-10-21T23:49:27Z
-4,Calgary-Buffalo,7,Abolish the Senate,Yes,No,7983,16262,32.93,No,78,78,,2026-10-21T23:49:27Z
-5,Calgary-Cross,7,Abolish the Senate,Yes,No,6159,9190,40.13,No,48,48,,2026-10-21T23:49:27Z
-6,Calgary-Currie,7,Abolish the Senate,Yes,No,6487,9599,40.33,No,56,58,,2026-10-21T23:49:27Z
-7,Calgary-East,7,Abolish the Senate,Yes,No,7187,8796,44.97,No,74,74,,2026-10-21T23:49:27Z
-8,Calgary-Edgemont,7,Abolish the Senate,Yes,No,7119,9318,43.31,No,57,57,,2026-10-21T23:49:27Z
-9,Calgary-Elbow,7,Abolish the Senate,Yes,No,7032,9385,42.83,No,60,60,,2026-10-21T23:49:27Z
-10,Calgary-Falconridge,7,Abolish the Senate,Yes,No,4827,9111,34.63,No,51,51,,2026-10-21T23:49:27Z
-11,Calgary-Fish Creek,7,Abolish the Senate,Yes,No,8669,8111,51.66,Yes,59,59,,2026-10-21T23:49:27Z
-12,Calgary-Foothills,7,Abolish the Senate,Yes,No,3540,3937,47.35,No,52,62,,2026-10-21T23:49:27Z
-13,Calgary-Glenmore,7,Abolish the Senate,Yes,No,7745,8382,48.03,No,59,59,,2026-10-21T23:49:27Z
-14,Calgary-Hays,7,Abolish the Senate,Yes,No,9607,9098,51.36,Yes,58,58,,2026-10-21T23:49:27Z
-15,Calgary-Klein,7,Abolish the Senate,Yes,No,6676,8499,43.99,No,53,53,,2026-10-21T23:49:27Z
-16,Calgary-Lougheed,7,Abolish the Senate,Yes,No,9580,11311,45.86,No,45,45,,2026-10-21T23:49:27Z
-17,Calgary-Bhullar-McCall,7,Abolish the Senate,Yes,No,3700,9421,28.20,No,39,39,,2026-10-21T23:49:27Z
-18,Calgary-Mountain View,7,Abolish the Senate,Yes,No,6004,11383,34.53,No,90,90,,2026-10-21T23:49:27Z
-19,Calgary-North,7,Abolish the Senate,Yes,No,7989,12148,39.67,No,52,52,,2026-10-21T23:49:27Z
-20,Calgary-North East,7,Abolish the Senate,Yes,No,8995,16084,35.87,No,62,65,,2026-10-21T23:49:27Z
-21,Calgary-North West,7,Abolish the Senate,Yes,No,8219,10102,44.86,No,58,58,,2026-10-21T23:49:27Z
-22,Calgary-Peigan,7,Abolish the Senate,Yes,No,8420,8111,50.93,Yes,52,52,,2026-10-21T23:49:27Z
-23,Calgary-Shaw,7,Abolish the Senate,Yes,No,6838,9121,42.85,No,70,71,,2026-10-21T23:49:27Z
-24,Calgary-South East,7,Abolish the Senate,Yes,No,12926,11099,53.80,Yes,76,76,,2026-10-21T23:49:27Z
-25,Calgary-Varsity,7,Abolish the Senate,Yes,No,4290,7082,37.72,No,51,51,,2026-10-21T23:49:27Z
-26,Calgary-West,7,Abolish the Senate,Yes,No,7986,7835,50.48,Yes,54,54,,2026-10-21T23:49:27Z
-27,Edmonton-Beverly-Clareview,7,Abolish the Senate,Yes,No,4550,7704,37.13,No,33,49,,2026-10-21T23:49:27Z
-28,Edmonton-Castle Downs,7,Abolish the Senate,Yes,No,7249,12227,37.22,No,41,69,,2026-10-21T23:49:27Z
-29,Edmonton-City Centre,7,Abolish the Senate,Yes,No,5000,14580,25.54,No,75,79,,2026-10-21T23:49:27Z
-30,Edmonton-Decore,7,Abolish the Senate,Yes,No,6885,10953,38.60,No,56,56,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-31,Edmonton-Ellerslie,7,Abolish the Senate,Yes,No,7874,15311,33.96,No,49,52,,2026-10-21T23:49:27Z
-32,Edmonton-Glenora,7,Abolish the Senate,Yes,No,5876,14086,29.44,No,52,52,,2026-10-21T23:49:27Z
-33,Edmonton-Gold Bar,7,Abolish the Senate,Yes,No,5635,9093,38.26,No,58,58,,2026-10-21T23:49:27Z
-34,Edmonton-Highlands-Norwood,7,Abolish the Senate,Yes,No,4981,11316,30.56,No,48,49,,2026-10-21T23:49:27Z
-35,Edmonton-Manning,7,Abolish the Senate,Yes,No,7987,12821,38.38,No,48,59,,2026-10-21T23:49:27Z
-36,Edmonton-McClung,7,Abolish the Senate,Yes,No,6913,11519,37.51,No,51,51,,2026-10-21T23:49:27Z
-37,Edmonton-Meadows,7,Abolish the Senate,Yes,No,6889,13491,33.80,No,61,61,,2026-10-21T23:49:27Z
-38,Edmonton-Mill Woods,7,Abolish the Senate,Yes,No,6076,10096,37.57,No,53,53,,2026-10-21T23:49:27Z
-39,Edmonton-North West,7,Abolish the Senate,Yes,No,6052,10654,36.23,No,62,68,,2026-10-21T23:49:27Z
-40,Edmonton-Riverview,7,Abolish the Senate,Yes,No,4802,8293,36.67,No,53,53,,2026-10-21T23:49:27Z
-41,Edmonton-Rutherford,7,Abolish the Senate,Yes,No,5062,8120,38.40,No,50,50,,2026-10-21T23:49:27Z
-42,Edmonton-South,7,Abolish the Senate,Yes,No,9209,12904,41.65,No,88,88,,2026-10-21T23:49:27Z
-43,Edmonton-South West,7,Abolish the Senate,Yes,No,10977,14430,43.20,No,76,76,,2026-10-21T23:49:27Z
-44,Edmonton-Strathcona,7,Abolish the Senate,Yes,No,3579,9188,28.03,No,50,50,,2026-10-21T23:49:27Z
-45,Edmonton-West Henday,7,Abolish the Senate,Yes,No,8432,10947,43.51,No,59,59,,2026-10-21T23:49:27Z
-46,Edmonton-Whitemud,7,Abolish the Senate,Yes,No,5404,8192,39.75,No,51,51,,2026-10-21T23:49:27Z
-47,Airdrie-Cochrane,7,Abolish the Senate,Yes,No,16699,11590,59.03,Yes,92,92,,2026-10-21T23:49:27Z
-48,Airdrie-East,7,Abolish the Senate,Yes,No,13511,9089,59.78,Yes,73,73,,2026-10-21T23:49:27Z
-49,Athabasca-Barrhead-Westlock,7,Abolish the Senate,Yes,No,15133,7783,66.04,Yes,62,62,,2026-10-21T23:49:27Z
-50,Banff-Kananaskis,7,Abolish the Senate,Yes,No,8892,11175,44.31,No,64,64,,2026-10-21T23:49:27Z
-51,Bonnyville-Cold Lake-St. Paul,7,Abolish the Senate,Yes,No,7092,5150,57.93,Yes,55,74,,2026-10-21T23:49:27Z
-52,Brooks-Medicine Hat,7,Abolish the Senate,Yes,No,13420,8631,60.86,Yes,71,71,,2026-10-21T23:49:27Z
-53,Camrose,7,Abolish the Senate,Yes,No,14046,8055,63.55,Yes,64,70,,2026-10-21T23:49:27Z
-54,Cardston-Siksika,7,Abolish the Senate,Yes,No,10991,6614,62.43,Yes,67,68,,2026-10-21T23:49:27Z
-55,Central Peace-Notley,7,Abolish the Senate,Yes,No,9033,3687,71.01,Yes,60,60,,2026-10-21T23:49:27Z
-56,Chestermere-Strathmore,7,Abolish the Senate,Yes,No,13223,8945,59.65,Yes,69,71,,2026-10-21T23:49:27Z
-57,Cypress-Medicine Hat,7,Abolish the Senate,Yes,No,13566,10654,56.01,Yes,59,59,,2026-10-21T23:49:27Z
-58,Drayton Valley-Devon,7,Abolish the Senate,Yes,No,17405,7962,68.61,Yes,68,68,,2026-10-21T23:49:27Z
-59,Drumheller-Stettler,7,Abolish the Senate,Yes,No,14250,5081,73.72,Yes,71,71,,2026-10-21T23:49:27Z
-60,Fort McMurray-Lac La Biche,7,Abolish the Senate,Yes,No,4760,3544,57.32,Yes,58,63,,2026-10-21T23:49:27Z
-61,Fort McMurray-Wood Buffalo,7,Abolish the Senate,Yes,No,2101,1566,57.29,Yes,13,40,,2026-10-21T23:49:27Z
-62,Fort Saskatchewan-Vegreville,7,Abolish the Senate,Yes,No,12568,7404,62.93,Yes,61,82,,2026-10-21T23:49:27Z
-63,Grande Prairie,7,Abolish the Senate,Yes,No,11082,7083,61.01,Yes,44,52,,2026-10-21T23:49:27Z
-64,Grande Prairie-Wapiti,7,Abolish the Senate,Yes,No,16723,7268,69.71,Yes,69,81,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-65,Highwood,7,Abolish the Senate,Yes,No,15330,8079,65.49,Yes,112,112,,2026-10-21T23:49:27Z
-66,Innisfail-Sylvan Lake,7,Abolish the Senate,Yes,No,17592,8797,66.66,Yes,73,73,,2026-10-21T23:49:27Z
-67,Lac Ste. Anne-Parkland,7,Abolish the Senate,Yes,No,16303,9083,64.22,Yes,75,75,,2026-10-21T23:49:27Z
-68,Lacombe-Ponoka,7,Abolish the Senate,Yes,No,16052,8209,66.16,Yes,72,72,,2026-10-21T23:49:27Z
-69,Leduc-Beaumont,7,Abolish the Senate,Yes,No,13384,9265,59.09,Yes,68,68,,2026-10-21T23:49:27Z
-70,Lesser Slave Lake,7,Abolish the Senate,Yes,No,4877,5006,49.35,No,45,48,,2026-10-21T23:49:27Z
-71,Lethbridge-East,7,Abolish the Senate,Yes,No,8955,9172,49.40,No,67,69,,2026-10-21T23:49:27Z
-72,Lethbridge-West,7,Abolish the Senate,Yes,No,9031,14490,38.40,No,67,67,,2026-10-21T23:49:27Z
-73,Livingstone-Macleod,7,Abolish the Senate,Yes,No,14630,7913,64.90,Yes,93,94,,2026-10-21T23:49:27Z
-74,Maskwacis-Wetaskiwin,7,Abolish the Senate,Yes,No,11694,8237,58.67,Yes,53,57,,2026-10-21T23:49:27Z
-75,Morinville-St. Albert,7,Abolish the Senate,Yes,No,12211,9073,57.37,Yes,58,64,,2026-10-21T23:49:27Z
-76,Olds-Didsbury-Three Hills,7,Abolish the Senate,Yes,No,17252,6161,73.69,Yes,71,71,,2026-10-21T23:49:27Z
-77,Peace River,7,Abolish the Senate,Yes,No,7921,5669,58.29,Yes,68,69,,2026-10-21T23:49:27Z
-78,Red Deer-North,7,Abolish the Senate,Yes,No,10066,6588,60.44,Yes,64,64,,2026-10-21T23:49:27Z
-79,Red Deer-South,7,Abolish the Senate,Yes,No,12029,8219,59.41,Yes,71,73,,2026-10-21T23:49:27Z
-80,Rimbey-Rocky Mountain House-Sundre,7,Abolish the Senate,Yes,No,17793,7000,71.77,Yes,83,85,,2026-10-21T23:49:27Z
-81,Sherwood Park,7,Abolish the Senate,Yes,No,9973,10194,49.45,No,61,61,,2026-10-21T23:49:27Z
-82,Spruce Grove-Stony Plain,7,Abolish the Senate,Yes,No,13073,9325,58.37,Yes,66,67,,2026-10-21T23:49:27Z
-83,St. Albert,7,Abolish the Senate,Yes,No,8323,10171,45.00,No,59,60,,2026-10-21T23:49:27Z
-84,Strathcona-Sherwood Park,7,Abolish the Senate,Yes,No,12011,8679,58.05,Yes,63,63,,2026-10-21T23:49:27Z
-85,Taber-Warner,7,Abolish the Senate,Yes,No,12759,5439,70.11,Yes,70,70,,2026-10-21T23:49:27Z
-86,Vermilion-Lloydminster-Wainwright,7,Abolish the Senate,Yes,No,13112,5618,70.01,Yes,55,66,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-87,West Yellowhead,7,Abolish the Senate,Yes,No,7220,3948,64.65,Yes,73,74,,2026-10-21T23:49:27Z
-1,Calgary-Acadia,8,Opt out of federal programs,Yes,No,6596,8631,43.32,No,57,57,,2026-10-21T23:49:27Z
-2,Calgary-Beddington,8,Opt out of federal programs,Yes,No,7525,14646,33.94,No,53,53,,2026-10-21T23:49:27Z
-3,Calgary-Bow,8,Opt out of federal programs,Yes,No,8507,11563,42.39,No,69,69,,2026-10-21T23:49:27Z
-4,Calgary-Buffalo,8,Opt out of federal programs,Yes,No,5635,11455,32.97,No,78,78,,2026-10-21T23:49:27Z
-5,Calgary-Cross,8,Opt out of federal programs,Yes,No,5379,9914,35.17,No,48,48,,2026-10-21T23:49:27Z
-6,Calgary-Currie,8,Opt out of federal programs,Yes,No,5927,10172,36.82,No,56,58,,2026-10-21T23:49:27Z
-7,Calgary-East,8,Opt out of federal programs,Yes,No,6463,15490,29.44,No,74,74,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-8,Calgary-Edgemont,8,Opt out of federal programs,Yes,No,6369,10228,38.37,No,57,57,,2026-10-21T23:49:27Z
-9,Calgary-Elbow,8,Opt out of federal programs,Yes,No,6282,10067,38.42,No,60,60,,2026-10-21T23:49:27Z
-10,Calgary-Falconridge,8,Opt out of federal programs,Yes,No,4287,9689,30.67,No,51,51,,2026-10-21T23:49:27Z
-11,Calgary-Fish Creek,8,Opt out of federal programs,Yes,No,7816,8921,46.70,No,59,59,,2026-10-21T23:49:27Z
-12,Calgary-Foothills,8,Opt out of federal programs,Yes,No,3356,4149,44.72,No,52,62,,2026-10-21T23:49:27Z
-13,Calgary-Glenmore,8,Opt out of federal programs,Yes,No,6977,9249,43.00,No,59,59,,2026-10-21T23:49:27Z
-14,Calgary-Hays,8,Opt out of federal programs,Yes,No,8816,9969,46.93,No,58,58,,2026-10-21T23:49:27Z
-15,Calgary-Klein,8,Opt out of federal programs,Yes,No,6044,9155,39.77,No,53,53,,2026-10-21T23:49:27Z
-16,Calgary-Lougheed,8,Opt out of federal programs,Yes,No,8573,12366,40.94,No,45,45,,2026-10-21T23:49:27Z
-17,Calgary-Bhullar-McCall,8,Opt out of federal programs,Yes,No,3464,9617,26.48,No,39,39,,2026-10-21T23:49:27Z
-18,Calgary-Mountain View,8,Opt out of federal programs,Yes,No,5338,12292,30.28,No,90,90,,2026-10-21T23:49:27Z
-19,Calgary-North,8,Opt out of federal programs,Yes,No,7156,12340,36.70,No,52,52,,2026-10-21T23:49:27Z
-20,Calgary-North East,8,Opt out of federal programs,Yes,No,8081,17259,31.89,No,62,65,,2026-10-21T23:49:27Z
-21,Calgary-North West,8,Opt out of federal programs,Yes,No,7381,11017,40.12,No,58,58,,2026-10-21T23:49:27Z
-22,Calgary-Peigan,8,Opt out of federal programs,Yes,No,7626,9150,45.46,No,52,52,,2026-10-21T23:49:27Z
-23,Calgary-Shaw,8,Opt out of federal programs,Yes,No,4126,4116,50.06,Yes,70,71,,2026-10-21T23:49:27Z
-24,Calgary-South East,8,Opt out of federal programs,Yes,No,11933,12118,49.62,No,76,76,,2026-10-21T23:49:27Z
-25,Calgary-Varsity,8,Opt out of federal programs,Yes,No,4025,8111,33.17,No,51,51,,2026-10-21T23:49:27Z
-26,Calgary-West,8,Opt out of federal programs,Yes,No,7830,9034,46.43,No,54,54,,2026-10-21T23:49:27Z
-27,Edmonton-Beverly-Clareview,8,Opt out of federal programs,Yes,No,3950,7329,35.02,No,33,49,,2026-10-21T23:49:27Z
-28,Edmonton-Castle Downs,8,Opt out of federal programs,Yes,No,6208,13206,31.98,No,41,69,,2026-10-21T23:49:27Z
-29,Edmonton-City Centre,8,Opt out of federal programs,Yes,No,4062,15661,20.60,No,75,79,,2026-10-21T23:49:27Z
-30,Edmonton-Decore,8,Opt out of federal programs,Yes,No,6325,11903,34.70,No,56,56,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-31,Edmonton-Ellerslie,8,Opt out of federal programs,Yes,No,6283,12143,34.10,No,49,52,,2026-10-21T23:49:27Z
-32,Edmonton-Glenora,8,Opt out of federal programs,Yes,No,4168,9199,31.18,No,52,52,,2026-10-21T23:49:27Z
-33,Edmonton-Gold Bar,8,Opt out of federal programs,Yes,No,4951,9805,33.55,No,58,58,,2026-10-21T23:49:27Z
-34,Edmonton-Highlands-Norwood,8,Opt out of federal programs,Yes,No,4179,12166,25.57,No,48,49,,2026-10-21T23:49:27Z
-35,Edmonton-Manning,8,Opt out of federal programs,Yes,No,7053,13978,33.54,No,48,59,,2026-10-21T23:49:27Z
-36,Edmonton-McClung,8,Opt out of federal programs,Yes,No,5970,12926,31.59,No,51,51,,2026-10-21T23:49:27Z
-37,Edmonton-Meadows,8,Opt out of federal programs,Yes,No,5803,14191,29.02,No,61,61,,2026-10-21T23:49:27Z
-38,Edmonton-Mill Woods,8,Opt out of federal programs,Yes,No,6644,12011,35.62,No,53,53,,2026-10-21T23:49:27Z
-39,Edmonton-North West,8,Opt out of federal programs,Yes,No,3871,10139,27.63,No,62,68,,2026-10-21T23:49:27Z
-40,Edmonton-Riverview,8,Opt out of federal programs,Yes,No,4162,9539,30.38,No,53,53,,2026-10-21T23:49:27Z
-41,Edmonton-Rutherford,8,Opt out of federal programs,Yes,No,4367,8813,33.13,No,50,50,,2026-10-21T23:49:27Z
-42,Edmonton-South,8,Opt out of federal programs,Yes,No,8233,13865,37.26,No,88,88,,2026-10-21T23:49:27Z
-43,Edmonton-South West,8,Opt out of federal programs,Yes,No,7106,10295,40.84,No,76,76,,2026-10-21T23:49:27Z
-44,Edmonton-Strathcona,8,Opt out of federal programs,Yes,No,3087,9803,23.95,No,50,50,,2026-10-21T23:49:27Z
-45,Edmonton-West Henday,8,Opt out of federal programs,Yes,No,7679,11730,39.56,No,59,59,,2026-10-21T23:49:27Z
-46,Edmonton-Whitemud,8,Opt out of federal programs,Yes,No,4810,8828,35.27,No,51,51,,2026-10-21T23:49:27Z
-47,Airdrie-Cochrane,8,Opt out of federal programs,Yes,No,15627,12822,54.93,Yes,92,92,,2026-10-21T23:49:27Z
-48,Airdrie-East,8,Opt out of federal programs,Yes,No,12616,10060,55.64,Yes,73,73,,2026-10-21T23:49:27Z
-49,Athabasca-Barrhead-Westlock,8,Opt out of federal programs,Yes,No,14038,8953,61.06,Yes,62,62,,2026-10-21T23:49:27Z
-50,Banff-Kananaskis,8,Opt out of federal programs,Yes,No,8045,11922,40.29,No,64,64,,2026-10-21T23:49:27Z
-51,Bonnyville-Cold Lake-St. Paul,8,Opt out of federal programs,Yes,No,6617,5658,53.91,Yes,55,74,,2026-10-21T23:49:27Z
-52,Brooks-Medicine Hat,8,Opt out of federal programs,Yes,No,12261,9588,56.12,Yes,71,71,,2026-10-21T23:49:27Z
-53,Camrose,8,Opt out of federal programs,Yes,No,12871,9515,57.50,Yes,64,70,,2026-10-21T23:49:27Z
-54,Cardston-Siksika,8,Opt out of federal programs,Yes,No,10495,7073,59.74,Yes,67,68,,2026-10-21T23:49:27Z
-55,Central Peace-Notley,8,Opt out of federal programs,Yes,No,8537,4147,67.31,Yes,60,60,,2026-10-21T23:49:27Z
-56,Chestermere-Strathmore,8,Opt out of federal programs,Yes,No,12203,10158,54.57,Yes,69,71,,2026-10-21T23:49:27Z
-57,Cypress-Medicine Hat,8,Opt out of federal programs,Yes,No,12327,11981,50.71,Yes,59,59,,2026-10-21T23:49:27Z
-58,Drayton Valley-Devon,8,Opt out of federal programs,Yes,No,16159,9032,64.15,Yes,68,68,,2026-10-21T23:49:27Z
-59,Drumheller-Stettler,8,Opt out of federal programs,Yes,No,13644,6033,69.34,Yes,71,71,,2026-10-21T23:49:27Z
-60,Fort McMurray-Lac La Biche,8,Opt out of federal programs,Yes,No,4676,3935,54.30,Yes,58,63,,2026-10-21T23:49:27Z
-61,Fort McMurray-Wood Buffalo,8,Opt out of federal programs,Yes,No,1927,1728,52.72,Yes,13,40,,2026-10-21T23:49:27Z
-62,Fort Saskatchewan-Vegreville,8,Opt out of federal programs,Yes,No,11400,8427,57.50,Yes,61,82,,2026-10-21T23:49:27Z
-63,Grande Prairie,8,Opt out of federal programs,Yes,No,10075,8029,55.65,Yes,44,52,,2026-10-21T23:49:27Z
-64,Grande Prairie-Wapiti,8,Opt out of federal programs,Yes,No,13834,6665,67.49,Yes,69,81,,2026-10-21T23:49:27Z
-65,Highwood,8,Opt out of federal programs,Yes,No,14249,9076,61.09,Yes,112,112,,2026-10-21T23:49:27Z
-66,Innisfail-Sylvan Lake,8,Opt out of federal programs,Yes,No,14627,6731,68.48,Yes,73,73,,2026-10-21T23:49:27Z
-67,Lac Ste. Anne-Parkland,8,Opt out of federal programs,Yes,No,17551,10297,63.02,Yes,75,75,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-68,Lacombe-Ponoka,8,Opt out of federal programs,Yes,No,14962,8141,64.76,Yes,72,72,,2026-10-21T23:49:27Z
-69,Leduc-Beaumont,8,Opt out of federal programs,Yes,No,12426,10342,54.58,Yes,68,68,,2026-10-21T23:49:27Z
-70,Lesser Slave Lake,8,Opt out of federal programs,Yes,No,4557,5338,46.05,No,45,48,,2026-10-21T23:49:27Z
-71,Lethbridge-East,8,Opt out of federal programs,Yes,No,8236,10236,44.59,No,67,69,,2026-10-21T23:49:27Z
-72,Lethbridge-West,8,Opt out of federal programs,Yes,No,6856,10516,39.47,No,67,67,,2026-10-21T23:49:27Z
-73,Livingstone-Macleod,8,Opt out of federal programs,Yes,No,13956,8861,61.16,Yes,93,94,,2026-10-21T23:49:27Z
-74,Maskwacis-Wetaskiwin,8,Opt out of federal programs,Yes,No,10802,9189,54.03,Yes,53,57,,2026-10-21T23:49:27Z
-75,Morinville-St. Albert,8,Opt out of federal programs,Yes,No,11081,9641,53.47,Yes,58,64,,2026-10-21T23:49:27Z
-76,Olds-Didsbury-Three Hills,8,Opt out of federal programs,Yes,No,16355,7085,69.77,Yes,71,71,,2026-10-21T23:49:27Z
-77,Peace River,8,Opt out of federal programs,Yes,No,7658,5949,56.28,Yes,68,69,,2026-10-21T23:49:27Z
-78,Red Deer-North,8,Opt out of federal programs,Yes,No,9348,7385,55.87,Yes,64,64,,2026-10-21T23:49:27Z
-79,Red Deer-South,8,Opt out of federal programs,Yes,No,11095,8749,55.91,Yes,71,73,,2026-10-21T23:49:27Z
-80,Rimbey-Rocky Mountain House-Sundre,8,Opt out of federal programs,Yes,No,16860,7659,68.76,Yes,83,85,,2026-10-21T23:49:27Z
-81,Sherwood Park,8,Opt out of federal programs,Yes,No,8950,11326,44.14,No,61,61,,2026-10-21T23:49:27Z
-82,Spruce Grove-Stony Plain,8,Opt out of federal programs,Yes,No,11989,10366,53.63,Yes,66,67,,2026-10-21T23:49:27Z
-83,St. Albert,8,Opt out of federal programs,Yes,No,7496,11047,40.42,No,59,60,,2026-10-21T23:49:27Z
-84,Strathcona-Sherwood Park,8,Opt out of federal programs,Yes,No,10976,9726,53.02,Yes,63,63,,2026-10-21T23:49:27Z
-85,Taber-Warner,8,Opt out of federal programs,Yes,No,11926,6286,65.48,Yes,70,70,,2026-10-21T23:49:27Z
-86,Vermilion-Lloydminster-Wainwright,8,Opt out of federal programs,Yes,No,12959,5727,69.35,Yes,55,66,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-87,West Yellowhead,8,Opt out of federal programs,Yes,No,6096,2618,69.96,Yes,73,74,,2026-10-21T23:49:27Z
-1,Calgary-Acadia,9,Provincial laws first,Yes,No,6927,8370,45.28,No,57,57,,2026-10-21T23:49:27Z
-2,Calgary-Beddington,9,Provincial laws first,Yes,No,7971,14657,35.23,No,53,53,,2026-10-21T23:49:27Z
-3,Calgary-Bow,9,Provincial laws first,Yes,No,8745,11234,43.77,No,69,69,,2026-10-21T23:49:27Z
-4,Calgary-Buffalo,9,Provincial laws first,Yes,No,5945,11159,34.76,No,78,78,,2026-10-21T23:49:27Z
-5,Calgary-Cross,9,Provincial laws first,Yes,No,5777,9501,37.81,No,48,48,,2026-10-21T23:49:27Z
-6,Calgary-Currie,9,Provincial laws first,Yes,No,6150,9733,38.72,No,56,58,,2026-10-21T23:49:27Z
-7,Calgary-East,9,Provincial laws first,Yes,No,6886,9123,43.01,No,74,74,,2026-10-21T23:49:27Z
-8,Calgary-Edgemont,9,Provincial laws first,Yes,No,6732,9952,40.35,No,57,57,,2026-10-21T23:49:27Z
-9,Calgary-Elbow,9,Provincial laws first,Yes,No,6570,9778,40.19,No,60,60,,2026-10-21T23:49:27Z
-10,Calgary-Falconridge,9,Provincial laws first,Yes,No,4544,9232,32.98,No,51,51,,2026-10-21T23:49:27Z
-11,Calgary-Fish Creek,9,Provincial laws first,Yes,No,8093,8705,48.18,No,59,59,,2026-10-21T23:49:27Z
-12,Calgary-Foothills,9,Provincial laws first,Yes,No,4779,8982,34.73,No,52,62,,2026-10-21T23:49:27Z
-13,Calgary-Glenmore,9,Provincial laws first,Yes,No,7307,8823,45.30,No,59,59,,2026-10-21T23:49:27Z
-14,Calgary-Hays,9,Provincial laws first,Yes,No,9168,9450,49.24,No,58,58,,2026-10-21T23:49:27Z
-15,Calgary-Klein,9,Provincial laws first,Yes,No,6359,8796,41.96,No,53,53,,2026-10-21T23:49:27Z
-16,Calgary-Lougheed,9,Provincial laws first,Yes,No,8900,12009,42.57,No,45,45,,2026-10-21T23:49:27Z
-17,Calgary-Bhullar-McCall,9,Provincial laws first,Yes,No,3657,9335,28.15,No,39,39,,2026-10-21T23:49:27Z
-18,Calgary-Mountain View,9,Provincial laws first,Yes,No,5546,11979,31.65,No,90,90,,2026-10-21T23:49:27Z
-19,Calgary-North,9,Provincial laws first,Yes,No,7605,12767,37.33,No,52,52,,2026-10-21T23:49:27Z
-20,Calgary-North East,9,Provincial laws first,Yes,No,7717,13530,36.32,No,62,65,,2026-10-21T23:49:27Z
-21,Calgary-North West,9,Provincial laws first,Yes,No,7626,10739,41.52,No,58,58,,2026-10-21T23:49:27Z
-22,Calgary-Peigan,9,Provincial laws first,Yes,No,7924,8450,48.39,No,52,52,,2026-10-21T23:49:27Z
-23,Calgary-Shaw,9,Provincial laws first,Yes,No,4286,3939,52.11,Yes,70,71,,2026-10-21T23:49:27Z
-24,Calgary-South East,9,Provincial laws first,Yes,No,12364,11707,51.36,Yes,76,76,,2026-10-21T23:49:27Z
-25,Calgary-Varsity,9,Provincial laws first,Yes,No,3991,7748,34.00,No,51,51,,2026-10-21T23:49:27Z
-26,Calgary-West,9,Provincial laws first,Yes,No,7515,8853,45.91,No,54,54,,2026-10-21T23:49:27Z
-27,Edmonton-Beverly-Clareview,9,Provincial laws first,Yes,No,4224,8141,34.16,No,33,49,,2026-10-21T23:49:27Z
-28,Edmonton-Castle Downs,9,Provincial laws first,Yes,No,5003,8230,37.81,No,41,69,,2026-10-21T23:49:27Z
-29,Edmonton-City Centre,9,Provincial laws first,Yes,No,11543,9500,54.85,Yes,75,79,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-30,Edmonton-Decore,9,Provincial laws first,Yes,No,6241,11611,34.96,No,56,56,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-31,Edmonton-Ellerslie,9,Provincial laws first,Yes,No,6599,11631,36.20,No,49,52,,2026-10-21T23:49:27Z
-32,Edmonton-Glenora,9,Provincial laws first,Yes,No,4624,8737,34.61,No,52,52,,2026-10-21T23:49:27Z
-33,Edmonton-Gold Bar,9,Provincial laws first,Yes,No,5170,9483,35.28,No,58,58,,2026-10-21T23:49:27Z
-34,Edmonton-Highlands-Norwood,9,Provincial laws first,Yes,No,4387,11855,27.01,No,48,49,,2026-10-21T23:49:27Z
-35,Edmonton-Manning,9,Provincial laws first,Yes,No,7531,13661,35.54,No,48,59,,2026-10-21T23:49:27Z
-36,Edmonton-McClung,9,Provincial laws first,Yes,No,5036,7432,40.39,No,51,51,,2026-10-21T23:49:27Z
-37,Edmonton-Meadows,9,Provincial laws first,Yes,No,6516,13883,31.94,No,61,61,,2026-10-21T23:49:27Z
-38,Edmonton-Mill Woods,9,Provincial laws first,Yes,No,5819,8524,40.57,No,53,53,,2026-10-21T23:49:27Z
-39,Edmonton-North West,9,Provincial laws first,Yes,No,2880,5206,35.62,No,62,68,,2026-10-21T23:49:27Z
-40,Edmonton-Riverview,9,Provincial laws first,Yes,No,4434,8564,34.11,No,53,53,,2026-10-21T23:49:27Z
-41,Edmonton-Rutherford,9,Provincial laws first,Yes,No,4544,8618,34.52,No,50,50,,2026-10-21T23:49:27Z
-42,Edmonton-South,9,Provincial laws first,Yes,No,8791,13423,39.57,No,88,88,,2026-10-21T23:49:27Z
-43,Edmonton-South West,9,Provincial laws first,Yes,No,10292,14820,40.98,No,76,76,,2026-10-21T23:49:27Z
-44,Edmonton-Strathcona,9,Provincial laws first,Yes,No,3282,9669,25.34,No,50,50,,2026-10-21T23:49:27Z
-45,Edmonton-West Henday,9,Provincial laws first,Yes,No,8214,9185,47.21,No,59,59,,2026-10-21T23:49:27Z
-46,Edmonton-Whitemud,9,Provincial laws first,Yes,No,5023,8596,36.88,No,51,51,,2026-10-21T23:49:27Z
-47,Airdrie-Cochrane,9,Provincial laws first,Yes,No,15948,12410,56.24,Yes,92,92,,2026-10-21T23:49:27Z
-48,Airdrie-East,9,Provincial laws first,Yes,No,13127,9541,57.91,Yes,73,73,,2026-10-21T23:49:27Z
-49,Athabasca-Barrhead-Westlock,9,Provincial laws first,Yes,No,14461,8601,62.70,Yes,62,62,,2026-10-21T23:49:27Z
-50,Banff-Kananaskis,9,Provincial laws first,Yes,No,8489,11521,42.42,No,64,64,,2026-10-21T23:49:27Z
-51,Bonnyville-Cold Lake-St. Paul,9,Provincial laws first,Yes,No,6911,5332,56.45,Yes,55,74,,2026-10-21T23:49:27Z
-52,Brooks-Medicine Hat,9,Provincial laws first,Yes,No,12829,9055,58.62,Yes,71,71,,2026-10-21T23:49:27Z
-53,Camrose,9,Provincial laws first,Yes,No,13383,8852,60.19,Yes,64,70,,2026-10-21T23:49:27Z
-54,Cardston-Siksika,9,Provincial laws first,Yes,No,10423,6654,61.04,Yes,67,68,,2026-10-21T23:49:27Z
-55,Central Peace-Notley,9,Provincial laws first,Yes,No,8835,3755,70.17,Yes,60,60,,2026-10-21T23:49:27Z
-56,Chestermere-Strathmore,9,Provincial laws first,Yes,No,12746,9489,57.32,Yes,69,71,,2026-10-21T23:49:27Z
-57,Cypress-Medicine Hat,9,Provincial laws first,Yes,No,12009,11235,51.66,Yes,59,59,,2026-10-21T23:49:27Z
-58,Drayton Valley-Devon,9,Provincial laws first,Yes,No,16745,8712,65.78,Yes,68,68,,2026-10-21T23:49:27Z
-59,Drumheller-Stettler,9,Provincial laws first,Yes,No,14040,5617,71.42,Yes,71,71,,2026-10-21T23:49:27Z
-60,Fort McMurray-Lac La Biche,9,Provincial laws first,Yes,No,4807,3758,56.12,Yes,58,63,,2026-10-21T23:49:27Z
-61,Fort McMurray-Wood Buffalo,9,Provincial laws first,Yes,No,2020,1508,57.26,Yes,13,40,,2026-10-21T23:49:27Z
-62,Fort Saskatchewan-Vegreville,9,Provincial laws first,Yes,No,11890,7796,60.40,Yes,61,82,,2026-10-21T23:49:27Z
-63,Grande Prairie,9,Provincial laws first,Yes,No,10033,5552,64.38,Yes,44,52,,2026-10-21T23:49:27Z
-64,Grande Prairie-Wapiti,9,Provincial laws first,Yes,No,15475,7132,68.45,Yes,69,81,,2026-10-21T23:49:27Z
-65,Highwood,9,Provincial laws first,Yes,No,14809,8535,63.44,Yes,112,112,,2026-10-21T23:49:27Z
-66,Innisfail-Sylvan Lake,9,Provincial laws first,Yes,No,15535,6617,70.13,Yes,73,73,,2026-10-21T23:49:27Z
-67,Lac Ste. Anne-Parkland,9,Provincial laws first,Yes,No,15826,9633,62.16,Yes,75,75,,2026-10-21T23:49:27Z
-68,Lacombe-Ponoka,9,Provincial laws first,Yes,No,15458,9153,62.81,Yes,72,72,,2026-10-21T23:49:27Z
-69,Leduc-Beaumont,9,Provincial laws first,Yes,No,13004,9622,57.47,Yes,68,68,,2026-10-21T23:49:27Z
-70,Lesser Slave Lake,9,Provincial laws first,Yes,No,4880,4934,49.72,No,45,48,,2026-10-21T23:49:27Z
-71,Lethbridge-East,9,Provincial laws first,Yes,No,8956,9594,48.28,No,67,69,,2026-10-21T23:49:27Z
-72,Lethbridge-West,9,Provincial laws first,Yes,No,7352,10081,42.17,No,67,67,,2026-10-21T23:49:27Z
-73,Livingstone-Macleod,9,Provincial laws first,Yes,No,14440,8278,63.56,Yes,93,94,,2026-10-21T23:49:27Z
-74,Maskwacis-Wetaskiwin,9,Provincial laws first,Yes,No,11247,8716,56.34,Yes,53,57,,2026-10-21T23:49:27Z
-75,Morinville-St. Albert,9,Provincial laws first,Yes,No,11422,9416,54.81,Yes,58,64,,2026-10-21T23:49:27Z
-76,Olds-Didsbury-Three Hills,9,Provincial laws first,Yes,No,16873,6538,72.07,Yes,71,71,,2026-10-21T23:49:27Z
-77,Peace River,9,Provincial laws first,Yes,No,7920,5616,58.51,Yes,68,69,,2026-10-21T23:49:27Z
-78,Red Deer-North,9,Provincial laws first,Yes,No,9782,6951,58.46,Yes,64,64,,2026-10-21T23:49:27Z
-79,Red Deer-South,9,Provincial laws first,Yes,No,11350,8082,58.41,Yes,71,73,,2026-10-21T23:49:27Z
-80,Rimbey-Rocky Mountain House-Sundre,9,Provincial laws first,Yes,No,17755,6752,72.45,Yes,83,85,,2026-10-21T23:49:27Z
-81,Sherwood Park,9,Provincial laws first,Yes,No,9348,10835,46.32,No,61,61,,2026-10-21T23:49:27Z
-82,Spruce Grove-Stony Plain,9,Provincial laws first,Yes,No,12584,9856,56.08,Yes,66,67,,2026-10-21T23:49:27Z
-83,St. Albert,9,Provincial laws first,Yes,No,7857,10655,42.44,No,59,60,,2026-10-21T23:49:27Z
-84,Strathcona-Sherwood Park,9,Provincial laws first,Yes,No,11722,9508,55.21,Yes,63,63,,2026-10-21T23:49:27Z
-85,Taber-Warner,9,Provincial laws first,Yes,No,12237,5627,68.50,Yes,70,70,,2026-10-21T23:49:27Z
-86,Vermilion-Lloydminster-Wainwright,9,Provincial laws first,Yes,No,12882,5914,68.54,Yes,55,66,votes exceed Q10 ballots,2026-10-21T23:49:27Z
-87,West Yellowhead,9,Provincial laws first,Yes,No,6345,2376,72.76,Yes,73,74,,2026-10-21T23:49:27Z
-1,Calgary-Acadia,10,Separation,Remain,Referendum,19470,4621,80.82,Remain,57,57,,2026-10-21T23:49:27Z
-2,Calgary-Beddington,10,Separation,Remain,Referendum,18583,3958,82.44,Remain,53,53,,2026-10-21T23:49:27Z
-3,Calgary-Bow,10,Separation,Remain,Referendum,23648,5385,81.45,Remain,69,69,,2026-10-21T23:49:27Z
-4,Calgary-Buffalo,10,Separation,Remain,Referendum,20859,3546,85.47,Remain,78,78,,2026-10-21T23:49:27Z
-5,Calgary-Cross,10,Separation,Remain,Referendum,13076,2449,84.23,Remain,48,48,,2026-10-21T23:49:27Z
-6,Calgary-Currie,10,Separation,Remain,Referendum,20661,3789,84.50,Remain,56,58,,2026-10-21T23:49:27Z
-7,Calgary-East,10,Separation,Remain,Referendum,13014,3445,79.07,Remain,74,74,,2026-10-21T23:49:27Z
-8,Calgary-Edgemont,10,Separation,Remain,Referendum,21193,4245,83.31,Remain,57,57,,2026-10-21T23:49:27Z
-9,Calgary-Elbow,10,Separation,Remain,Referendum,23063,4005,85.20,Remain,60,60,,2026-10-21T23:49:27Z
-10,Calgary-Falconridge,10,Separation,Remain,Referendum,12849,2186,85.46,Remain,51,51,,2026-10-21T23:49:27Z
-11,Calgary-Fish Creek,10,Separation,Remain,Referendum,21655,5494,79.76,Remain,59,59,,2026-10-21T23:49:27Z
-12,Calgary-Foothills,10,Separation,Remain,Referendum,22167,4410,83.41,Remain,52,62,,2026-10-21T23:49:27Z
-13,Calgary-Glenmore,10,Separation,Remain,Referendum,22052,4722,82.36,Remain,59,59,,2026-10-21T23:49:27Z
-14,Calgary-Hays,10,Separation,Remain,Referendum,19751,5594,77.93,Remain,58,58,,2026-10-21T23:49:27Z
-15,Calgary-Klein,10,Separation,Remain,Referendum,18451,3987,82.23,Remain,53,53,,2026-10-21T23:49:27Z
-16,Calgary-Lougheed,10,Separation,Remain,Referendum,16613,4458,78.84,Remain,45,45,,2026-10-21T23:49:27Z
-17,Calgary-Bhullar-McCall,10,Separation,Remain,Referendum,11628,1397,89.27,Remain,39,39,,2026-10-21T23:49:27Z
-18,Calgary-Mountain View,10,Separation,Remain,Referendum,25165,3438,87.98,Remain,90,90,,2026-10-21T23:49:27Z
-19,Calgary-North,10,Separation,Remain,Referendum,16960,3246,83.94,Remain,52,52,,2026-10-21T23:49:27Z
-20,Calgary-North East,10,Separation,Remain,Referendum,21279,3619,85.46,Remain,62,65,,2026-10-21T23:49:27Z
-21,Calgary-North West,10,Separation,Remain,Referendum,21943,4792,82.08,Remain,58,58,,2026-10-21T23:49:27Z
-22,Calgary-Peigan,10,Separation,Remain,Referendum,18827,4909,79.32,Remain,52,52,,2026-10-21T23:49:27Z
-23,Calgary-Shaw,10,Separation,Remain,Referendum,24908,7097,77.83,Remain,70,71,,2026-10-21T23:49:27Z
-24,Calgary-South East,10,Separation,Remain,Referendum,24597,7455,76.74,Remain,76,76,,2026-10-21T23:49:27Z
-25,Calgary-Varsity,10,Separation,Remain,Referendum,21765,3527,86.05,Remain,51,51,,2026-10-21T23:49:27Z
-26,Calgary-West,10,Separation,Remain,Referendum,20609,4644,81.61,Remain,54,54,,2026-10-21T23:49:27Z
-27,Edmonton-Beverly-Clareview,10,Separation,Remain,Referendum,13093,2751,82.64,Remain,33,49,,2026-10-21T23:49:27Z
-28,Edmonton-Castle Downs,10,Separation,Remain,Referendum,16597,3004,84.67,Remain,41,69,,2026-10-21T23:49:27Z
-29,Edmonton-City Centre,10,Separation,Remain,Referendum,17467,2166,88.97,Remain,75,79,,2026-10-21T23:49:27Z
-30,Edmonton-Decore,10,Separation,Remain,Referendum,13035,2567,83.55,Remain,56,56,,2026-10-21T23:49:27Z
-31,Edmonton-Ellerslie,10,Separation,Remain,Referendum,19098,3633,84.02,Remain,49,52,,2026-10-21T23:49:27Z
-32,Edmonton-Glenora,10,Separation,Remain,Referendum,18835,2614,87.81,Remain,52,52,,2026-10-21T23:49:27Z
-33,Edmonton-Gold Bar,10,Separation,Remain,Referendum,20850,3245,86.53,Remain,58,58,,2026-10-21T23:49:27Z
-34,Edmonton-Highlands-Norwood,10,Separation,Remain,Referendum,14202,2299,86.07,Remain,48,49,,2026-10-21T23:49:27Z
-35,Edmonton-Manning,10,Separation,Remain,Referendum,17669,3636,82.93,Remain,48,59,,2026-10-21T23:49:27Z
-36,Edmonton-McClung,10,Separation,Remain,Referendum,15992,2842,84.91,Remain,51,51,,2026-10-21T23:49:27Z
-37,Edmonton-Meadows,10,Separation,Remain,Referendum,17890,3028,85.52,Remain,61,61,,2026-10-21T23:49:27Z
-38,Edmonton-Mill Woods,10,Separation,Remain,Referendum,16887,3460,83.00,Remain,53,53,,2026-10-21T23:49:27Z
-39,Edmonton-North West,10,Separation,Remain,Referendum,17302,2833,85.93,Remain,62,68,,2026-10-21T23:49:27Z
-40,Edmonton-Riverview,10,Separation,Remain,Referendum,20098,2695,88.18,Remain,53,53,,2026-10-21T23:49:27Z
-41,Edmonton-Rutherford,10,Separation,Remain,Referendum,19230,2762,87.44,Remain,50,50,,2026-10-21T23:49:27Z
-42,Edmonton-South,10,Separation,Remain,Referendum,26884,4957,84.43,Remain,88,88,,2026-10-21T23:49:27Z
-43,Edmonton-South West,10,Separation,Remain,Referendum,28472,6003,82.59,Remain,76,76,,2026-10-21T23:49:27Z
-44,Edmonton-Strathcona,10,Separation,Remain,Referendum,19274,2058,90.35,Remain,50,50,,2026-10-21T23:49:27Z
-45,Edmonton-West Henday,10,Separation,Remain,Referendum,21688,4692,82.21,Remain,59,59,,2026-10-21T23:49:27Z
-46,Edmonton-Whitemud,10,Separation,Remain,Referendum,20790,3080,87.10,Remain,51,51,,2026-10-21T23:49:27Z
-47,Airdrie-Cochrane,10,Separation,Remain,Referendum,29686,11926,71.34,Remain,92,92,,2026-10-21T23:49:27Z
-48,Airdrie-East,10,Separation,Remain,Referendum,21281,8888,70.54,Remain,73,73,,2026-10-21T23:49:27Z
-49,Athabasca-Barrhead-Westlock,10,Separation,Remain,Referendum,13685,9666,58.61,Remain,62,62,,2026-10-21T23:49:27Z
-50,Banff-Kananaskis,10,Separation,Remain,Referendum,23008,5725,80.08,Remain,64,64,,2026-10-21T23:49:27Z
-51,Bonnyville-Cold Lake-St. Paul,10,Separation,Remain,Referendum,7763,4676,62.41,Remain,55,74,,2026-10-21T23:49:27Z
-52,Brooks-Medicine Hat,10,Separation,Remain,Referendum,13944,8128,63.18,Remain,71,71,,2026-10-21T23:49:27Z
-53,Camrose,10,Separation,Remain,Referendum,14636,8247,63.96,Remain,64,70,,2026-10-21T23:49:27Z
-54,Cardston-Siksika,10,Separation,Remain,Referendum,9918,7493,56.96,Remain,67,68,,2026-10-21T23:49:27Z
-55,Central Peace-Notley,10,Separation,Remain,Referendum,6415,6515,49.61,Referendum,60,60,,2026-10-21T23:49:27Z
-56,Chestermere-Strathmore,10,Separation,Remain,Referendum,19829,8891,69.04,Remain,69,71,,2026-10-21T23:49:27Z
-57,Cypress-Medicine Hat,10,Separation,Remain,Referendum,16935,7919,68.14,Remain,59,59,,2026-10-21T23:49:27Z
-58,Drayton Valley-Devon,10,Separation,Remain,Referendum,14052,11658,54.66,Remain,68,68,,2026-10-21T23:49:27Z
-59,Drumheller-Stettler,10,Separation,Remain,Referendum,10312,9772,51.34,Remain,71,71,,2026-10-21T23:49:27Z
-60,Fort McMurray-Lac La Biche,10,Separation,Remain,Referendum,8153,5282,60.68,Remain,58,63,,2026-10-21T23:49:27Z
-61,Fort McMurray-Wood Buffalo,10,Separation,Remain,Referendum,6933,4415,61.09,Remain,13,40,,2026-10-21T23:49:27Z
-62,Fort Saskatchewan-Vegreville,10,Separation,Remain,Referendum,17057,8516,66.70,Remain,61,82,,2026-10-21T23:49:27Z
-63,Grande Prairie,10,Separation,Remain,Referendum,11512,6893,62.55,Remain,44,52,,2026-10-21T23:49:27Z
-64,Grande Prairie-Wapiti,10,Separation,Remain,Referendum,11923,11413,51.09,Remain,69,81,,2026-10-21T23:49:27Z
-65,Highwood,10,Separation,Remain,Referendum,20198,10599,65.58,Remain,112,112,,2026-10-21T23:49:27Z
-66,Innisfail-Sylvan Lake,10,Separation,Remain,Referendum,15028,11446,56.77,Remain,73,73,,2026-10-21T23:49:27Z
-67,Lac Ste. Anne-Parkland,10,Separation,Remain,Referendum,15504,11237,57.98,Remain,75,75,,2026-10-21T23:49:27Z
-68,Lacombe-Ponoka,10,Separation,Remain,Referendum,14198,10434,57.64,Remain,72,72,,2026-10-21T23:49:27Z
-69,Leduc-Beaumont,10,Separation,Remain,Referendum,20792,8547,70.87,Remain,68,68,,2026-10-21T23:49:27Z
-70,Lesser Slave Lake,10,Separation,Remain,Referendum,6849,2993,69.59,Remain,45,48,,2026-10-21T23:49:27Z
-71,Lethbridge-East,10,Separation,Remain,Referendum,18982,4972,79.24,Remain,67,69,,2026-10-21T23:49:27Z
-72,Lethbridge-West,10,Separation,Remain,Referendum,21482,4970,81.21,Remain,67,67,,2026-10-21T23:49:27Z
-73,Livingstone-Macleod,10,Separation,Remain,Referendum,17601,10319,63.04,Remain,93,94,,2026-10-21T23:49:27Z
-74,Maskwacis-Wetaskiwin,10,Separation,Remain,Referendum,13747,7517,64.65,Remain,53,57,,2026-10-21T23:49:27Z
-75,Morinville-St. Albert,10,Separation,Remain,Referendum,22184,7699,74.24,Remain,58,64,,2026-10-21T23:49:27Z
-76,Olds-Didsbury-Three Hills,10,Separation,Remain,Referendum,15216,12302,55.29,Remain,71,71,,2026-10-21T23:49:27Z
-77,Peace River,10,Separation,Remain,Referendum,8456,6250,57.50,Remain,68,69,,2026-10-21T23:49:27Z
-78,Red Deer-North,10,Separation,Remain,Referendum,14917,6464,69.77,Remain,64,64,,2026-10-21T23:49:27Z
-79,Red Deer-South,10,Separation,Remain,Referendum,18635,7728,70.69,Remain,71,73,,2026-10-21T23:49:27Z
-80,Rimbey-Rocky Mountain House-Sundre,10,Separation,Remain,Referendum,12239,12775,48.93,Referendum,83,85,,2026-10-21T23:49:27Z
-81,Sherwood Park,10,Separation,Remain,Referendum,24272,5767,80.80,Remain,61,61,,2026-10-21T23:49:27Z
-82,Spruce Grove-Stony Plain,10,Separation,Remain,Referendum,22483,8725,72.04,Remain,66,67,,2026-10-21T23:49:27Z
-83,St. Albert,10,Separation,Remain,Referendum,25500,5266,82.88,Remain,59,60,,2026-10-21T23:49:27Z
-84,Strathcona-Sherwood Park,10,Separation,Remain,Referendum,21858,7767,73.78,Remain,63,63,,2026-10-21T23:49:27Z
-85,Taber-Warner,10,Separation,Remain,Referendum,9932,8568,53.69,Remain,70,70,,2026-10-21T23:49:27Z
-86,Vermilion-Lloydminster-Wainwright,10,Separation,Remain,Referendum,10790,7011,60.61,Remain,55,66,,2026-10-21T23:49:27Z
-87,West Yellowhead,10,Separation,Remain,Referendum,13942,9287,60.02,Remain,73,74,,2026-10-21T23:49:27Z
+1,Calgary-Acadia,1,Immigration control,Yes,No,11385,12499,47.67,No,57,57,,2026-10-22T02:35:40Z
+2,Calgary-Beddington,1,Immigration control,Yes,No,12512,9963,55.67,Yes,53,53,,2026-10-22T02:35:40Z
+3,Calgary-Bow,1,Immigration control,Yes,No,14273,16043,47.08,No,69,69,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+4,Calgary-Buffalo,1,Immigration control,Yes,No,9579,14703,39.45,No,78,78,,2026-10-22T02:35:40Z
+5,Calgary-Cross,1,Immigration control,Yes,No,7714,7701,50.04,Yes,48,48,,2026-10-22T02:35:40Z
+6,Calgary-Currie,1,Immigration control,Yes,No,9543,13364,41.66,No,56,58,,2026-10-22T02:35:40Z
+7,Calgary-East,1,Immigration control,Yes,No,9130,7275,55.65,Yes,74,74,,2026-10-22T02:35:40Z
+8,Calgary-Edgemont,1,Immigration control,Yes,No,10827,13794,43.97,No,57,57,,2026-10-22T02:35:40Z
+9,Calgary-Elbow,1,Immigration control,Yes,No,11299,15626,41.96,No,60,60,,2026-10-22T02:35:40Z
+10,Calgary-Falconridge,1,Immigration control,Yes,No,6475,7457,46.48,No,51,51,,2026-10-22T02:35:40Z
+11,Calgary-Fish Creek,1,Immigration control,Yes,No,13618,13512,50.20,Yes,59,59,,2026-10-22T02:35:40Z
+12,Calgary-Foothills,1,Immigration control,Yes,No,12555,13877,47.50,No,62,62,,2026-10-22T02:35:40Z
+13,Calgary-Glenmore,1,Immigration control,Yes,No,12539,14638,46.14,No,59,59,,2026-10-22T02:35:40Z
+14,Calgary-Hays,1,Immigration control,Yes,No,14091,10926,56.33,Yes,58,58,,2026-10-22T02:35:40Z
+15,Calgary-Klein,1,Immigration control,Yes,No,10016,12330,44.82,No,53,53,,2026-10-22T02:35:40Z
+16,Calgary-Lougheed,1,Immigration control,Yes,No,11289,9362,54.67,Yes,45,45,,2026-10-22T02:35:40Z
+17,Calgary-Bhullar-McCall,1,Immigration control,Yes,No,5294,7768,40.53,No,39,39,,2026-10-22T02:35:40Z
+18,Calgary-Mountain View,1,Immigration control,Yes,No,9374,18943,33.10,No,90,90,,2026-10-22T02:35:40Z
+19,Calgary-North,1,Immigration control,Yes,No,10277,10162,50.28,Yes,52,52,,2026-10-22T02:35:40Z
+20,Calgary-North East,1,Immigration control,Yes,No,12317,13959,46.88,No,62,65,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+21,Calgary-North West,1,Immigration control,Yes,No,13015,14731,46.91,No,58,58,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+22,Calgary-Peigan,1,Immigration control,Yes,No,12256,10775,53.22,Yes,52,52,,2026-10-22T02:35:40Z
+23,Calgary-Shaw,1,Immigration control,Yes,No,17447,14221,55.09,Yes,70,71,,2026-10-22T02:35:40Z
+24,Calgary-South East,1,Immigration control,Yes,No,18424,14132,56.59,Yes,76,76,,2026-10-22T02:35:40Z
+25,Calgary-Varsity,1,Immigration control,Yes,No,8293,14361,36.61,No,51,51,,2026-10-22T02:35:40Z
+26,Calgary-West,1,Immigration control,Yes,No,12417,12706,49.42,No,54,54,,2026-10-22T02:35:40Z
+27,Edmonton-Beverly-Clareview,1,Immigration control,Yes,No,5865,6634,46.92,No,41,49,,2026-10-22T02:35:40Z
+28,Edmonton-Castle Downs,1,Immigration control,Yes,No,10556,11177,48.57,No,56,69,,2026-10-22T02:35:40Z
+29,Edmonton-City Centre,1,Immigration control,Yes,No,6828,13551,33.51,No,75,79,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+30,Edmonton-Decore,1,Immigration control,Yes,No,9021,9228,49.43,No,56,56,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+31,Edmonton-Ellerslie,1,Immigration control,Yes,No,10747,12392,46.45,No,49,52,,2026-10-22T02:35:40Z
+32,Edmonton-Glenora,1,Immigration control,Yes,No,7679,13703,35.91,No,52,52,,2026-10-22T02:35:40Z
+33,Edmonton-Gold Bar,1,Immigration control,Yes,No,9111,16960,34.95,No,58,58,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+34,Edmonton-Highlands-Norwood,1,Immigration control,Yes,No,6247,10145,38.11,No,48,49,,2026-10-22T02:35:40Z
+35,Edmonton-Manning,1,Immigration control,Yes,No,11284,11590,49.33,No,58,59,,2026-10-22T02:35:40Z
+36,Edmonton-McClung,1,Immigration control,Yes,No,8590,10139,45.86,No,51,51,,2026-10-22T02:35:40Z
+37,Edmonton-Meadows,1,Immigration control,Yes,No,8976,11322,44.22,No,61,61,,2026-10-22T02:35:40Z
+38,Edmonton-Mill Woods,1,Immigration control,Yes,No,7839,8453,48.12,No,53,53,,2026-10-22T02:35:40Z
+39,Edmonton-North West,1,Immigration control,Yes,No,8780,10460,45.63,No,64,68,,2026-10-22T02:35:40Z
+40,Edmonton-Riverview,1,Immigration control,Yes,No,6867,12840,34.85,No,53,53,,2026-10-22T02:35:40Z
+41,Edmonton-Rutherford,1,Immigration control,Yes,No,8414,13924,37.67,No,50,50,,2026-10-22T02:35:40Z
+42,Edmonton-South,1,Immigration control,Yes,No,14873,16832,46.91,No,88,88,,2026-10-22T02:35:40Z
+43,Edmonton-South West,1,Immigration control,Yes,No,17632,18418,48.91,No,76,76,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+44,Edmonton-Strathcona,1,Immigration control,Yes,No,5813,14702,28.34,No,50,50,,2026-10-22T02:35:40Z
+45,Edmonton-West Henday,1,Immigration control,Yes,No,13072,13286,49.59,No,59,59,,2026-10-22T02:35:40Z
+46,Edmonton-Whitemud,1,Immigration control,Yes,No,9651,14342,40.22,No,51,51,,2026-10-22T02:35:40Z
+47,Airdrie-Cochrane,1,Immigration control,Yes,No,23245,15382,60.18,Yes,92,92,,2026-10-22T02:35:40Z
+48,Airdrie-East,1,Immigration control,Yes,No,19328,10772,64.21,Yes,73,73,,2026-10-22T02:35:40Z
+49,Athabasca-Barrhead-Westlock,1,Immigration control,Yes,No,16549,6589,71.52,Yes,62,62,,2026-10-22T02:35:40Z
+50,Banff-Kananaskis,1,Immigration control,Yes,No,12806,15892,44.62,No,64,64,,2026-10-22T02:35:40Z
+51,Bonnyville-Cold Lake-St. Paul,1,Immigration control,Yes,No,8372,4355,65.78,Yes,58,74,,2026-10-22T02:35:40Z
+52,Brooks-Medicine Hat,1,Immigration control,Yes,No,15021,7066,68.01,Yes,71,71,,2026-10-22T02:35:40Z
+53,Camrose,1,Immigration control,Yes,No,15359,7102,68.38,Yes,64,70,,2026-10-22T02:35:40Z
+54,Cardston-Siksika,1,Immigration control,Yes,No,12002,5470,68.69,Yes,67,68,,2026-10-22T02:35:40Z
+55,Central Peace-Notley,1,Immigration control,Yes,No,9768,2988,76.58,Yes,60,60,,2026-10-22T02:35:40Z
+56,Chestermere-Strathmore,1,Immigration control,Yes,No,17474,9204,65.50,Yes,69,71,,2026-10-22T02:35:40Z
+57,Cypress-Medicine Hat,1,Immigration control,Yes,No,15716,8904,63.83,Yes,59,59,,2026-10-22T02:35:40Z
+58,Drayton Valley-Devon,1,Immigration control,Yes,No,18973,6469,74.57,Yes,68,68,,2026-10-22T02:35:40Z
+59,Drumheller-Stettler,1,Immigration control,Yes,No,15347,4243,78.34,Yes,71,71,,2026-10-22T02:35:40Z
+60,Fort McMurray-Lac La Biche,1,Immigration control,Yes,No,8937,4231,67.87,Yes,58,63,,2026-10-22T02:35:40Z
+61,Fort McMurray-Wood Buffalo,1,Immigration control,Yes,No,7349,3024,70.85,Yes,13,40,,2026-10-22T02:35:40Z
+62,Fort Saskatchewan-Vegreville,1,Immigration control,Yes,No,16350,8826,64.94,Yes,61,82,,2026-10-22T02:35:40Z
+63,Grande Prairie,1,Immigration control,Yes,No,12369,6063,67.11,Yes,44,52,,2026-10-22T02:35:40Z
+64,Grande Prairie-Wapiti,1,Immigration control,Yes,No,17709,5447,76.48,Yes,69,81,,2026-10-22T02:35:40Z
+65,Highwood,1,Immigration control,Yes,No,19455,9879,66.32,Yes,112,112,,2026-10-22T02:35:40Z
+66,Innisfail-Sylvan Lake,1,Immigration control,Yes,No,19371,7195,72.92,Yes,73,73,,2026-10-22T02:35:40Z
+67,Lac Ste. Anne-Parkland,1,Immigration control,Yes,No,17299,7304,70.31,Yes,75,75,,2026-10-22T02:35:40Z
+68,Lacombe-Ponoka,1,Immigration control,Yes,No,17577,6988,71.55,Yes,72,72,,2026-10-22T02:35:40Z
+69,Leduc-Beaumont,1,Immigration control,Yes,No,18605,11017,62.81,Yes,68,68,,2026-10-22T02:35:40Z
+70,Lesser Slave Lake,1,Immigration control,Yes,No,5766,4164,58.07,Yes,45,48,,2026-10-22T02:35:40Z
+71,Lethbridge-East,1,Immigration control,Yes,No,12447,11748,51.44,Yes,67,69,,2026-10-22T02:35:40Z
+72,Lethbridge-West,1,Immigration control,Yes,No,12421,13995,47.02,No,67,67,,2026-10-22T02:35:40Z
+73,Livingstone-Macleod,1,Immigration control,Yes,No,18158,9462,65.74,Yes,93,94,,2026-10-22T02:35:40Z
+74,Maskwacis-Wetaskiwin,1,Immigration control,Yes,No,13250,6867,65.86,Yes,53,57,,2026-10-22T02:35:40Z
+75,Morinville-St. Albert,1,Immigration control,Yes,No,17259,12469,58.06,Yes,58,64,,2026-10-22T02:35:40Z
+76,Olds-Didsbury-Three Hills,1,Immigration control,Yes,No,20596,6795,75.19,Yes,71,71,,2026-10-22T02:35:40Z
+77,Peace River,1,Immigration control,Yes,No,9374,5272,64.00,Yes,68,69,,2026-10-22T02:35:40Z
+78,Red Deer-North,1,Immigration control,Yes,No,13287,8092,62.15,Yes,64,64,,2026-10-22T02:35:40Z
+79,Red Deer-South,1,Immigration control,Yes,No,15945,10726,59.78,Yes,71,73,,2026-10-22T02:35:40Z
+80,Rimbey-Rocky Mountain House-Sundre,1,Immigration control,Yes,No,15096,4559,76.80,Yes,83,85,,2026-10-22T02:35:40Z
+81,Sherwood Park,1,Immigration control,Yes,No,15398,14657,51.23,Yes,61,61,,2026-10-22T02:35:40Z
+82,Spruce Grove-Stony Plain,1,Immigration control,Yes,No,18926,12096,61.01,Yes,66,67,,2026-10-22T02:35:40Z
+83,St. Albert,1,Immigration control,Yes,No,14082,16142,46.59,No,59,60,,2026-10-22T02:35:40Z
+84,Strathcona-Sherwood Park,1,Immigration control,Yes,No,17403,12229,58.73,Yes,63,63,,2026-10-22T02:35:40Z
+85,Taber-Warner,1,Immigration control,Yes,No,13628,4579,74.85,Yes,70,70,,2026-10-22T02:35:40Z
+86,Vermilion-Lloydminster-Wainwright,1,Immigration control,Yes,No,14462,4617,75.80,Yes,56,66,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+87,West Yellowhead,1,Immigration control,Yes,No,16171,6729,70.62,Yes,73,74,,2026-10-22T02:35:40Z
+1,Calgary-Acadia,2,Program eligibility,Yes,No,9804,11056,47.00,No,57,57,,2026-10-22T02:35:40Z
+2,Calgary-Beddington,2,Program eligibility,Yes,No,10090,12422,44.82,No,53,53,,2026-10-22T02:35:40Z
+3,Calgary-Bow,2,Program eligibility,Yes,No,13354,16553,44.65,No,69,69,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+4,Calgary-Buffalo,2,Program eligibility,Yes,No,8861,15240,36.77,No,78,78,,2026-10-22T02:35:40Z
+5,Calgary-Cross,2,Program eligibility,Yes,No,7343,8029,47.77,No,48,48,,2026-10-22T02:35:40Z
+6,Calgary-Currie,2,Program eligibility,Yes,No,9181,15212,37.64,No,56,58,,2026-10-22T02:35:40Z
+7,Calgary-East,2,Program eligibility,Yes,No,8712,7689,53.12,Yes,74,74,,2026-10-22T02:35:40Z
+8,Calgary-Edgemont,2,Program eligibility,Yes,No,10583,14279,42.57,No,57,57,,2026-10-22T02:35:40Z
+9,Calgary-Elbow,2,Program eligibility,Yes,No,10376,15513,40.08,No,60,60,,2026-10-22T02:35:40Z
+10,Calgary-Falconridge,2,Program eligibility,Yes,No,6049,7991,43.08,No,51,51,,2026-10-22T02:35:40Z
+11,Calgary-Fish Creek,2,Program eligibility,Yes,No,12743,13548,48.47,No,59,59,,2026-10-22T02:35:40Z
+12,Calgary-Foothills,2,Program eligibility,Yes,No,11938,14443,45.25,No,62,62,,2026-10-22T02:35:40Z
+13,Calgary-Glenmore,2,Program eligibility,Yes,No,11781,15193,43.68,No,59,59,,2026-10-22T02:35:40Z
+14,Calgary-Hays,2,Program eligibility,Yes,No,12945,11873,52.16,Yes,58,58,,2026-10-22T02:35:40Z
+15,Calgary-Klein,2,Program eligibility,Yes,No,9548,12799,42.73,No,53,53,,2026-10-22T02:35:40Z
+16,Calgary-Lougheed,2,Program eligibility,Yes,No,10746,10225,51.24,Yes,45,45,,2026-10-22T02:35:40Z
+17,Calgary-Bhullar-McCall,2,Program eligibility,Yes,No,4950,8256,37.48,No,39,39,,2026-10-22T02:35:40Z
+18,Calgary-Mountain View,2,Program eligibility,Yes,No,8804,19685,30.90,No,90,90,,2026-10-22T02:35:40Z
+19,Calgary-North,2,Program eligibility,Yes,No,9718,10695,47.61,No,52,52,,2026-10-22T02:35:40Z
+20,Calgary-North East,2,Program eligibility,Yes,No,11183,14093,44.24,No,62,65,,2026-10-22T02:35:40Z
+21,Calgary-North West,2,Program eligibility,Yes,No,12266,15295,44.50,No,58,58,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+22,Calgary-Peigan,2,Program eligibility,Yes,No,11873,11059,51.77,Yes,52,52,,2026-10-22T02:35:40Z
+23,Calgary-Shaw,2,Program eligibility,Yes,No,16375,15397,51.54,Yes,70,71,,2026-10-22T02:35:40Z
+24,Calgary-South East,2,Program eligibility,Yes,No,17317,14243,54.87,Yes,76,76,,2026-10-22T02:35:40Z
+25,Calgary-Varsity,2,Program eligibility,Yes,No,8262,15085,35.39,No,51,51,,2026-10-22T02:35:40Z
+26,Calgary-West,2,Program eligibility,Yes,No,11911,12690,48.42,No,54,54,,2026-10-22T02:35:40Z
+27,Edmonton-Beverly-Clareview,2,Program eligibility,Yes,No,5666,6915,45.04,No,41,49,,2026-10-22T02:35:40Z
+28,Edmonton-Castle Downs,2,Program eligibility,Yes,No,10051,11727,46.15,No,56,69,,2026-10-22T02:35:40Z
+29,Edmonton-City Centre,2,Program eligibility,Yes,No,5768,12758,31.13,No,75,79,,2026-10-22T02:35:40Z
+30,Edmonton-Decore,2,Program eligibility,Yes,No,8780,9585,47.81,No,56,56,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+31,Edmonton-Ellerslie,2,Program eligibility,Yes,No,9996,13315,42.88,No,49,52,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+32,Edmonton-Glenora,2,Program eligibility,Yes,No,7230,14078,33.93,No,52,52,,2026-10-22T02:35:40Z
+33,Edmonton-Gold Bar,2,Program eligibility,Yes,No,8510,17344,32.92,No,58,58,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+34,Edmonton-Highlands-Norwood,2,Program eligibility,Yes,No,5802,10528,35.53,No,48,49,,2026-10-22T02:35:40Z
+35,Edmonton-Manning,2,Program eligibility,Yes,No,10765,12162,46.95,No,58,59,,2026-10-22T02:35:40Z
+36,Edmonton-McClung,2,Program eligibility,Yes,No,8078,10629,43.18,No,51,51,,2026-10-22T02:35:40Z
+37,Edmonton-Meadows,2,Program eligibility,Yes,No,8537,11896,41.78,No,61,61,,2026-10-22T02:35:40Z
+38,Edmonton-Mill Woods,2,Program eligibility,Yes,No,6794,8454,44.56,No,53,53,,2026-10-22T02:35:40Z
+39,Edmonton-North West,2,Program eligibility,Yes,No,8204,11081,42.54,No,64,68,,2026-10-22T02:35:40Z
+40,Edmonton-Riverview,2,Program eligibility,Yes,No,7162,14570,32.96,No,53,53,,2026-10-22T02:35:40Z
+41,Edmonton-Rutherford,2,Program eligibility,Yes,No,7024,11206,38.53,No,50,50,,2026-10-22T02:35:40Z
+42,Edmonton-South,2,Program eligibility,Yes,No,14167,17695,44.46,No,88,88,,2026-10-22T02:35:40Z
+43,Edmonton-South West,2,Program eligibility,Yes,No,12500,14287,46.66,No,76,76,,2026-10-22T02:35:40Z
+44,Edmonton-Strathcona,2,Program eligibility,Yes,No,5219,15875,24.74,No,50,50,,2026-10-22T02:35:40Z
+45,Edmonton-West Henday,2,Program eligibility,Yes,No,12370,13929,47.04,No,59,59,,2026-10-22T02:35:40Z
+46,Edmonton-Whitemud,2,Program eligibility,Yes,No,9239,14738,38.53,No,51,51,,2026-10-22T02:35:40Z
+47,Airdrie-Cochrane,2,Program eligibility,Yes,No,22649,16806,57.40,Yes,92,92,,2026-10-22T02:35:40Z
+48,Airdrie-East,2,Program eligibility,Yes,No,18474,11532,61.57,Yes,73,73,,2026-10-22T02:35:40Z
+49,Athabasca-Barrhead-Westlock,2,Program eligibility,Yes,No,16018,7006,69.57,Yes,62,62,,2026-10-22T02:35:40Z
+50,Banff-Kananaskis,2,Program eligibility,Yes,No,12295,16328,42.95,No,64,64,,2026-10-22T02:35:40Z
+51,Bonnyville-Cold Lake-St. Paul,2,Program eligibility,Yes,No,7971,4576,63.53,Yes,58,74,,2026-10-22T02:35:40Z
+52,Brooks-Medicine Hat,2,Program eligibility,Yes,No,14266,7674,65.02,Yes,71,71,,2026-10-22T02:35:40Z
+53,Camrose,2,Program eligibility,Yes,No,15084,7487,66.83,Yes,64,70,,2026-10-22T02:35:40Z
+54,Cardston-Siksika,2,Program eligibility,Yes,No,11157,5683,66.25,Yes,67,68,,2026-10-22T02:35:40Z
+55,Central Peace-Notley,2,Program eligibility,Yes,No,9457,3271,74.30,Yes,60,60,,2026-10-22T02:35:40Z
+56,Chestermere-Strathmore,2,Program eligibility,Yes,No,18023,10468,63.26,Yes,69,71,,2026-10-22T02:35:40Z
+57,Cypress-Medicine Hat,2,Program eligibility,Yes,No,14058,9222,60.39,Yes,59,59,,2026-10-22T02:35:40Z
+58,Drayton Valley-Devon,2,Program eligibility,Yes,No,18486,6987,72.57,Yes,68,68,,2026-10-22T02:35:40Z
+59,Drumheller-Stettler,2,Program eligibility,Yes,No,15155,4671,76.44,Yes,71,71,,2026-10-22T02:35:40Z
+60,Fort McMurray-Lac La Biche,2,Program eligibility,Yes,No,8681,4577,65.48,Yes,58,63,,2026-10-22T02:35:40Z
+61,Fort McMurray-Wood Buffalo,2,Program eligibility,Yes,No,6972,3320,67.74,Yes,13,40,,2026-10-22T02:35:40Z
+62,Fort Saskatchewan-Vegreville,2,Program eligibility,Yes,No,15103,8480,64.04,Yes,61,82,,2026-10-22T02:35:40Z
+63,Grande Prairie,2,Program eligibility,Yes,No,11631,6684,63.51,Yes,44,52,,2026-10-22T02:35:40Z
+64,Grande Prairie-Wapiti,2,Program eligibility,Yes,No,16975,6123,73.49,Yes,69,81,,2026-10-22T02:35:40Z
+65,Highwood,2,Program eligibility,Yes,No,19755,11464,63.28,Yes,112,112,,2026-10-22T02:35:40Z
+66,Innisfail-Sylvan Lake,2,Program eligibility,Yes,No,18854,7807,70.72,Yes,73,73,,2026-10-22T02:35:40Z
+67,Lac Ste. Anne-Parkland,2,Program eligibility,Yes,No,17323,8211,67.84,Yes,75,75,,2026-10-22T02:35:40Z
+68,Lacombe-Ponoka,2,Program eligibility,Yes,No,17128,7522,69.48,Yes,72,72,,2026-10-22T02:35:40Z
+69,Leduc-Beaumont,2,Program eligibility,Yes,No,17853,11644,60.52,Yes,68,68,,2026-10-22T02:35:40Z
+70,Lesser Slave Lake,2,Program eligibility,Yes,No,5477,4443,55.21,Yes,45,48,,2026-10-22T02:35:40Z
+71,Lethbridge-East,2,Program eligibility,Yes,No,11791,12431,48.68,No,67,69,,2026-10-22T02:35:40Z
+72,Lethbridge-West,2,Program eligibility,Yes,No,11458,14896,43.48,No,67,67,,2026-10-22T02:35:40Z
+73,Livingstone-Macleod,2,Program eligibility,Yes,No,17682,9943,64.01,Yes,93,94,,2026-10-22T02:35:40Z
+74,Maskwacis-Wetaskiwin,2,Program eligibility,Yes,No,12768,7311,63.59,Yes,53,57,,2026-10-22T02:35:40Z
+75,Morinville-St. Albert,2,Program eligibility,Yes,No,16561,13110,55.82,Yes,58,64,,2026-10-22T02:35:40Z
+76,Olds-Didsbury-Three Hills,2,Program eligibility,Yes,No,19998,7352,73.12,Yes,71,71,,2026-10-22T02:35:40Z
+77,Peace River,2,Program eligibility,Yes,No,8760,5848,59.97,Yes,68,69,,2026-10-22T02:35:40Z
+78,Red Deer-North,2,Program eligibility,Yes,No,12661,7925,61.50,Yes,64,64,,2026-10-22T02:35:40Z
+79,Red Deer-South,2,Program eligibility,Yes,No,15164,10697,58.64,Yes,71,73,,2026-10-22T02:35:40Z
+80,Rimbey-Rocky Mountain House-Sundre,2,Program eligibility,Yes,No,14347,4796,74.95,Yes,83,85,,2026-10-22T02:35:40Z
+81,Sherwood Park,2,Program eligibility,Yes,No,14654,15317,48.89,No,61,61,,2026-10-22T02:35:40Z
+82,Spruce Grove-Stony Plain,2,Program eligibility,Yes,No,17863,12781,58.29,Yes,66,67,,2026-10-22T02:35:40Z
+83,St. Albert,2,Program eligibility,Yes,No,11874,13557,46.69,No,59,60,,2026-10-22T02:35:40Z
+84,Strathcona-Sherwood Park,2,Program eligibility,Yes,No,16362,12339,57.01,Yes,63,63,,2026-10-22T02:35:40Z
+85,Taber-Warner,2,Program eligibility,Yes,No,13109,4988,72.44,Yes,70,70,,2026-10-22T02:35:40Z
+86,Vermilion-Lloydminster-Wainwright,2,Program eligibility,Yes,No,14069,5045,73.61,Yes,56,66,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+87,West Yellowhead,2,Program eligibility,Yes,No,14335,6571,68.57,Yes,73,74,,2026-10-22T02:35:40Z
+1,Calgary-Acadia,3,12-month wait for supports,Yes,No,10375,11996,46.38,No,57,57,,2026-10-22T02:35:40Z
+2,Calgary-Beddington,3,12-month wait for supports,Yes,No,10304,12197,45.79,No,53,53,,2026-10-22T02:35:40Z
+3,Calgary-Bow,3,12-month wait for supports,Yes,No,13620,16346,45.45,No,69,69,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+4,Calgary-Buffalo,3,12-month wait for supports,Yes,No,9145,15087,37.74,No,78,78,,2026-10-22T02:35:40Z
+5,Calgary-Cross,3,12-month wait for supports,Yes,No,7324,8043,47.66,No,48,48,,2026-10-22T02:35:40Z
+6,Calgary-Currie,3,12-month wait for supports,Yes,No,9393,15263,38.10,No,56,58,,2026-10-22T02:35:40Z
+7,Calgary-East,3,12-month wait for supports,Yes,No,8768,7582,53.63,Yes,74,74,,2026-10-22T02:35:40Z
+8,Calgary-Edgemont,3,12-month wait for supports,Yes,No,10886,14258,43.29,No,57,57,,2026-10-22T02:35:40Z
+9,Calgary-Elbow,3,12-month wait for supports,Yes,No,10770,15974,40.27,No,60,60,,2026-10-22T02:35:40Z
+10,Calgary-Falconridge,3,12-month wait for supports,Yes,No,6122,7881,43.72,No,51,51,,2026-10-22T02:35:40Z
+11,Calgary-Fish Creek,3,12-month wait for supports,Yes,No,13190,13900,48.69,No,59,59,,2026-10-22T02:35:40Z
+12,Calgary-Foothills,3,12-month wait for supports,Yes,No,12281,13874,46.95,No,62,62,,2026-10-22T02:35:40Z
+13,Calgary-Glenmore,3,12-month wait for supports,Yes,No,12056,14577,45.27,No,59,59,,2026-10-22T02:35:40Z
+14,Calgary-Hays,3,12-month wait for supports,Yes,No,13515,11698,53.60,Yes,58,58,,2026-10-22T02:35:40Z
+15,Calgary-Klein,3,12-month wait for supports,Yes,No,9764,12613,43.63,No,53,53,,2026-10-22T02:35:40Z
+16,Calgary-Lougheed,3,12-month wait for supports,Yes,No,10860,10110,51.79,Yes,45,45,,2026-10-22T02:35:40Z
+17,Calgary-Bhullar-McCall,3,12-month wait for supports,Yes,No,5024,8101,38.28,No,39,39,,2026-10-22T02:35:40Z
+18,Calgary-Mountain View,3,12-month wait for supports,Yes,No,9024,19481,31.66,No,90,90,,2026-10-22T02:35:40Z
+19,Calgary-North,3,12-month wait for supports,Yes,No,9843,10618,48.11,No,52,52,,2026-10-22T02:35:40Z
+20,Calgary-North East,3,12-month wait for supports,Yes,No,11293,14001,44.65,No,62,65,,2026-10-22T02:35:40Z
+21,Calgary-North West,3,12-month wait for supports,Yes,No,12133,14431,45.67,No,58,58,,2026-10-22T02:35:40Z
+22,Calgary-Peigan,3,12-month wait for supports,Yes,No,12282,11208,52.29,Yes,52,52,,2026-10-22T02:35:40Z
+23,Calgary-Shaw,3,12-month wait for supports,Yes,No,16755,15463,52.01,Yes,70,71,,2026-10-22T02:35:40Z
+24,Calgary-South East,3,12-month wait for supports,Yes,No,17733,14338,55.29,Yes,76,76,,2026-10-22T02:35:40Z
+25,Calgary-Varsity,3,12-month wait for supports,Yes,No,7572,13833,35.37,No,51,51,,2026-10-22T02:35:40Z
+26,Calgary-West,3,12-month wait for supports,Yes,No,12538,13740,47.71,No,54,54,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+27,Edmonton-Beverly-Clareview,3,12-month wait for supports,Yes,No,5735,6670,46.23,No,41,49,,2026-10-22T02:35:40Z
+28,Edmonton-Castle Downs,3,12-month wait for supports,Yes,No,10311,11529,47.21,No,56,69,,2026-10-22T02:35:40Z
+29,Edmonton-City Centre,3,12-month wait for supports,Yes,No,6072,13085,31.70,No,75,79,,2026-10-22T02:35:40Z
+30,Edmonton-Decore,3,12-month wait for supports,Yes,No,8787,9525,47.98,No,56,56,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+31,Edmonton-Ellerslie,3,12-month wait for supports,Yes,No,10275,13317,43.55,No,49,52,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+32,Edmonton-Glenora,3,12-month wait for supports,Yes,No,7790,13633,36.36,No,52,52,,2026-10-22T02:35:40Z
+33,Edmonton-Gold Bar,3,12-month wait for supports,Yes,No,8725,17115,33.77,No,58,58,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+34,Edmonton-Highlands-Norwood,3,12-month wait for supports,Yes,No,5990,10454,36.43,No,48,49,,2026-10-22T02:35:40Z
+35,Edmonton-Manning,3,12-month wait for supports,Yes,No,10641,11360,48.37,No,58,59,,2026-10-22T02:35:40Z
+36,Edmonton-McClung,3,12-month wait for supports,Yes,No,8345,10491,44.30,No,51,51,,2026-10-22T02:35:40Z
+37,Edmonton-Meadows,3,12-month wait for supports,Yes,No,8862,11580,43.35,No,61,61,,2026-10-22T02:35:40Z
+38,Edmonton-Mill Woods,3,12-month wait for supports,Yes,No,7423,8642,46.21,No,53,53,,2026-10-22T02:35:40Z
+39,Edmonton-North West,3,12-month wait for supports,Yes,No,8271,10863,43.23,No,64,68,,2026-10-22T02:35:40Z
+40,Edmonton-Riverview,3,12-month wait for supports,Yes,No,7752,15000,34.07,No,53,53,,2026-10-22T02:35:40Z
+41,Edmonton-Rutherford,3,12-month wait for supports,Yes,No,8177,14241,36.48,No,50,50,,2026-10-22T02:35:40Z
+42,Edmonton-South,3,12-month wait for supports,Yes,No,14429,17091,45.78,No,88,88,,2026-10-22T02:35:40Z
+43,Edmonton-South West,3,12-month wait for supports,Yes,No,12519,14238,46.79,No,76,76,,2026-10-22T02:35:40Z
+44,Edmonton-Strathcona,3,12-month wait for supports,Yes,No,5519,15586,26.15,No,50,50,,2026-10-22T02:35:40Z
+45,Edmonton-West Henday,3,12-month wait for supports,Yes,No,12630,13770,47.84,No,59,59,,2026-10-22T02:35:40Z
+46,Edmonton-Whitemud,3,12-month wait for supports,Yes,No,9359,14454,39.30,No,51,51,,2026-10-22T02:35:40Z
+47,Airdrie-Cochrane,3,12-month wait for supports,Yes,No,23136,17231,57.31,Yes,92,92,,2026-10-22T02:35:40Z
+48,Airdrie-East,3,12-month wait for supports,Yes,No,18683,11314,62.28,Yes,73,73,,2026-10-22T02:35:40Z
+49,Athabasca-Barrhead-Westlock,3,12-month wait for supports,Yes,No,16364,6759,70.77,Yes,62,62,,2026-10-22T02:35:40Z
+50,Banff-Kananaskis,3,12-month wait for supports,Yes,No,12536,16128,43.73,No,64,64,,2026-10-22T02:35:40Z
+51,Bonnyville-Cold Lake-St. Paul,3,12-month wait for supports,Yes,No,8128,4367,65.05,Yes,58,74,,2026-10-22T02:35:40Z
+52,Brooks-Medicine Hat,3,12-month wait for supports,Yes,No,14605,7523,66.00,Yes,71,71,,2026-10-22T02:35:40Z
+53,Camrose,3,12-month wait for supports,Yes,No,15106,7382,67.17,Yes,64,70,,2026-10-22T02:35:40Z
+54,Cardston-Siksika,3,12-month wait for supports,Yes,No,11604,6029,65.81,Yes,67,68,,2026-10-22T02:35:40Z
+55,Central Peace-Notley,3,12-month wait for supports,Yes,No,9599,3276,74.56,Yes,60,60,,2026-10-22T02:35:40Z
+56,Chestermere-Strathmore,3,12-month wait for supports,Yes,No,18070,10385,63.50,Yes,69,71,,2026-10-22T02:35:40Z
+57,Cypress-Medicine Hat,3,12-month wait for supports,Yes,No,14959,9491,61.18,Yes,59,59,,2026-10-22T02:35:40Z
+58,Drayton Valley-Devon,3,12-month wait for supports,Yes,No,18538,6939,72.76,Yes,68,68,,2026-10-22T02:35:40Z
+59,Drumheller-Stettler,3,12-month wait for supports,Yes,No,15306,4468,77.40,Yes,71,71,,2026-10-22T02:35:40Z
+60,Fort McMurray-Lac La Biche,3,12-month wait for supports,Yes,No,8769,4593,65.63,Yes,58,63,,2026-10-22T02:35:40Z
+61,Fort McMurray-Wood Buffalo,3,12-month wait for supports,Yes,No,7052,3050,69.81,Yes,13,40,,2026-10-22T02:35:40Z
+62,Fort Saskatchewan-Vegreville,3,12-month wait for supports,Yes,No,14303,6553,68.58,Yes,61,82,,2026-10-22T02:35:40Z
+63,Grande Prairie,3,12-month wait for supports,Yes,No,11863,6449,64.78,Yes,44,52,,2026-10-22T02:35:40Z
+64,Grande Prairie-Wapiti,3,12-month wait for supports,Yes,No,17077,6014,73.96,Yes,69,81,,2026-10-22T02:35:40Z
+65,Highwood,3,12-month wait for supports,Yes,No,19885,11212,63.95,Yes,112,112,,2026-10-22T02:35:40Z
+66,Innisfail-Sylvan Lake,3,12-month wait for supports,Yes,No,19075,7471,71.86,Yes,73,73,,2026-10-22T02:35:40Z
+67,Lac Ste. Anne-Parkland,3,12-month wait for supports,Yes,No,17566,7968,68.79,Yes,75,75,,2026-10-22T02:35:40Z
+68,Lacombe-Ponoka,3,12-month wait for supports,Yes,No,17199,7308,70.18,Yes,72,72,,2026-10-22T02:35:40Z
+69,Leduc-Beaumont,3,12-month wait for supports,Yes,No,18185,11342,61.59,Yes,68,68,,2026-10-22T02:35:40Z
+70,Lesser Slave Lake,3,12-month wait for supports,Yes,No,5531,4442,55.46,Yes,45,48,,2026-10-22T02:35:40Z
+71,Lethbridge-East,3,12-month wait for supports,Yes,No,12155,11989,50.34,Yes,67,69,,2026-10-22T02:35:40Z
+72,Lethbridge-West,3,12-month wait for supports,Yes,No,11740,14427,44.87,No,67,67,,2026-10-22T02:35:40Z
+73,Livingstone-Macleod,3,12-month wait for supports,Yes,No,17839,9779,64.59,Yes,93,94,,2026-10-22T02:35:40Z
+74,Maskwacis-Wetaskiwin,3,12-month wait for supports,Yes,No,12835,7276,63.82,Yes,53,57,,2026-10-22T02:35:40Z
+75,Morinville-St. Albert,3,12-month wait for supports,Yes,No,16501,13046,55.85,Yes,58,64,,2026-10-22T02:35:40Z
+76,Olds-Didsbury-Three Hills,3,12-month wait for supports,Yes,No,20283,7171,73.88,Yes,71,71,,2026-10-22T02:35:40Z
+77,Peace River,3,12-month wait for supports,Yes,No,8861,5750,60.65,Yes,68,69,,2026-10-22T02:35:40Z
+78,Red Deer-North,3,12-month wait for supports,Yes,No,12924,8629,59.96,Yes,64,64,,2026-10-22T02:35:40Z
+79,Red Deer-South,3,12-month wait for supports,Yes,No,15320,10724,58.82,Yes,71,73,,2026-10-22T02:35:40Z
+80,Rimbey-Rocky Mountain House-Sundre,3,12-month wait for supports,Yes,No,16277,5445,74.93,Yes,83,85,,2026-10-22T02:35:40Z
+81,Sherwood Park,3,12-month wait for supports,Yes,No,11524,8838,56.60,Yes,61,61,,2026-10-22T02:35:40Z
+82,Spruce Grove-Stony Plain,3,12-month wait for supports,Yes,No,18549,12449,59.84,Yes,66,67,,2026-10-22T02:35:40Z
+83,St. Albert,3,12-month wait for supports,Yes,No,13189,16723,44.09,No,59,60,,2026-10-22T02:35:40Z
+84,Strathcona-Sherwood Park,3,12-month wait for supports,Yes,No,16717,12554,57.11,Yes,63,63,,2026-10-22T02:35:40Z
+85,Taber-Warner,3,12-month wait for supports,Yes,No,13357,4750,73.77,Yes,70,70,,2026-10-22T02:35:40Z
+86,Vermilion-Lloydminster-Wainwright,3,12-month wait for supports,Yes,No,13827,4718,74.56,Yes,56,66,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+87,West Yellowhead,3,12-month wait for supports,Yes,No,16090,7728,67.55,Yes,73,74,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+1,Calgary-Acadia,4,Health and education fee,Yes,No,10425,13105,44.31,No,57,57,,2026-10-22T02:35:40Z
+2,Calgary-Beddington,4,Health and education fee,Yes,No,9879,12560,44.03,No,53,53,,2026-10-22T02:35:40Z
+3,Calgary-Bow,4,Health and education fee,Yes,No,13426,16647,44.64,No,69,69,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+4,Calgary-Buffalo,4,Health and education fee,Yes,No,8892,15458,36.52,No,78,78,,2026-10-22T02:35:40Z
+5,Calgary-Cross,4,Health and education fee,Yes,No,7010,8425,45.42,No,48,48,,2026-10-22T02:35:40Z
+6,Calgary-Currie,4,Health and education fee,Yes,No,7033,8921,44.08,No,56,58,,2026-10-22T02:35:40Z
+7,Calgary-East,4,Health and education fee,Yes,No,8299,8071,50.70,Yes,74,74,,2026-10-22T02:35:40Z
+8,Calgary-Edgemont,4,Health and education fee,Yes,No,10351,14340,41.92,No,57,57,,2026-10-22T02:35:40Z
+9,Calgary-Elbow,4,Health and education fee,Yes,No,10996,15981,40.76,No,60,60,,2026-10-22T02:35:40Z
+10,Calgary-Falconridge,4,Health and education fee,Yes,No,5639,7906,41.63,No,51,51,,2026-10-22T02:35:40Z
+11,Calgary-Fish Creek,4,Health and education fee,Yes,No,13010,13965,48.23,No,59,59,,2026-10-22T02:35:40Z
+12,Calgary-Foothills,4,Health and education fee,Yes,No,12350,15034,45.10,No,62,62,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+13,Calgary-Glenmore,4,Health and education fee,Yes,No,12105,14855,44.90,No,59,59,,2026-10-22T02:35:40Z
+14,Calgary-Hays,4,Health and education fee,Yes,No,13108,12451,51.29,Yes,58,58,,2026-10-22T02:35:40Z
+15,Calgary-Klein,4,Health and education fee,Yes,No,9420,12926,42.16,No,53,53,,2026-10-22T02:35:40Z
+16,Calgary-Lougheed,4,Health and education fee,Yes,No,10419,10573,49.63,No,45,45,,2026-10-22T02:35:40Z
+17,Calgary-Bhullar-McCall,4,Health and education fee,Yes,No,4441,8714,33.76,No,39,39,,2026-10-22T02:35:40Z
+18,Calgary-Mountain View,4,Health and education fee,Yes,No,9008,17592,33.86,No,90,90,,2026-10-22T02:35:40Z
+19,Calgary-North,4,Health and education fee,Yes,No,9345,11055,45.81,No,52,52,,2026-10-22T02:35:40Z
+20,Calgary-North East,4,Health and education fee,Yes,No,11965,13332,47.30,No,62,65,,2026-10-22T02:35:40Z
+21,Calgary-North West,4,Health and education fee,Yes,No,12326,15286,44.64,No,58,58,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+22,Calgary-Peigan,4,Health and education fee,Yes,No,12041,11594,50.95,Yes,52,52,,2026-10-22T02:35:40Z
+23,Calgary-Shaw,4,Health and education fee,Yes,No,11061,10864,50.45,Yes,70,71,,2026-10-22T02:35:40Z
+24,Calgary-South East,4,Health and education fee,Yes,No,17253,14830,53.78,Yes,76,76,,2026-10-22T02:35:40Z
+25,Calgary-Varsity,4,Health and education fee,Yes,No,8841,15750,35.95,No,51,51,,2026-10-22T02:35:40Z
+26,Calgary-West,4,Health and education fee,Yes,No,12075,13101,47.96,No,54,54,,2026-10-22T02:35:40Z
+27,Edmonton-Beverly-Clareview,4,Health and education fee,Yes,No,5554,7139,43.76,No,41,49,,2026-10-22T02:35:40Z
+28,Edmonton-Castle Downs,4,Health and education fee,Yes,No,9241,9121,50.33,Yes,56,69,,2026-10-22T02:35:40Z
+29,Edmonton-City Centre,4,Health and education fee,Yes,No,7760,12018,39.24,No,75,79,,2026-10-22T02:35:40Z
+30,Edmonton-Decore,4,Health and education fee,Yes,No,8278,10006,45.27,No,56,56,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+31,Edmonton-Ellerslie,4,Health and education fee,Yes,No,9768,13905,41.26,No,49,52,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+32,Edmonton-Glenora,4,Health and education fee,Yes,No,7378,14069,34.40,No,52,52,,2026-10-22T02:35:40Z
+33,Edmonton-Gold Bar,4,Health and education fee,Yes,No,8499,17117,33.18,No,58,58,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+34,Edmonton-Highlands-Norwood,4,Health and education fee,Yes,No,5740,10664,34.99,No,48,49,,2026-10-22T02:35:40Z
+35,Edmonton-Manning,4,Health and education fee,Yes,No,10298,12663,44.85,No,58,59,,2026-10-22T02:35:40Z
+36,Edmonton-McClung,4,Health and education fee,Yes,No,7926,10848,42.22,No,51,51,,2026-10-22T02:35:40Z
+37,Edmonton-Meadows,4,Health and education fee,Yes,No,8308,11866,41.18,No,61,61,,2026-10-22T02:35:40Z
+38,Edmonton-Mill Woods,4,Health and education fee,Yes,No,7029,9021,43.79,No,53,53,,2026-10-22T02:35:40Z
+39,Edmonton-North West,4,Health and education fee,Yes,No,7437,10574,41.29,No,64,68,,2026-10-22T02:35:40Z
+40,Edmonton-Riverview,4,Health and education fee,Yes,No,8467,13994,37.70,No,53,53,,2026-10-22T02:35:40Z
+41,Edmonton-Rutherford,4,Health and education fee,Yes,No,8239,12250,40.21,No,50,50,,2026-10-22T02:35:40Z
+42,Edmonton-South,4,Health and education fee,Yes,No,13689,17951,43.26,No,88,88,,2026-10-22T02:35:40Z
+43,Edmonton-South West,4,Health and education fee,Yes,No,15706,18845,45.46,No,76,76,,2026-10-22T02:35:40Z
+44,Edmonton-Strathcona,4,Health and education fee,Yes,No,5258,15963,24.78,No,50,50,,2026-10-22T02:35:40Z
+45,Edmonton-West Henday,4,Health and education fee,Yes,No,11978,14487,45.26,No,59,59,,2026-10-22T02:35:40Z
+46,Edmonton-Whitemud,4,Health and education fee,Yes,No,9220,14686,38.57,No,51,51,,2026-10-22T02:35:40Z
+47,Airdrie-Cochrane,4,Health and education fee,Yes,No,17885,10649,62.68,Yes,92,92,,2026-10-22T02:35:40Z
+48,Airdrie-East,4,Health and education fee,Yes,No,18268,11749,60.86,Yes,73,73,,2026-10-22T02:35:40Z
+49,Athabasca-Barrhead-Westlock,4,Health and education fee,Yes,No,16029,7121,69.24,Yes,62,62,,2026-10-22T02:35:40Z
+50,Banff-Kananaskis,4,Health and education fee,Yes,No,12468,16281,43.37,No,64,64,,2026-10-22T02:35:40Z
+51,Bonnyville-Cold Lake-St. Paul,4,Health and education fee,Yes,No,7700,4780,61.70,Yes,58,74,,2026-10-22T02:35:40Z
+52,Brooks-Medicine Hat,4,Health and education fee,Yes,No,13926,7968,63.61,Yes,71,71,,2026-10-22T02:35:40Z
+53,Camrose,4,Health and education fee,Yes,No,14770,7679,65.79,Yes,64,70,,2026-10-22T02:35:40Z
+54,Cardston-Siksika,4,Health and education fee,Yes,No,11382,6301,64.37,Yes,67,68,,2026-10-22T02:35:40Z
+55,Central Peace-Notley,4,Health and education fee,Yes,No,9182,3595,71.86,Yes,60,60,,2026-10-22T02:35:40Z
+56,Chestermere-Strathmore,4,Health and education fee,Yes,No,17766,10689,62.44,Yes,69,71,,2026-10-22T02:35:40Z
+57,Cypress-Medicine Hat,4,Health and education fee,Yes,No,14764,10065,59.46,Yes,59,59,,2026-10-22T02:35:40Z
+58,Drayton Valley-Devon,4,Health and education fee,Yes,No,18331,7206,71.78,Yes,68,68,,2026-10-22T02:35:40Z
+59,Drumheller-Stettler,4,Health and education fee,Yes,No,15050,4682,76.27,Yes,71,71,,2026-10-22T02:35:40Z
+60,Fort McMurray-Lac La Biche,4,Health and education fee,Yes,No,8351,4946,62.80,Yes,58,63,,2026-10-22T02:35:40Z
+61,Fort McMurray-Wood Buffalo,4,Health and education fee,Yes,No,3036,1854,62.09,Yes,13,40,,2026-10-22T02:35:40Z
+62,Fort Saskatchewan-Vegreville,4,Health and education fee,Yes,No,13527,6579,67.28,Yes,61,82,,2026-10-22T02:35:40Z
+63,Grande Prairie,4,Health and education fee,Yes,No,11407,6884,62.36,Yes,44,52,,2026-10-22T02:35:40Z
+64,Grande Prairie-Wapiti,4,Health and education fee,Yes,No,16740,6264,72.77,Yes,69,81,,2026-10-22T02:35:40Z
+65,Highwood,4,Health and education fee,Yes,No,19497,11726,62.44,Yes,112,112,,2026-10-22T02:35:40Z
+66,Innisfail-Sylvan Lake,4,Health and education fee,Yes,No,18247,8026,69.45,Yes,73,73,,2026-10-22T02:35:40Z
+67,Lac Ste. Anne-Parkland,4,Health and education fee,Yes,No,17165,8163,67.77,Yes,75,75,,2026-10-22T02:35:40Z
+68,Lacombe-Ponoka,4,Health and education fee,Yes,No,16834,7749,68.48,Yes,72,72,,2026-10-22T02:35:40Z
+69,Leduc-Beaumont,4,Health and education fee,Yes,No,17823,11859,60.05,Yes,68,68,,2026-10-22T02:35:40Z
+70,Lesser Slave Lake,4,Health and education fee,Yes,No,5227,4755,52.36,Yes,45,48,,2026-10-22T02:35:40Z
+71,Lethbridge-East,4,Health and education fee,Yes,No,11585,12504,48.09,No,67,69,,2026-10-22T02:35:40Z
+72,Lethbridge-West,4,Health and education fee,Yes,No,11211,15164,42.51,No,67,67,,2026-10-22T02:35:40Z
+73,Livingstone-Macleod,4,Health and education fee,Yes,No,17521,10173,63.27,Yes,93,94,,2026-10-22T02:35:40Z
+74,Maskwacis-Wetaskiwin,4,Health and education fee,Yes,No,12600,7399,63.00,Yes,53,57,,2026-10-22T02:35:40Z
+75,Morinville-St. Albert,4,Health and education fee,Yes,No,16533,13191,55.62,Yes,58,64,,2026-10-22T02:35:40Z
+76,Olds-Didsbury-Three Hills,4,Health and education fee,Yes,No,19997,7389,73.02,Yes,71,71,,2026-10-22T02:35:40Z
+77,Peace River,4,Health and education fee,Yes,No,8630,5637,60.49,Yes,68,69,,2026-10-22T02:35:40Z
+78,Red Deer-North,4,Health and education fee,Yes,No,12435,9336,57.12,Yes,64,64,,2026-10-22T02:35:40Z
+79,Red Deer-South,4,Health and education fee,Yes,No,14972,11526,56.50,Yes,71,73,,2026-10-22T02:35:40Z
+80,Rimbey-Rocky Mountain House-Sundre,4,Health and education fee,Yes,No,18555,5328,77.69,Yes,83,85,,2026-10-22T02:35:40Z
+81,Sherwood Park,4,Health and education fee,Yes,No,11299,9118,55.34,Yes,61,61,,2026-10-22T02:35:40Z
+82,Spruce Grove-Stony Plain,4,Health and education fee,Yes,No,14671,8507,63.30,Yes,66,67,,2026-10-22T02:35:40Z
+83,St. Albert,4,Health and education fee,Yes,No,9418,9211,50.56,Yes,59,60,,2026-10-22T02:35:40Z
+84,Strathcona-Sherwood Park,4,Health and education fee,Yes,No,16704,12835,56.55,Yes,63,63,,2026-10-22T02:35:40Z
+85,Taber-Warner,4,Health and education fee,Yes,No,13001,5206,71.41,Yes,70,70,,2026-10-22T02:35:40Z
+86,Vermilion-Lloydminster-Wainwright,4,Health and education fee,Yes,No,13807,5241,72.49,Yes,56,66,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+87,West Yellowhead,4,Health and education fee,Yes,No,14474,7036,67.29,Yes,73,74,,2026-10-22T02:35:40Z
+1,Calgary-Acadia,5,Proof of citizenship to vote,Yes,No,12304,11502,51.68,Yes,57,57,,2026-10-22T02:35:40Z
+2,Calgary-Beddington,5,Proof of citizenship to vote,Yes,No,11152,11131,50.05,Yes,53,53,,2026-10-22T02:35:40Z
+3,Calgary-Bow,5,Proof of citizenship to vote,Yes,No,15368,14091,52.17,Yes,69,69,,2026-10-22T02:35:40Z
+4,Calgary-Buffalo,5,Proof of citizenship to vote,Yes,No,10501,13807,43.20,No,78,78,,2026-10-22T02:35:40Z
+5,Calgary-Cross,5,Proof of citizenship to vote,Yes,No,8192,7331,52.77,Yes,48,48,,2026-10-22T02:35:40Z
+6,Calgary-Currie,5,Proof of citizenship to vote,Yes,No,10941,13889,44.06,No,56,58,,2026-10-22T02:35:40Z
+7,Calgary-East,5,Proof of citizenship to vote,Yes,No,9492,6917,57.85,Yes,74,74,,2026-10-22T02:35:40Z
+8,Calgary-Edgemont,5,Proof of citizenship to vote,Yes,No,11802,12616,48.33,No,57,57,,2026-10-22T02:35:40Z
+9,Calgary-Elbow,5,Proof of citizenship to vote,Yes,No,12197,13651,47.19,No,60,60,,2026-10-22T02:35:40Z
+10,Calgary-Falconridge,5,Proof of citizenship to vote,Yes,No,6784,7235,48.39,No,51,51,,2026-10-22T02:35:40Z
+11,Calgary-Fish Creek,5,Proof of citizenship to vote,Yes,No,14546,12499,53.78,Yes,59,59,,2026-10-22T02:35:40Z
+12,Calgary-Foothills,5,Proof of citizenship to vote,Yes,No,7096,5803,55.01,Yes,62,62,,2026-10-22T02:35:40Z
+13,Calgary-Glenmore,5,Proof of citizenship to vote,Yes,No,9431,6754,58.27,Yes,59,59,,2026-10-22T02:35:40Z
+14,Calgary-Hays,5,Proof of citizenship to vote,Yes,No,14704,10410,58.55,Yes,58,58,,2026-10-22T02:35:40Z
+15,Calgary-Klein,5,Proof of citizenship to vote,Yes,No,10692,11622,47.92,No,53,53,,2026-10-22T02:35:40Z
+16,Calgary-Lougheed,5,Proof of citizenship to vote,Yes,No,11916,8993,56.99,Yes,45,45,,2026-10-22T02:35:40Z
+17,Calgary-Bhullar-McCall,5,Proof of citizenship to vote,Yes,No,5709,7475,43.30,No,39,39,,2026-10-22T02:35:40Z
+18,Calgary-Mountain View,5,Proof of citizenship to vote,Yes,No,7832,9769,44.50,No,90,90,,2026-10-22T02:35:40Z
+19,Calgary-North,5,Proof of citizenship to vote,Yes,No,10693,9706,52.42,Yes,52,52,,2026-10-22T02:35:40Z
+20,Calgary-North East,5,Proof of citizenship to vote,Yes,No,12836,12638,50.39,Yes,62,65,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+21,Calgary-North West,5,Proof of citizenship to vote,Yes,No,14014,13786,50.41,Yes,58,58,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+22,Calgary-Peigan,5,Proof of citizenship to vote,Yes,No,13205,10082,56.71,Yes,52,52,,2026-10-22T02:35:40Z
+23,Calgary-Shaw,5,Proof of citizenship to vote,Yes,No,13053,9171,58.73,Yes,70,71,,2026-10-22T02:35:40Z
+24,Calgary-South East,5,Proof of citizenship to vote,Yes,No,19552,12593,60.82,Yes,76,76,,2026-10-22T02:35:40Z
+25,Calgary-Varsity,5,Proof of citizenship to vote,Yes,No,6003,6566,47.76,No,51,51,,2026-10-22T02:35:40Z
+26,Calgary-West,5,Proof of citizenship to vote,Yes,No,13605,11373,54.47,Yes,54,54,,2026-10-22T02:35:40Z
+27,Edmonton-Beverly-Clareview,5,Proof of citizenship to vote,Yes,No,6182,6146,50.15,Yes,41,49,,2026-10-22T02:35:40Z
+28,Edmonton-Castle Downs,5,Proof of citizenship to vote,Yes,No,11118,10397,51.68,Yes,56,69,,2026-10-22T02:35:40Z
+29,Edmonton-City Centre,5,Proof of citizenship to vote,Yes,No,7011,12828,35.34,No,75,79,,2026-10-22T02:35:40Z
+30,Edmonton-Decore,5,Proof of citizenship to vote,Yes,No,9223,8760,51.29,Yes,56,56,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+31,Edmonton-Ellerslie,5,Proof of citizenship to vote,Yes,No,11604,11797,49.59,No,49,52,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+32,Edmonton-Glenora,5,Proof of citizenship to vote,Yes,No,8466,13071,39.31,No,52,52,,2026-10-22T02:35:40Z
+33,Edmonton-Gold Bar,5,Proof of citizenship to vote,Yes,No,7129,7720,48.01,No,58,58,,2026-10-22T02:35:40Z
+34,Edmonton-Highlands-Norwood,5,Proof of citizenship to vote,Yes,No,6721,9672,41.00,No,48,49,,2026-10-22T02:35:40Z
+35,Edmonton-Manning,5,Proof of citizenship to vote,Yes,No,12018,10812,52.64,Yes,58,59,,2026-10-22T02:35:40Z
+36,Edmonton-McClung,5,Proof of citizenship to vote,Yes,No,9294,9480,49.50,No,51,51,,2026-10-22T02:35:40Z
+37,Edmonton-Meadows,5,Proof of citizenship to vote,Yes,No,9544,10886,46.72,No,61,61,,2026-10-22T02:35:40Z
+38,Edmonton-Mill Woods,5,Proof of citizenship to vote,Yes,No,8175,7902,50.85,Yes,53,53,,2026-10-22T02:35:40Z
+39,Edmonton-North West,5,Proof of citizenship to vote,Yes,No,9391,9822,48.88,No,64,68,,2026-10-22T02:35:40Z
+40,Edmonton-Riverview,5,Proof of citizenship to vote,Yes,No,6241,6933,47.37,No,53,53,,2026-10-22T02:35:40Z
+41,Edmonton-Rutherford,5,Proof of citizenship to vote,Yes,No,8765,12790,40.66,No,50,50,,2026-10-22T02:35:40Z
+42,Edmonton-South,5,Proof of citizenship to vote,Yes,No,16430,16594,49.75,No,88,88,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+43,Edmonton-South West,5,Proof of citizenship to vote,Yes,No,15412,12922,54.39,Yes,76,76,,2026-10-22T02:35:40Z
+44,Edmonton-Strathcona,5,Proof of citizenship to vote,Yes,No,6451,14691,30.51,No,50,50,,2026-10-22T02:35:40Z
+45,Edmonton-West Henday,5,Proof of citizenship to vote,Yes,No,13835,12481,52.57,Yes,59,59,,2026-10-22T02:35:40Z
+46,Edmonton-Whitemud,5,Proof of citizenship to vote,Yes,No,6926,6755,50.62,Yes,51,51,,2026-10-22T02:35:40Z
+47,Airdrie-Cochrane,5,Proof of citizenship to vote,Yes,No,19855,8668,69.61,Yes,92,92,,2026-10-22T02:35:40Z
+48,Airdrie-East,5,Proof of citizenship to vote,Yes,No,20061,9960,66.82,Yes,73,73,,2026-10-22T02:35:40Z
+49,Athabasca-Barrhead-Westlock,5,Proof of citizenship to vote,Yes,No,17294,6011,74.21,Yes,62,62,,2026-10-22T02:35:40Z
+50,Banff-Kananaskis,5,Proof of citizenship to vote,Yes,No,10866,9235,54.06,Yes,64,64,,2026-10-22T02:35:40Z
+51,Bonnyville-Cold Lake-St. Paul,5,Proof of citizenship to vote,Yes,No,8630,3780,69.54,Yes,58,74,,2026-10-22T02:35:40Z
+52,Brooks-Medicine Hat,5,Proof of citizenship to vote,Yes,No,15564,6572,70.31,Yes,71,71,,2026-10-22T02:35:40Z
+53,Camrose,5,Proof of citizenship to vote,Yes,No,15941,6167,72.11,Yes,64,70,,2026-10-22T02:35:40Z
+54,Cardston-Siksika,5,Proof of citizenship to vote,Yes,No,12346,5319,69.89,Yes,67,68,,2026-10-22T02:35:40Z
+55,Central Peace-Notley,5,Proof of citizenship to vote,Yes,No,9527,2558,78.83,Yes,60,60,,2026-10-22T02:35:40Z
+56,Chestermere-Strathmore,5,Proof of citizenship to vote,Yes,No,19578,8809,68.97,Yes,69,71,,2026-10-22T02:35:40Z
+57,Cypress-Medicine Hat,5,Proof of citizenship to vote,Yes,No,16088,8168,66.33,Yes,59,59,,2026-10-22T02:35:40Z
+58,Drayton Valley-Devon,5,Proof of citizenship to vote,Yes,No,19538,6015,76.46,Yes,68,68,,2026-10-22T02:35:40Z
+59,Drumheller-Stettler,5,Proof of citizenship to vote,Yes,No,16101,3653,81.51,Yes,71,71,,2026-10-22T02:35:40Z
+60,Fort McMurray-Lac La Biche,5,Proof of citizenship to vote,Yes,No,7949,3492,69.48,Yes,58,63,,2026-10-22T02:35:40Z
+61,Fort McMurray-Wood Buffalo,5,Proof of citizenship to vote,Yes,No,4707,1896,71.29,Yes,13,40,,2026-10-22T02:35:40Z
+62,Fort Saskatchewan-Vegreville,5,Proof of citizenship to vote,Yes,No,14810,5406,73.26,Yes,61,82,,2026-10-22T02:35:40Z
+63,Grande Prairie,5,Proof of citizenship to vote,Yes,No,12645,5398,70.08,Yes,44,52,,2026-10-22T02:35:40Z
+64,Grande Prairie-Wapiti,5,Proof of citizenship to vote,Yes,No,18116,4957,78.52,Yes,69,81,,2026-10-22T02:35:40Z
+65,Highwood,5,Proof of citizenship to vote,Yes,No,21383,9926,68.30,Yes,112,112,,2026-10-22T02:35:40Z
+66,Innisfail-Sylvan Lake,5,Proof of citizenship to vote,Yes,No,20225,6643,75.28,Yes,73,73,,2026-10-22T02:35:40Z
+67,Lac Ste. Anne-Parkland,5,Proof of citizenship to vote,Yes,No,18626,7183,72.17,Yes,75,75,,2026-10-22T02:35:40Z
+68,Lacombe-Ponoka,5,Proof of citizenship to vote,Yes,No,18539,6196,74.95,Yes,72,72,,2026-10-22T02:35:40Z
+69,Leduc-Beaumont,5,Proof of citizenship to vote,Yes,No,19680,9940,66.44,Yes,68,68,,2026-10-22T02:35:40Z
+70,Lesser Slave Lake,5,Proof of citizenship to vote,Yes,No,5989,4018,59.85,Yes,45,48,,2026-10-22T02:35:40Z
+71,Lethbridge-East,5,Proof of citizenship to vote,Yes,No,13585,10658,56.04,Yes,67,69,,2026-10-22T02:35:40Z
+72,Lethbridge-West,5,Proof of citizenship to vote,Yes,No,13352,13078,50.52,Yes,67,67,,2026-10-22T02:35:40Z
+73,Livingstone-Macleod,5,Proof of citizenship to vote,Yes,No,19236,8388,69.64,Yes,93,94,,2026-10-22T02:35:40Z
+74,Maskwacis-Wetaskiwin,5,Proof of citizenship to vote,Yes,No,13651,6423,68.00,Yes,53,57,,2026-10-22T02:35:40Z
+75,Morinville-St. Albert,5,Proof of citizenship to vote,Yes,No,14630,6654,68.74,Yes,58,64,,2026-10-22T02:35:40Z
+76,Olds-Didsbury-Three Hills,5,Proof of citizenship to vote,Yes,No,21265,6209,77.40,Yes,71,71,,2026-10-22T02:35:40Z
+77,Peace River,5,Proof of citizenship to vote,Yes,No,9010,4650,65.96,Yes,68,69,,2026-10-22T02:35:40Z
+78,Red Deer-North,5,Proof of citizenship to vote,Yes,No,14063,7264,65.94,Yes,64,64,,2026-10-22T02:35:40Z
+79,Red Deer-South,5,Proof of citizenship to vote,Yes,No,16989,9536,64.05,Yes,71,73,,2026-10-22T02:35:40Z
+80,Rimbey-Rocky Mountain House-Sundre,5,Proof of citizenship to vote,Yes,No,21349,4853,81.48,Yes,83,85,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+81,Sherwood Park,5,Proof of citizenship to vote,Yes,No,12671,7725,62.12,Yes,61,61,,2026-10-22T02:35:40Z
+82,Spruce Grove-Stony Plain,5,Proof of citizenship to vote,Yes,No,16180,6997,69.81,Yes,66,67,,2026-10-22T02:35:40Z
+83,St. Albert,5,Proof of citizenship to vote,Yes,No,10623,7953,57.19,Yes,59,60,,2026-10-22T02:35:40Z
+84,Strathcona-Sherwood Park,5,Proof of citizenship to vote,Yes,No,18435,10367,64.01,Yes,63,63,,2026-10-22T02:35:40Z
+85,Taber-Warner,5,Proof of citizenship to vote,Yes,No,14327,4023,78.08,Yes,70,70,,2026-10-22T02:35:40Z
+86,Vermilion-Lloydminster-Wainwright,5,Proof of citizenship to vote,Yes,No,14997,4029,78.82,Yes,56,66,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+87,West Yellowhead,5,Proof of citizenship to vote,Yes,No,16550,5720,74.32,Yes,73,74,,2026-10-22T02:35:40Z
+1,Calgary-Acadia,6,Provinces pick judges,Yes,No,9346,17156,35.27,No,57,57,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+2,Calgary-Beddington,6,Provinces pick judges,Yes,No,8133,13776,37.12,No,53,53,,2026-10-22T02:35:40Z
+3,Calgary-Bow,6,Provinces pick judges,Yes,No,9039,10984,45.14,No,69,69,,2026-10-22T02:35:40Z
+4,Calgary-Buffalo,6,Provinces pick judges,Yes,No,7298,16915,30.14,No,78,78,,2026-10-22T02:35:40Z
+5,Calgary-Cross,6,Provinces pick judges,Yes,No,5721,9614,37.31,No,48,48,,2026-10-22T02:35:40Z
+6,Calgary-Currie,6,Provinces pick judges,Yes,No,6103,9576,38.92,No,56,58,,2026-10-22T02:35:40Z
+7,Calgary-East,6,Provinces pick judges,Yes,No,7058,9320,43.09,No,74,74,,2026-10-22T02:35:40Z
+8,Calgary-Edgemont,6,Provinces pick judges,Yes,No,8665,16001,35.13,No,57,57,,2026-10-22T02:35:40Z
+9,Calgary-Elbow,6,Provinces pick judges,Yes,No,6702,9650,40.99,No,60,60,,2026-10-22T02:35:40Z
+10,Calgary-Falconridge,6,Provinces pick judges,Yes,No,4542,9456,32.45,No,51,51,,2026-10-22T02:35:40Z
+11,Calgary-Fish Creek,6,Provinces pick judges,Yes,No,8476,8331,50.43,Yes,59,59,,2026-10-22T02:35:40Z
+12,Calgary-Foothills,6,Provinces pick judges,Yes,No,10010,16862,37.25,No,62,62,,2026-10-22T02:35:40Z
+13,Calgary-Glenmore,6,Provinces pick judges,Yes,No,7497,8658,46.41,No,59,59,,2026-10-22T02:35:40Z
+14,Calgary-Hays,6,Provinces pick judges,Yes,No,11134,13679,44.87,No,58,58,,2026-10-22T02:35:40Z
+15,Calgary-Klein,6,Provinces pick judges,Yes,No,8041,14346,35.92,No,53,53,,2026-10-22T02:35:40Z
+16,Calgary-Lougheed,6,Provinces pick judges,Yes,No,9097,11697,43.75,No,45,45,,2026-10-22T02:35:40Z
+17,Calgary-Bhullar-McCall,6,Provinces pick judges,Yes,No,3624,9480,27.66,No,39,39,,2026-10-22T02:35:40Z
+18,Calgary-Mountain View,6,Provinces pick judges,Yes,No,7327,21053,25.82,No,90,90,,2026-10-22T02:35:40Z
+19,Calgary-North,6,Provinces pick judges,Yes,No,7443,12877,36.63,No,52,52,,2026-10-22T02:35:40Z
+20,Calgary-North East,6,Provinces pick judges,Yes,No,8569,16777,33.81,No,62,65,,2026-10-22T02:35:40Z
+21,Calgary-North West,6,Provinces pick judges,Yes,No,10211,17406,36.97,No,58,58,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+22,Calgary-Peigan,6,Provinces pick judges,Yes,No,10265,13298,43.56,No,52,52,,2026-10-22T02:35:40Z
+23,Calgary-Shaw,6,Provinces pick judges,Yes,No,9505,12531,43.13,No,70,71,,2026-10-22T02:35:40Z
+24,Calgary-South East,6,Provinces pick judges,Yes,No,13512,15546,46.50,No,76,76,,2026-10-22T02:35:40Z
+25,Calgary-Varsity,6,Provinces pick judges,Yes,No,6494,15022,30.18,No,51,51,,2026-10-22T02:35:40Z
+26,Calgary-West,6,Provinces pick judges,Yes,No,10286,14858,40.91,No,54,54,,2026-10-22T02:35:40Z
+27,Edmonton-Beverly-Clareview,6,Provinces pick judges,Yes,No,4337,8233,34.50,No,41,49,,2026-10-22T02:35:40Z
+28,Edmonton-Castle Downs,6,Provinces pick judges,Yes,No,8180,14038,36.82,No,56,69,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+29,Edmonton-City Centre,6,Provinces pick judges,Yes,No,4482,15272,22.69,No,75,79,,2026-10-22T02:35:40Z
+30,Edmonton-Decore,6,Provinces pick judges,Yes,No,6972,11369,38.01,No,56,56,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+31,Edmonton-Ellerslie,6,Provinces pick judges,Yes,No,7420,15567,32.28,No,49,52,,2026-10-22T02:35:40Z
+32,Edmonton-Glenora,6,Provinces pick judges,Yes,No,5747,15406,27.17,No,52,52,,2026-10-22T02:35:40Z
+33,Edmonton-Gold Bar,6,Provinces pick judges,Yes,No,5385,9362,36.52,No,58,58,,2026-10-22T02:35:40Z
+34,Edmonton-Highlands-Norwood,6,Provinces pick judges,Yes,No,4565,11785,27.92,No,48,49,,2026-10-22T02:35:40Z
+35,Edmonton-Manning,6,Provinces pick judges,Yes,No,8348,14630,36.33,No,58,59,,2026-10-22T02:35:40Z
+36,Edmonton-McClung,6,Provinces pick judges,Yes,No,6482,11896,35.27,No,51,51,,2026-10-22T02:35:40Z
+37,Edmonton-Meadows,6,Provinces pick judges,Yes,No,6224,13864,30.98,No,61,61,,2026-10-22T02:35:40Z
+38,Edmonton-Mill Woods,6,Provinces pick judges,Yes,No,5835,10486,35.75,No,53,53,,2026-10-22T02:35:40Z
+39,Edmonton-North West,6,Provinces pick judges,Yes,No,6438,12562,33.88,No,64,68,,2026-10-22T02:35:40Z
+40,Edmonton-Riverview,6,Provinces pick judges,Yes,No,4539,8554,34.67,No,53,53,,2026-10-22T02:35:40Z
+41,Edmonton-Rutherford,6,Provinces pick judges,Yes,No,4637,8554,35.15,No,50,50,,2026-10-22T02:35:40Z
+42,Edmonton-South,6,Provinces pick judges,Yes,No,8505,13652,38.39,No,88,88,,2026-10-22T02:35:40Z
+43,Edmonton-South West,6,Provinces pick judges,Yes,No,12734,22132,36.52,No,76,76,,2026-10-22T02:35:40Z
+44,Edmonton-Strathcona,6,Provinces pick judges,Yes,No,4136,16831,19.73,No,50,50,,2026-10-22T02:35:40Z
+45,Edmonton-West Henday,6,Provinces pick judges,Yes,No,9706,16550,36.97,No,59,59,,2026-10-22T02:35:40Z
+46,Edmonton-Whitemud,6,Provinces pick judges,Yes,No,5060,8562,37.15,No,51,51,,2026-10-22T02:35:40Z
+47,Airdrie-Cochrane,6,Provinces pick judges,Yes,No,16337,12054,57.54,Yes,92,92,,2026-10-22T02:35:40Z
+48,Airdrie-East,6,Provinces pick judges,Yes,No,15758,14300,52.43,Yes,73,73,,2026-10-22T02:35:40Z
+49,Athabasca-Barrhead-Westlock,6,Provinces pick judges,Yes,No,14776,8132,64.50,Yes,62,62,,2026-10-22T02:35:40Z
+50,Banff-Kananaskis,6,Provinces pick judges,Yes,No,8623,11406,43.05,No,64,64,,2026-10-22T02:35:40Z
+51,Bonnyville-Cold Lake-St. Paul,6,Provinces pick judges,Yes,No,7057,5402,56.64,Yes,58,74,,2026-10-22T02:35:40Z
+52,Brooks-Medicine Hat,6,Provinces pick judges,Yes,No,12968,9353,58.10,Yes,71,71,,2026-10-22T02:35:40Z
+53,Camrose,6,Provinces pick judges,Yes,No,13562,8681,60.97,Yes,64,70,,2026-10-22T02:35:40Z
+54,Cardston-Siksika,6,Provinces pick judges,Yes,No,10944,6691,62.06,Yes,67,68,,2026-10-22T02:35:40Z
+55,Central Peace-Notley,6,Provinces pick judges,Yes,No,8919,3771,70.28,Yes,60,60,,2026-10-22T02:35:40Z
+56,Chestermere-Strathmore,6,Provinces pick judges,Yes,No,13017,9274,58.40,Yes,69,71,,2026-10-22T02:35:40Z
+57,Cypress-Medicine Hat,6,Provinces pick judges,Yes,No,13190,11234,54.00,Yes,59,59,,2026-10-22T02:35:40Z
+58,Drayton Valley-Devon,6,Provinces pick judges,Yes,No,17045,8274,67.32,Yes,68,68,,2026-10-22T02:35:40Z
+59,Drumheller-Stettler,6,Provinces pick judges,Yes,No,14495,5206,73.57,Yes,71,71,,2026-10-22T02:35:40Z
+60,Fort McMurray-Lac La Biche,6,Provinces pick judges,Yes,No,6288,4582,57.85,Yes,58,63,,2026-10-22T02:35:40Z
+61,Fort McMurray-Wood Buffalo,6,Provinces pick judges,Yes,No,2014,1650,54.97,Yes,13,40,,2026-10-22T02:35:40Z
+62,Fort Saskatchewan-Vegreville,6,Provinces pick judges,Yes,No,12388,7567,62.08,Yes,61,82,,2026-10-22T02:35:40Z
+63,Grande Prairie,6,Provinces pick judges,Yes,No,10655,7420,58.95,Yes,44,52,,2026-10-22T02:35:40Z
+64,Grande Prairie-Wapiti,6,Provinces pick judges,Yes,No,16007,6945,69.74,Yes,69,81,,2026-10-22T02:35:40Z
+65,Highwood,6,Provinces pick judges,Yes,No,18192,13057,58.22,Yes,112,112,,2026-10-22T02:35:40Z
+66,Innisfail-Sylvan Lake,6,Provinces pick judges,Yes,No,16876,9739,63.41,Yes,73,73,,2026-10-22T02:35:40Z
+67,Lac Ste. Anne-Parkland,6,Provinces pick judges,Yes,No,15858,10011,61.30,Yes,75,75,,2026-10-22T02:35:40Z
+68,Lacombe-Ponoka,6,Provinces pick judges,Yes,No,15675,8555,64.69,Yes,72,72,,2026-10-22T02:35:40Z
+69,Leduc-Beaumont,6,Provinces pick judges,Yes,No,15201,14508,51.17,Yes,68,68,,2026-10-22T02:35:40Z
+70,Lesser Slave Lake,6,Provinces pick judges,Yes,No,4846,5021,49.11,No,45,48,,2026-10-22T02:35:40Z
+71,Lethbridge-East,6,Provinces pick judges,Yes,No,10187,13877,42.33,No,67,69,,2026-10-22T02:35:40Z
+72,Lethbridge-West,6,Provinces pick judges,Yes,No,8920,14693,37.78,No,67,67,,2026-10-22T02:35:40Z
+73,Livingstone-Macleod,6,Provinces pick judges,Yes,No,16227,11250,59.06,Yes,93,94,,2026-10-22T02:35:40Z
+74,Maskwacis-Wetaskiwin,6,Provinces pick judges,Yes,No,11345,8391,57.48,Yes,53,57,,2026-10-22T02:35:40Z
+75,Morinville-St. Albert,6,Provinces pick judges,Yes,No,11809,9395,55.69,Yes,58,64,,2026-10-22T02:35:40Z
+76,Olds-Didsbury-Three Hills,6,Provinces pick judges,Yes,No,18602,8655,68.25,Yes,71,71,,2026-10-22T02:35:40Z
+77,Peace River,6,Provinces pick judges,Yes,No,7930,5682,58.26,Yes,68,69,,2026-10-22T02:35:40Z
+78,Red Deer-North,6,Provinces pick judges,Yes,No,11215,10032,52.78,Yes,64,64,,2026-10-22T02:35:40Z
+79,Red Deer-South,6,Provinces pick judges,Yes,No,14210,12838,52.54,Yes,71,73,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+80,Rimbey-Rocky Mountain House-Sundre,6,Provinces pick judges,Yes,No,18074,6482,73.60,Yes,83,85,,2026-10-22T02:35:40Z
+81,Sherwood Park,6,Provinces pick judges,Yes,No,9714,10559,47.92,No,61,61,,2026-10-22T02:35:40Z
+82,Spruce Grove-Stony Plain,6,Provinces pick judges,Yes,No,13193,9837,57.29,Yes,66,67,,2026-10-22T02:35:40Z
+83,St. Albert,6,Provinces pick judges,Yes,No,8046,10480,43.43,No,59,60,,2026-10-22T02:35:40Z
+84,Strathcona-Sherwood Park,6,Provinces pick judges,Yes,No,11680,9048,56.35,Yes,63,63,,2026-10-22T02:35:40Z
+85,Taber-Warner,6,Provinces pick judges,Yes,No,12661,5623,69.25,Yes,70,70,,2026-10-22T02:35:40Z
+86,Vermilion-Lloydminster-Wainwright,6,Provinces pick judges,Yes,No,13140,5731,69.63,Yes,56,66,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+87,West Yellowhead,6,Provinces pick judges,Yes,No,14312,9045,61.27,Yes,73,74,,2026-10-22T02:35:40Z
+1,Calgary-Acadia,7,Abolish the Senate,Yes,No,8063,7225,52.74,Yes,57,57,,2026-10-22T02:35:40Z
+2,Calgary-Beddington,7,Abolish the Senate,Yes,No,8732,14067,38.30,No,53,53,,2026-10-22T02:35:40Z
+3,Calgary-Bow,7,Abolish the Senate,Yes,No,9403,10598,47.01,No,69,69,,2026-10-22T02:35:40Z
+4,Calgary-Buffalo,7,Abolish the Senate,Yes,No,7983,16262,32.93,No,78,78,,2026-10-22T02:35:40Z
+5,Calgary-Cross,7,Abolish the Senate,Yes,No,6159,9190,40.13,No,48,48,,2026-10-22T02:35:40Z
+6,Calgary-Currie,7,Abolish the Senate,Yes,No,6487,9599,40.33,No,56,58,,2026-10-22T02:35:40Z
+7,Calgary-East,7,Abolish the Senate,Yes,No,7315,9013,44.80,No,74,74,,2026-10-22T02:35:40Z
+8,Calgary-Edgemont,7,Abolish the Senate,Yes,No,9471,15254,38.31,No,57,57,,2026-10-22T02:35:40Z
+9,Calgary-Elbow,7,Abolish the Senate,Yes,No,7032,9385,42.83,No,60,60,,2026-10-22T02:35:40Z
+10,Calgary-Falconridge,7,Abolish the Senate,Yes,No,4827,9111,34.63,No,51,51,,2026-10-22T02:35:40Z
+11,Calgary-Fish Creek,7,Abolish the Senate,Yes,No,8669,8111,51.66,Yes,59,59,,2026-10-22T02:35:40Z
+12,Calgary-Foothills,7,Abolish the Senate,Yes,No,5697,7273,43.92,No,62,62,,2026-10-22T02:35:40Z
+13,Calgary-Glenmore,7,Abolish the Senate,Yes,No,7745,8382,48.03,No,59,59,,2026-10-22T02:35:40Z
+14,Calgary-Hays,7,Abolish the Senate,Yes,No,11810,14003,45.75,No,58,58,,2026-10-22T02:35:40Z
+15,Calgary-Klein,7,Abolish the Senate,Yes,No,8502,13752,38.20,No,53,53,,2026-10-22T02:35:40Z
+16,Calgary-Lougheed,7,Abolish the Senate,Yes,No,9580,11311,45.86,No,45,45,,2026-10-22T02:35:40Z
+17,Calgary-Bhullar-McCall,7,Abolish the Senate,Yes,No,3700,9421,28.20,No,39,39,,2026-10-22T02:35:40Z
+18,Calgary-Mountain View,7,Abolish the Senate,Yes,No,6004,11383,34.53,No,90,90,,2026-10-22T02:35:40Z
+19,Calgary-North,7,Abolish the Senate,Yes,No,7989,12148,39.67,No,52,52,,2026-10-22T02:35:40Z
+20,Calgary-North East,7,Abolish the Senate,Yes,No,8995,16084,35.87,No,62,65,,2026-10-22T02:35:40Z
+21,Calgary-North West,7,Abolish the Senate,Yes,No,8219,10102,44.86,No,58,58,,2026-10-22T02:35:40Z
+22,Calgary-Peigan,7,Abolish the Senate,Yes,No,10467,12672,45.24,No,52,52,,2026-10-22T02:35:40Z
+23,Calgary-Shaw,7,Abolish the Senate,Yes,No,10015,11985,45.52,No,70,71,,2026-10-22T02:35:40Z
+24,Calgary-South East,7,Abolish the Senate,Yes,No,12926,11099,53.80,Yes,76,76,,2026-10-22T02:35:40Z
+25,Calgary-Varsity,7,Abolish the Senate,Yes,No,4882,7780,38.56,No,51,51,,2026-10-22T02:35:40Z
+26,Calgary-West,7,Abolish the Senate,Yes,No,10816,13687,44.14,No,54,54,,2026-10-22T02:35:40Z
+27,Edmonton-Beverly-Clareview,7,Abolish the Senate,Yes,No,4734,7971,37.26,No,41,49,,2026-10-22T02:35:40Z
+28,Edmonton-Castle Downs,7,Abolish the Senate,Yes,No,8221,13427,37.98,No,56,69,,2026-10-22T02:35:40Z
+29,Edmonton-City Centre,7,Abolish the Senate,Yes,No,5003,14595,25.53,No,75,79,,2026-10-22T02:35:40Z
+30,Edmonton-Decore,7,Abolish the Senate,Yes,No,6956,11075,38.58,No,56,56,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+31,Edmonton-Ellerslie,7,Abolish the Senate,Yes,No,7874,15311,33.96,No,49,52,,2026-10-22T02:35:40Z
+32,Edmonton-Glenora,7,Abolish the Senate,Yes,No,5876,14086,29.44,No,52,52,,2026-10-22T02:35:40Z
+33,Edmonton-Gold Bar,7,Abolish the Senate,Yes,No,5635,9093,38.26,No,58,58,,2026-10-22T02:35:40Z
+34,Edmonton-Highlands-Norwood,7,Abolish the Senate,Yes,No,4984,11333,30.54,No,48,49,,2026-10-22T02:35:40Z
+35,Edmonton-Manning,7,Abolish the Senate,Yes,No,8869,13926,38.91,No,58,59,,2026-10-22T02:35:40Z
+36,Edmonton-McClung,7,Abolish the Senate,Yes,No,6913,11519,37.51,No,51,51,,2026-10-22T02:35:40Z
+37,Edmonton-Meadows,7,Abolish the Senate,Yes,No,6889,13491,33.80,No,61,61,,2026-10-22T02:35:40Z
+38,Edmonton-Mill Woods,7,Abolish the Senate,Yes,No,6076,10097,37.57,No,53,53,,2026-10-22T02:35:40Z
+39,Edmonton-North West,7,Abolish the Senate,Yes,No,6788,11644,36.83,No,64,68,,2026-10-22T02:35:40Z
+40,Edmonton-Riverview,7,Abolish the Senate,Yes,No,4802,8293,36.67,No,53,53,,2026-10-22T02:35:40Z
+41,Edmonton-Rutherford,7,Abolish the Senate,Yes,No,5062,8120,38.40,No,50,50,,2026-10-22T02:35:40Z
+42,Edmonton-South,7,Abolish the Senate,Yes,No,9209,12904,41.65,No,88,88,,2026-10-22T02:35:40Z
+43,Edmonton-South West,7,Abolish the Senate,Yes,No,10977,14430,43.20,No,76,76,,2026-10-22T02:35:40Z
+44,Edmonton-Strathcona,7,Abolish the Senate,Yes,No,3579,9188,28.03,No,50,50,,2026-10-22T02:35:40Z
+45,Edmonton-West Henday,7,Abolish the Senate,Yes,No,10315,16014,39.18,No,59,59,,2026-10-22T02:35:40Z
+46,Edmonton-Whitemud,7,Abolish the Senate,Yes,No,5404,8192,39.75,No,51,51,,2026-10-22T02:35:40Z
+47,Airdrie-Cochrane,7,Abolish the Senate,Yes,No,16699,11590,59.03,Yes,92,92,,2026-10-22T02:35:40Z
+48,Airdrie-East,7,Abolish the Senate,Yes,No,16188,13553,54.43,Yes,73,73,,2026-10-22T02:35:40Z
+49,Athabasca-Barrhead-Westlock,7,Abolish the Senate,Yes,No,15133,7783,66.04,Yes,62,62,,2026-10-22T02:35:40Z
+50,Banff-Kananaskis,7,Abolish the Senate,Yes,No,8892,11175,44.31,No,64,64,,2026-10-22T02:35:40Z
+51,Bonnyville-Cold Lake-St. Paul,7,Abolish the Senate,Yes,No,7249,5186,58.30,Yes,58,74,,2026-10-22T02:35:40Z
+52,Brooks-Medicine Hat,7,Abolish the Senate,Yes,No,13420,8631,60.86,Yes,71,71,,2026-10-22T02:35:40Z
+53,Camrose,7,Abolish the Senate,Yes,No,14047,8060,63.54,Yes,64,70,,2026-10-22T02:35:40Z
+54,Cardston-Siksika,7,Abolish the Senate,Yes,No,10991,6614,62.43,Yes,67,68,,2026-10-22T02:35:40Z
+55,Central Peace-Notley,7,Abolish the Senate,Yes,No,9033,3687,71.01,Yes,60,60,,2026-10-22T02:35:40Z
+56,Chestermere-Strathmore,7,Abolish the Senate,Yes,No,13223,8945,59.65,Yes,69,71,,2026-10-22T02:35:40Z
+57,Cypress-Medicine Hat,7,Abolish the Senate,Yes,No,13566,10654,56.01,Yes,59,59,,2026-10-22T02:35:40Z
+58,Drayton Valley-Devon,7,Abolish the Senate,Yes,No,17412,7969,68.60,Yes,68,68,,2026-10-22T02:35:40Z
+59,Drumheller-Stettler,7,Abolish the Senate,Yes,No,14250,5081,73.72,Yes,71,71,,2026-10-22T02:35:40Z
+60,Fort McMurray-Lac La Biche,7,Abolish the Senate,Yes,No,6647,4714,58.51,Yes,58,63,,2026-10-22T02:35:40Z
+61,Fort McMurray-Wood Buffalo,7,Abolish the Senate,Yes,No,2101,1566,57.29,Yes,13,40,,2026-10-22T02:35:40Z
+62,Fort Saskatchewan-Vegreville,7,Abolish the Senate,Yes,No,14249,10284,58.08,Yes,61,82,,2026-10-22T02:35:40Z
+63,Grande Prairie,7,Abolish the Senate,Yes,No,11085,7091,60.99,Yes,44,52,,2026-10-22T02:35:40Z
+64,Grande Prairie-Wapiti,7,Abolish the Senate,Yes,No,16723,7268,69.71,Yes,69,81,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+65,Highwood,7,Abolish the Senate,Yes,No,18595,12543,59.72,Yes,112,112,,2026-10-22T02:35:40Z
+66,Innisfail-Sylvan Lake,7,Abolish the Senate,Yes,No,17592,8797,66.66,Yes,73,73,,2026-10-22T02:35:40Z
+67,Lac Ste. Anne-Parkland,7,Abolish the Senate,Yes,No,16303,9083,64.22,Yes,75,75,,2026-10-22T02:35:40Z
+68,Lacombe-Ponoka,7,Abolish the Senate,Yes,No,16052,8209,66.16,Yes,72,72,,2026-10-22T02:35:40Z
+69,Leduc-Beaumont,7,Abolish the Senate,Yes,No,13384,9265,59.09,Yes,68,68,,2026-10-22T02:35:40Z
+70,Lesser Slave Lake,7,Abolish the Senate,Yes,No,4877,5006,49.35,No,45,48,,2026-10-22T02:35:40Z
+71,Lethbridge-East,7,Abolish the Senate,Yes,No,10355,13220,43.92,No,67,69,,2026-10-22T02:35:40Z
+72,Lethbridge-West,7,Abolish the Senate,Yes,No,9031,14490,38.40,No,67,67,,2026-10-22T02:35:40Z
+73,Livingstone-Macleod,7,Abolish the Senate,Yes,No,16417,10912,60.07,Yes,93,94,,2026-10-22T02:35:40Z
+74,Maskwacis-Wetaskiwin,7,Abolish the Senate,Yes,No,11698,8237,58.68,Yes,53,57,,2026-10-22T02:35:40Z
+75,Morinville-St. Albert,7,Abolish the Senate,Yes,No,12211,9073,57.37,Yes,58,64,,2026-10-22T02:35:40Z
+76,Olds-Didsbury-Three Hills,7,Abolish the Senate,Yes,No,17252,6161,73.69,Yes,71,71,,2026-10-22T02:35:40Z
+77,Peace River,7,Abolish the Senate,Yes,No,7921,5669,58.29,Yes,68,69,,2026-10-22T02:35:40Z
+78,Red Deer-North,7,Abolish the Senate,Yes,No,11589,9551,54.82,Yes,64,64,,2026-10-22T02:35:40Z
+79,Red Deer-South,7,Abolish the Senate,Yes,No,12029,8219,59.41,Yes,71,73,,2026-10-22T02:35:40Z
+80,Rimbey-Rocky Mountain House-Sundre,7,Abolish the Senate,Yes,No,17793,7000,71.77,Yes,83,85,,2026-10-22T02:35:40Z
+81,Sherwood Park,7,Abolish the Senate,Yes,No,9973,10194,49.45,No,61,61,,2026-10-22T02:35:40Z
+82,Spruce Grove-Stony Plain,7,Abolish the Senate,Yes,No,13436,9550,58.45,Yes,66,67,,2026-10-22T02:35:40Z
+83,St. Albert,7,Abolish the Senate,Yes,No,8323,10171,45.00,No,59,60,,2026-10-22T02:35:40Z
+84,Strathcona-Sherwood Park,7,Abolish the Senate,Yes,No,12011,8679,58.05,Yes,63,63,,2026-10-22T02:35:40Z
+85,Taber-Warner,7,Abolish the Senate,Yes,No,12759,5439,70.11,Yes,70,70,,2026-10-22T02:35:40Z
+86,Vermilion-Lloydminster-Wainwright,7,Abolish the Senate,Yes,No,13200,5680,69.92,Yes,56,66,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+87,West Yellowhead,7,Abolish the Senate,Yes,No,14077,8042,63.64,Yes,73,74,,2026-10-22T02:35:40Z
+1,Calgary-Acadia,8,Opt out of federal programs,Yes,No,6596,8631,43.32,No,57,57,,2026-10-22T02:35:40Z
+2,Calgary-Beddington,8,Opt out of federal programs,Yes,No,7525,14646,33.94,No,53,53,,2026-10-22T02:35:40Z
+3,Calgary-Bow,8,Opt out of federal programs,Yes,No,8507,11563,42.39,No,69,69,,2026-10-22T02:35:40Z
+4,Calgary-Buffalo,8,Opt out of federal programs,Yes,No,5635,11455,32.97,No,78,78,,2026-10-22T02:35:40Z
+5,Calgary-Cross,8,Opt out of federal programs,Yes,No,5379,9914,35.17,No,48,48,,2026-10-22T02:35:40Z
+6,Calgary-Currie,8,Opt out of federal programs,Yes,No,5927,10172,36.82,No,56,58,,2026-10-22T02:35:40Z
+7,Calgary-East,8,Opt out of federal programs,Yes,No,6597,15704,29.58,No,74,74,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+8,Calgary-Edgemont,8,Opt out of federal programs,Yes,No,6369,10228,38.37,No,57,57,,2026-10-22T02:35:40Z
+9,Calgary-Elbow,8,Opt out of federal programs,Yes,No,6282,10067,38.42,No,60,60,,2026-10-22T02:35:40Z
+10,Calgary-Falconridge,8,Opt out of federal programs,Yes,No,4287,9689,30.67,No,51,51,,2026-10-22T02:35:40Z
+11,Calgary-Fish Creek,8,Opt out of federal programs,Yes,No,7816,8921,46.70,No,59,59,,2026-10-22T02:35:40Z
+12,Calgary-Foothills,8,Opt out of federal programs,Yes,No,7793,11967,39.44,No,62,62,,2026-10-22T02:35:40Z
+13,Calgary-Glenmore,8,Opt out of federal programs,Yes,No,6977,9249,43.00,No,59,59,,2026-10-22T02:35:40Z
+14,Calgary-Hays,8,Opt out of federal programs,Yes,No,8819,9973,46.93,No,58,58,,2026-10-22T02:35:40Z
+15,Calgary-Klein,8,Opt out of federal programs,Yes,No,6044,9155,39.77,No,53,53,,2026-10-22T02:35:40Z
+16,Calgary-Lougheed,8,Opt out of federal programs,Yes,No,8573,12366,40.94,No,45,45,,2026-10-22T02:35:40Z
+17,Calgary-Bhullar-McCall,8,Opt out of federal programs,Yes,No,3464,9617,26.48,No,39,39,,2026-10-22T02:35:40Z
+18,Calgary-Mountain View,8,Opt out of federal programs,Yes,No,5338,12292,30.28,No,90,90,,2026-10-22T02:35:40Z
+19,Calgary-North,8,Opt out of federal programs,Yes,No,7156,12340,36.70,No,52,52,,2026-10-22T02:35:40Z
+20,Calgary-North East,8,Opt out of federal programs,Yes,No,8081,17259,31.89,No,62,65,,2026-10-22T02:35:40Z
+21,Calgary-North West,8,Opt out of federal programs,Yes,No,7381,11017,40.12,No,58,58,,2026-10-22T02:35:40Z
+22,Calgary-Peigan,8,Opt out of federal programs,Yes,No,9342,13953,40.10,No,52,52,,2026-10-22T02:35:40Z
+23,Calgary-Shaw,8,Opt out of federal programs,Yes,No,9068,12991,41.11,No,70,71,,2026-10-22T02:35:40Z
+24,Calgary-South East,8,Opt out of federal programs,Yes,No,11933,12118,49.62,No,76,76,,2026-10-22T02:35:40Z
+25,Calgary-Varsity,8,Opt out of federal programs,Yes,No,4288,8533,33.45,No,51,51,,2026-10-22T02:35:40Z
+26,Calgary-West,8,Opt out of federal programs,Yes,No,7830,9034,46.43,No,54,54,,2026-10-22T02:35:40Z
+27,Edmonton-Beverly-Clareview,8,Opt out of federal programs,Yes,No,4134,7600,35.23,No,41,49,,2026-10-22T02:35:40Z
+28,Edmonton-Castle Downs,8,Opt out of federal programs,Yes,No,6989,14431,32.63,No,56,69,,2026-10-22T02:35:40Z
+29,Edmonton-City Centre,8,Opt out of federal programs,Yes,No,4063,15671,20.59,No,75,79,,2026-10-22T02:35:40Z
+30,Edmonton-Decore,8,Opt out of federal programs,Yes,No,6392,12030,34.70,No,56,56,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+31,Edmonton-Ellerslie,8,Opt out of federal programs,Yes,No,7106,16193,30.50,No,49,52,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+32,Edmonton-Glenora,8,Opt out of federal programs,Yes,No,5095,16162,23.97,No,52,52,,2026-10-22T02:35:40Z
+33,Edmonton-Gold Bar,8,Opt out of federal programs,Yes,No,4951,9805,33.55,No,58,58,,2026-10-22T02:35:40Z
+34,Edmonton-Highlands-Norwood,8,Opt out of federal programs,Yes,No,4179,12166,25.57,No,48,49,,2026-10-22T02:35:40Z
+35,Edmonton-Manning,8,Opt out of federal programs,Yes,No,7861,15083,34.26,No,58,59,,2026-10-22T02:35:40Z
+36,Edmonton-McClung,8,Opt out of federal programs,Yes,No,5970,12926,31.59,No,51,51,,2026-10-22T02:35:40Z
+37,Edmonton-Meadows,8,Opt out of federal programs,Yes,No,5803,14191,29.02,No,61,61,,2026-10-22T02:35:40Z
+38,Edmonton-Mill Woods,8,Opt out of federal programs,Yes,No,6645,12012,35.62,No,53,53,,2026-10-22T02:35:40Z
+39,Edmonton-North West,8,Opt out of federal programs,Yes,No,4687,11190,29.52,No,64,68,,2026-10-22T02:35:40Z
+40,Edmonton-Riverview,8,Opt out of federal programs,Yes,No,4162,9539,30.38,No,53,53,,2026-10-22T02:35:40Z
+41,Edmonton-Rutherford,8,Opt out of federal programs,Yes,No,4367,8813,33.13,No,50,50,,2026-10-22T02:35:40Z
+42,Edmonton-South,8,Opt out of federal programs,Yes,No,8233,13865,37.26,No,88,88,,2026-10-22T02:35:40Z
+43,Edmonton-South West,8,Opt out of federal programs,Yes,No,7106,10295,40.84,No,76,76,,2026-10-22T02:35:40Z
+44,Edmonton-Strathcona,8,Opt out of federal programs,Yes,No,3120,9772,24.20,No,50,50,,2026-10-22T02:35:40Z
+45,Edmonton-West Henday,8,Opt out of federal programs,Yes,No,7679,11730,39.56,No,59,59,,2026-10-22T02:35:40Z
+46,Edmonton-Whitemud,8,Opt out of federal programs,Yes,No,4810,8828,35.27,No,51,51,,2026-10-22T02:35:40Z
+47,Airdrie-Cochrane,8,Opt out of federal programs,Yes,No,15627,12822,54.93,Yes,92,92,,2026-10-22T02:35:40Z
+48,Airdrie-East,8,Opt out of federal programs,Yes,No,14648,14874,49.62,No,73,73,,2026-10-22T02:35:40Z
+49,Athabasca-Barrhead-Westlock,8,Opt out of federal programs,Yes,No,14038,8953,61.06,Yes,62,62,,2026-10-22T02:35:40Z
+50,Banff-Kananaskis,8,Opt out of federal programs,Yes,No,8045,11922,40.29,No,64,64,,2026-10-22T02:35:40Z
+51,Bonnyville-Cold Lake-St. Paul,8,Opt out of federal programs,Yes,No,6767,5702,54.27,Yes,58,74,,2026-10-22T02:35:40Z
+52,Brooks-Medicine Hat,8,Opt out of federal programs,Yes,No,12261,9588,56.12,Yes,71,71,,2026-10-22T02:35:40Z
+53,Camrose,8,Opt out of federal programs,Yes,No,12876,9521,57.49,Yes,64,70,,2026-10-22T02:35:40Z
+54,Cardston-Siksika,8,Opt out of federal programs,Yes,No,10495,7073,59.74,Yes,67,68,,2026-10-22T02:35:40Z
+55,Central Peace-Notley,8,Opt out of federal programs,Yes,No,8537,4147,67.31,Yes,60,60,,2026-10-22T02:35:40Z
+56,Chestermere-Strathmore,8,Opt out of federal programs,Yes,No,12203,10158,54.57,Yes,69,71,,2026-10-22T02:35:40Z
+57,Cypress-Medicine Hat,8,Opt out of federal programs,Yes,No,12327,11981,50.71,Yes,59,59,,2026-10-22T02:35:40Z
+58,Drayton Valley-Devon,8,Opt out of federal programs,Yes,No,14903,9036,62.25,Yes,68,68,,2026-10-22T02:35:40Z
+59,Drumheller-Stettler,8,Opt out of federal programs,Yes,No,13644,6033,69.34,Yes,71,71,,2026-10-22T02:35:40Z
+60,Fort McMurray-Lac La Biche,8,Opt out of federal programs,Yes,No,6249,5179,54.68,Yes,58,63,,2026-10-22T02:35:40Z
+61,Fort McMurray-Wood Buffalo,8,Opt out of federal programs,Yes,No,1927,1728,52.72,Yes,13,40,,2026-10-22T02:35:40Z
+62,Fort Saskatchewan-Vegreville,8,Opt out of federal programs,Yes,No,11400,8427,57.50,Yes,61,82,,2026-10-22T02:35:40Z
+63,Grande Prairie,8,Opt out of federal programs,Yes,No,10075,8036,55.63,Yes,44,52,,2026-10-22T02:35:40Z
+64,Grande Prairie-Wapiti,8,Opt out of federal programs,Yes,No,13834,6665,67.49,Yes,69,81,,2026-10-22T02:35:40Z
+65,Highwood,8,Opt out of federal programs,Yes,No,14249,9076,61.09,Yes,112,112,,2026-10-22T02:35:40Z
+66,Innisfail-Sylvan Lake,8,Opt out of federal programs,Yes,No,16087,9672,62.45,Yes,73,73,,2026-10-22T02:35:40Z
+67,Lac Ste. Anne-Parkland,8,Opt out of federal programs,Yes,No,17551,10297,63.02,Yes,75,75,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+68,Lacombe-Ponoka,8,Opt out of federal programs,Yes,No,14962,8141,64.76,Yes,72,72,,2026-10-22T02:35:40Z
+69,Leduc-Beaumont,8,Opt out of federal programs,Yes,No,12426,10342,54.58,Yes,68,68,,2026-10-22T02:35:40Z
+70,Lesser Slave Lake,8,Opt out of federal programs,Yes,No,4557,5338,46.05,No,45,48,,2026-10-22T02:35:40Z
+71,Lethbridge-East,8,Opt out of federal programs,Yes,No,8236,10236,44.59,No,67,69,,2026-10-22T02:35:40Z
+72,Lethbridge-West,8,Opt out of federal programs,Yes,No,6856,10516,39.47,No,67,67,,2026-10-22T02:35:40Z
+73,Livingstone-Macleod,8,Opt out of federal programs,Yes,No,13956,8861,61.16,Yes,93,94,,2026-10-22T02:35:40Z
+74,Maskwacis-Wetaskiwin,8,Opt out of federal programs,Yes,No,10802,9189,54.03,Yes,53,57,,2026-10-22T02:35:40Z
+75,Morinville-St. Albert,8,Opt out of federal programs,Yes,No,11081,9641,53.47,Yes,58,64,,2026-10-22T02:35:40Z
+76,Olds-Didsbury-Three Hills,8,Opt out of federal programs,Yes,No,17675,9507,65.02,Yes,71,71,,2026-10-22T02:35:40Z
+77,Peace River,8,Opt out of federal programs,Yes,No,7658,5949,56.28,Yes,68,69,,2026-10-22T02:35:40Z
+78,Red Deer-North,8,Opt out of federal programs,Yes,No,9348,7385,55.87,Yes,64,64,,2026-10-22T02:35:40Z
+79,Red Deer-South,8,Opt out of federal programs,Yes,No,11095,8749,55.91,Yes,71,73,,2026-10-22T02:35:40Z
+80,Rimbey-Rocky Mountain House-Sundre,8,Opt out of federal programs,Yes,No,16860,7659,68.76,Yes,83,85,,2026-10-22T02:35:40Z
+81,Sherwood Park,8,Opt out of federal programs,Yes,No,8950,11326,44.14,No,61,61,,2026-10-22T02:35:40Z
+82,Spruce Grove-Stony Plain,8,Opt out of federal programs,Yes,No,12344,10622,53.75,Yes,66,67,,2026-10-22T02:35:40Z
+83,St. Albert,8,Opt out of federal programs,Yes,No,7496,11047,40.42,No,59,60,,2026-10-22T02:35:40Z
+84,Strathcona-Sherwood Park,8,Opt out of federal programs,Yes,No,10976,9726,53.02,Yes,63,63,,2026-10-22T02:35:40Z
+85,Taber-Warner,8,Opt out of federal programs,Yes,No,11926,6286,65.48,Yes,70,70,,2026-10-22T02:35:40Z
+86,Vermilion-Lloydminster-Wainwright,8,Opt out of federal programs,Yes,No,13043,5793,69.25,Yes,56,66,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+87,West Yellowhead,8,Opt out of federal programs,Yes,No,13160,9002,59.38,Yes,73,74,,2026-10-22T02:35:40Z
+1,Calgary-Acadia,9,Provincial laws first,Yes,No,6927,8370,45.28,No,57,57,,2026-10-22T02:35:40Z
+2,Calgary-Beddington,9,Provincial laws first,Yes,No,7971,14657,35.23,No,53,53,,2026-10-22T02:35:40Z
+3,Calgary-Bow,9,Provincial laws first,Yes,No,8745,11234,43.77,No,69,69,,2026-10-22T02:35:40Z
+4,Calgary-Buffalo,9,Provincial laws first,Yes,No,5945,11159,34.76,No,78,78,,2026-10-22T02:35:40Z
+5,Calgary-Cross,9,Provincial laws first,Yes,No,5777,9501,37.81,No,48,48,,2026-10-22T02:35:40Z
+6,Calgary-Currie,9,Provincial laws first,Yes,No,6150,9733,38.72,No,56,58,,2026-10-22T02:35:40Z
+7,Calgary-East,9,Provincial laws first,Yes,No,7045,9313,43.07,No,74,74,,2026-10-22T02:35:40Z
+8,Calgary-Edgemont,9,Provincial laws first,Yes,No,6732,9952,40.35,No,57,57,,2026-10-22T02:35:40Z
+9,Calgary-Elbow,9,Provincial laws first,Yes,No,6570,9778,40.19,No,60,60,,2026-10-22T02:35:40Z
+10,Calgary-Falconridge,9,Provincial laws first,Yes,No,4544,9232,32.98,No,51,51,,2026-10-22T02:35:40Z
+11,Calgary-Fish Creek,9,Provincial laws first,Yes,No,8093,8705,48.18,No,59,59,,2026-10-22T02:35:40Z
+12,Calgary-Foothills,9,Provincial laws first,Yes,No,9349,16636,35.98,No,62,62,,2026-10-22T02:35:40Z
+13,Calgary-Glenmore,9,Provincial laws first,Yes,No,7307,8823,45.30,No,59,59,,2026-10-22T02:35:40Z
+14,Calgary-Hays,9,Provincial laws first,Yes,No,9177,9462,49.24,No,58,58,,2026-10-22T02:35:40Z
+15,Calgary-Klein,9,Provincial laws first,Yes,No,6359,8796,41.96,No,53,53,,2026-10-22T02:35:40Z
+16,Calgary-Lougheed,9,Provincial laws first,Yes,No,8900,12009,42.57,No,45,45,,2026-10-22T02:35:40Z
+17,Calgary-Bhullar-McCall,9,Provincial laws first,Yes,No,3657,9335,28.15,No,39,39,,2026-10-22T02:35:40Z
+18,Calgary-Mountain View,9,Provincial laws first,Yes,No,5546,11979,31.65,No,90,90,,2026-10-22T02:35:40Z
+19,Calgary-North,9,Provincial laws first,Yes,No,7605,12767,37.33,No,52,52,,2026-10-22T02:35:40Z
+20,Calgary-North East,9,Provincial laws first,Yes,No,7717,13530,36.32,No,62,65,,2026-10-22T02:35:40Z
+21,Calgary-North West,9,Provincial laws first,Yes,No,7626,10739,41.52,No,58,58,,2026-10-22T02:35:40Z
+22,Calgary-Peigan,9,Provincial laws first,Yes,No,9695,13485,41.82,No,52,52,,2026-10-22T02:35:40Z
+23,Calgary-Shaw,9,Provincial laws first,Yes,No,7394,6880,51.80,Yes,70,71,,2026-10-22T02:35:40Z
+24,Calgary-South East,9,Provincial laws first,Yes,No,12364,11707,51.36,Yes,76,76,,2026-10-22T02:35:40Z
+25,Calgary-Varsity,9,Provincial laws first,Yes,No,4667,8633,35.09,No,51,51,,2026-10-22T02:35:40Z
+26,Calgary-West,9,Provincial laws first,Yes,No,7515,8853,45.91,No,54,54,,2026-10-22T02:35:40Z
+27,Edmonton-Beverly-Clareview,9,Provincial laws first,Yes,No,4431,8387,34.57,No,41,49,,2026-10-22T02:35:40Z
+28,Edmonton-Castle Downs,9,Provincial laws first,Yes,No,7231,14111,33.88,No,56,69,,2026-10-22T02:35:40Z
+29,Edmonton-City Centre,9,Provincial laws first,Yes,No,12232,15373,44.31,No,75,79,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+30,Edmonton-Decore,9,Provincial laws first,Yes,No,6312,11734,34.98,No,56,56,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+31,Edmonton-Ellerslie,9,Provincial laws first,Yes,No,6599,11631,36.20,No,49,52,,2026-10-22T02:35:40Z
+32,Edmonton-Glenora,9,Provincial laws first,Yes,No,5705,16266,25.97,No,52,52,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+33,Edmonton-Gold Bar,9,Provincial laws first,Yes,No,5170,9483,35.28,No,58,58,,2026-10-22T02:35:40Z
+34,Edmonton-Highlands-Norwood,9,Provincial laws first,Yes,No,4387,11855,27.01,No,48,49,,2026-10-22T02:35:40Z
+35,Edmonton-Manning,9,Provincial laws first,Yes,No,8337,14744,36.12,No,58,59,,2026-10-22T02:35:40Z
+36,Edmonton-McClung,9,Provincial laws first,Yes,No,6182,12311,33.43,No,51,51,,2026-10-22T02:35:40Z
+37,Edmonton-Meadows,9,Provincial laws first,Yes,No,6516,13883,31.94,No,61,61,,2026-10-22T02:35:40Z
+38,Edmonton-Mill Woods,9,Provincial laws first,Yes,No,6969,13003,34.89,No,53,53,,2026-10-22T02:35:40Z
+39,Edmonton-North West,9,Provincial laws first,Yes,No,4925,11803,29.44,No,64,68,,2026-10-22T02:35:40Z
+40,Edmonton-Riverview,9,Provincial laws first,Yes,No,4434,8564,34.11,No,53,53,,2026-10-22T02:35:40Z
+41,Edmonton-Rutherford,9,Provincial laws first,Yes,No,4544,8618,34.52,No,50,50,,2026-10-22T02:35:40Z
+42,Edmonton-South,9,Provincial laws first,Yes,No,8791,13423,39.57,No,88,88,,2026-10-22T02:35:40Z
+43,Edmonton-South West,9,Provincial laws first,Yes,No,10292,14820,40.98,No,76,76,,2026-10-22T02:35:40Z
+44,Edmonton-Strathcona,9,Provincial laws first,Yes,No,3282,9669,25.34,No,50,50,,2026-10-22T02:35:40Z
+45,Edmonton-West Henday,9,Provincial laws first,Yes,No,8214,9185,47.21,No,59,59,,2026-10-22T02:35:40Z
+46,Edmonton-Whitemud,9,Provincial laws first,Yes,No,5023,8596,36.88,No,51,51,,2026-10-22T02:35:40Z
+47,Airdrie-Cochrane,9,Provincial laws first,Yes,No,15948,12410,56.24,Yes,92,92,,2026-10-22T02:35:40Z
+48,Airdrie-East,9,Provincial laws first,Yes,No,13127,9541,57.91,Yes,73,73,,2026-10-22T02:35:40Z
+49,Athabasca-Barrhead-Westlock,9,Provincial laws first,Yes,No,14461,8601,62.70,Yes,62,62,,2026-10-22T02:35:40Z
+50,Banff-Kananaskis,9,Provincial laws first,Yes,No,8489,11521,42.42,No,64,64,,2026-10-22T02:35:40Z
+51,Bonnyville-Cold Lake-St. Paul,9,Provincial laws first,Yes,No,7070,5368,56.84,Yes,58,74,,2026-10-22T02:35:40Z
+52,Brooks-Medicine Hat,9,Provincial laws first,Yes,No,12829,9055,58.62,Yes,71,71,,2026-10-22T02:35:40Z
+53,Camrose,9,Provincial laws first,Yes,No,13387,8856,60.19,Yes,64,70,,2026-10-22T02:35:40Z
+54,Cardston-Siksika,9,Provincial laws first,Yes,No,10423,6654,61.04,Yes,67,68,,2026-10-22T02:35:40Z
+55,Central Peace-Notley,9,Provincial laws first,Yes,No,8835,3755,70.17,Yes,60,60,,2026-10-22T02:35:40Z
+56,Chestermere-Strathmore,9,Provincial laws first,Yes,No,12746,9489,57.32,Yes,69,71,,2026-10-22T02:35:40Z
+57,Cypress-Medicine Hat,9,Provincial laws first,Yes,No,12009,11235,51.66,Yes,59,59,,2026-10-22T02:35:40Z
+58,Drayton Valley-Devon,9,Provincial laws first,Yes,No,16748,8619,66.02,Yes,68,68,,2026-10-22T02:35:40Z
+59,Drumheller-Stettler,9,Provincial laws first,Yes,No,14040,5617,71.42,Yes,71,71,,2026-10-22T02:35:40Z
+60,Fort McMurray-Lac La Biche,9,Provincial laws first,Yes,No,4807,3758,56.12,Yes,58,63,,2026-10-22T02:35:40Z
+61,Fort McMurray-Wood Buffalo,9,Provincial laws first,Yes,No,2020,1508,57.26,Yes,13,40,,2026-10-22T02:35:40Z
+62,Fort Saskatchewan-Vegreville,9,Provincial laws first,Yes,No,11890,7796,60.40,Yes,61,82,,2026-10-22T02:35:40Z
+63,Grande Prairie,9,Provincial laws first,Yes,No,10718,7476,58.91,Yes,44,52,,2026-10-22T02:35:40Z
+64,Grande Prairie-Wapiti,9,Provincial laws first,Yes,No,15475,7133,68.45,Yes,69,81,,2026-10-22T02:35:40Z
+65,Highwood,9,Provincial laws first,Yes,No,14809,8535,63.44,Yes,112,112,,2026-10-22T02:35:40Z
+66,Innisfail-Sylvan Lake,9,Provincial laws first,Yes,No,15535,6617,70.13,Yes,73,73,,2026-10-22T02:35:40Z
+67,Lac Ste. Anne-Parkland,9,Provincial laws first,Yes,No,15826,9633,62.16,Yes,75,75,,2026-10-22T02:35:40Z
+68,Lacombe-Ponoka,9,Provincial laws first,Yes,No,15458,9153,62.81,Yes,72,72,,2026-10-22T02:35:40Z
+69,Leduc-Beaumont,9,Provincial laws first,Yes,No,13004,9622,57.47,Yes,68,68,,2026-10-22T02:35:40Z
+70,Lesser Slave Lake,9,Provincial laws first,Yes,No,4880,4934,49.72,No,45,48,,2026-10-22T02:35:40Z
+71,Lethbridge-East,9,Provincial laws first,Yes,No,8956,9594,48.28,No,67,69,,2026-10-22T02:35:40Z
+72,Lethbridge-West,9,Provincial laws first,Yes,No,7352,10081,42.17,No,67,67,,2026-10-22T02:35:40Z
+73,Livingstone-Macleod,9,Provincial laws first,Yes,No,14440,8278,63.56,Yes,93,94,,2026-10-22T02:35:40Z
+74,Maskwacis-Wetaskiwin,9,Provincial laws first,Yes,No,11247,8716,56.34,Yes,53,57,,2026-10-22T02:35:40Z
+75,Morinville-St. Albert,9,Provincial laws first,Yes,No,11422,9416,54.81,Yes,58,64,,2026-10-22T02:35:40Z
+76,Olds-Didsbury-Three Hills,9,Provincial laws first,Yes,No,16873,6538,72.07,Yes,71,71,,2026-10-22T02:35:40Z
+77,Peace River,9,Provincial laws first,Yes,No,7920,5616,58.51,Yes,68,69,,2026-10-22T02:35:40Z
+78,Red Deer-North,9,Provincial laws first,Yes,No,10981,10048,52.22,Yes,64,64,,2026-10-22T02:35:40Z
+79,Red Deer-South,9,Provincial laws first,Yes,No,11350,8082,58.41,Yes,71,73,,2026-10-22T02:35:40Z
+80,Rimbey-Rocky Mountain House-Sundre,9,Provincial laws first,Yes,No,17755,6752,72.45,Yes,83,85,,2026-10-22T02:35:40Z
+81,Sherwood Park,9,Provincial laws first,Yes,No,9348,10835,46.32,No,61,61,,2026-10-22T02:35:40Z
+82,Spruce Grove-Stony Plain,9,Provincial laws first,Yes,No,12953,10097,56.20,Yes,66,67,,2026-10-22T02:35:40Z
+83,St. Albert,9,Provincial laws first,Yes,No,7857,10655,42.44,No,59,60,,2026-10-22T02:35:40Z
+84,Strathcona-Sherwood Park,9,Provincial laws first,Yes,No,13994,15777,47.01,No,63,63,,2026-10-22T02:35:40Z
+85,Taber-Warner,9,Provincial laws first,Yes,No,12237,5627,68.50,Yes,70,70,,2026-10-22T02:35:40Z
+86,Vermilion-Lloydminster-Wainwright,9,Provincial laws first,Yes,No,12974,5966,68.50,Yes,56,66,votes exceed Q10 ballots,2026-10-22T02:35:40Z
+87,West Yellowhead,9,Provincial laws first,Yes,No,13176,6688,66.33,Yes,73,74,,2026-10-22T02:35:40Z
+1,Calgary-Acadia,10,Separation,Remain,Referendum,19470,4621,80.82,Remain,57,57,,2026-10-22T02:35:40Z
+2,Calgary-Beddington,10,Separation,Remain,Referendum,18583,3958,82.44,Remain,53,53,,2026-10-22T02:35:40Z
+3,Calgary-Bow,10,Separation,Remain,Referendum,23648,5385,81.45,Remain,69,69,,2026-10-22T02:35:40Z
+4,Calgary-Buffalo,10,Separation,Remain,Referendum,20859,3546,85.47,Remain,78,78,,2026-10-22T02:35:40Z
+5,Calgary-Cross,10,Separation,Remain,Referendum,13076,2449,84.23,Remain,48,48,,2026-10-22T02:35:40Z
+6,Calgary-Currie,10,Separation,Remain,Referendum,20661,3789,84.50,Remain,56,58,,2026-10-22T02:35:40Z
+7,Calgary-East,10,Separation,Remain,Referendum,13014,3445,79.07,Remain,74,74,,2026-10-22T02:35:40Z
+8,Calgary-Edgemont,10,Separation,Remain,Referendum,21193,4245,83.31,Remain,57,57,,2026-10-22T02:35:40Z
+9,Calgary-Elbow,10,Separation,Remain,Referendum,23063,4005,85.20,Remain,60,60,,2026-10-22T02:35:40Z
+10,Calgary-Falconridge,10,Separation,Remain,Referendum,12849,2186,85.46,Remain,51,51,,2026-10-22T02:35:40Z
+11,Calgary-Fish Creek,10,Separation,Remain,Referendum,21655,5494,79.76,Remain,59,59,,2026-10-22T02:35:40Z
+12,Calgary-Foothills,10,Separation,Remain,Referendum,22167,4410,83.41,Remain,62,62,,2026-10-22T02:35:40Z
+13,Calgary-Glenmore,10,Separation,Remain,Referendum,22052,4722,82.36,Remain,59,59,,2026-10-22T02:35:40Z
+14,Calgary-Hays,10,Separation,Remain,Referendum,19755,5597,77.92,Remain,58,58,,2026-10-22T02:35:40Z
+15,Calgary-Klein,10,Separation,Remain,Referendum,18451,3987,82.23,Remain,53,53,,2026-10-22T02:35:40Z
+16,Calgary-Lougheed,10,Separation,Remain,Referendum,16613,4458,78.84,Remain,45,45,,2026-10-22T02:35:40Z
+17,Calgary-Bhullar-McCall,10,Separation,Remain,Referendum,11628,1397,89.27,Remain,39,39,,2026-10-22T02:35:40Z
+18,Calgary-Mountain View,10,Separation,Remain,Referendum,25165,3438,87.98,Remain,90,90,,2026-10-22T02:35:40Z
+19,Calgary-North,10,Separation,Remain,Referendum,16960,3246,83.94,Remain,52,52,,2026-10-22T02:35:40Z
+20,Calgary-North East,10,Separation,Remain,Referendum,21279,3619,85.46,Remain,62,65,,2026-10-22T02:35:40Z
+21,Calgary-North West,10,Separation,Remain,Referendum,21943,4792,82.08,Remain,58,58,,2026-10-22T02:35:40Z
+22,Calgary-Peigan,10,Separation,Remain,Referendum,18827,4909,79.32,Remain,52,52,,2026-10-22T02:35:40Z
+23,Calgary-Shaw,10,Separation,Remain,Referendum,24914,7179,77.63,Remain,70,71,,2026-10-22T02:35:40Z
+24,Calgary-South East,10,Separation,Remain,Referendum,24597,7455,76.74,Remain,76,76,,2026-10-22T02:35:40Z
+25,Calgary-Varsity,10,Separation,Remain,Referendum,21765,3527,86.05,Remain,51,51,,2026-10-22T02:35:40Z
+26,Calgary-West,10,Separation,Remain,Referendum,20609,4644,81.61,Remain,54,54,,2026-10-22T02:35:40Z
+27,Edmonton-Beverly-Clareview,10,Separation,Remain,Referendum,14400,3101,82.28,Remain,41,49,,2026-10-22T02:35:40Z
+28,Edmonton-Castle Downs,10,Separation,Remain,Referendum,18288,3450,84.13,Remain,56,69,,2026-10-22T02:35:40Z
+29,Edmonton-City Centre,10,Separation,Remain,Referendum,17493,2170,88.96,Remain,75,79,,2026-10-22T02:35:40Z
+30,Edmonton-Decore,10,Separation,Remain,Referendum,13323,2621,83.56,Remain,56,56,,2026-10-22T02:35:40Z
+31,Edmonton-Ellerslie,10,Separation,Remain,Referendum,19098,3633,84.02,Remain,49,52,,2026-10-22T02:35:40Z
+32,Edmonton-Glenora,10,Separation,Remain,Referendum,18835,2614,87.81,Remain,52,52,,2026-10-22T02:35:40Z
+33,Edmonton-Gold Bar,10,Separation,Remain,Referendum,20850,3245,86.53,Remain,58,58,,2026-10-22T02:35:40Z
+34,Edmonton-Highlands-Norwood,10,Separation,Remain,Referendum,14202,2299,86.07,Remain,48,49,,2026-10-22T02:35:40Z
+35,Edmonton-Manning,10,Separation,Remain,Referendum,19094,3988,82.72,Remain,58,59,,2026-10-22T02:35:40Z
+36,Edmonton-McClung,10,Separation,Remain,Referendum,15992,2842,84.91,Remain,51,51,,2026-10-22T02:35:40Z
+37,Edmonton-Meadows,10,Separation,Remain,Referendum,17890,3028,85.52,Remain,61,61,,2026-10-22T02:35:40Z
+38,Edmonton-Mill Woods,10,Separation,Remain,Referendum,16900,3460,83.01,Remain,53,53,,2026-10-22T02:35:40Z
+39,Edmonton-North West,10,Separation,Remain,Referendum,17538,2878,85.90,Remain,64,68,,2026-10-22T02:35:40Z
+40,Edmonton-Riverview,10,Separation,Remain,Referendum,20098,2695,88.18,Remain,53,53,,2026-10-22T02:35:40Z
+41,Edmonton-Rutherford,10,Separation,Remain,Referendum,19230,2762,87.44,Remain,50,50,,2026-10-22T02:35:40Z
+42,Edmonton-South,10,Separation,Remain,Referendum,26884,4957,84.43,Remain,88,88,,2026-10-22T02:35:40Z
+43,Edmonton-South West,10,Separation,Remain,Referendum,28472,6003,82.59,Remain,76,76,,2026-10-22T02:35:40Z
+44,Edmonton-Strathcona,10,Separation,Remain,Referendum,19274,2058,90.35,Remain,50,50,,2026-10-22T02:35:40Z
+45,Edmonton-West Henday,10,Separation,Remain,Referendum,21688,4692,82.21,Remain,59,59,,2026-10-22T02:35:40Z
+46,Edmonton-Whitemud,10,Separation,Remain,Referendum,20790,3080,87.10,Remain,51,51,,2026-10-22T02:35:40Z
+47,Airdrie-Cochrane,10,Separation,Remain,Referendum,29686,11926,71.34,Remain,92,92,,2026-10-22T02:35:40Z
+48,Airdrie-East,10,Separation,Remain,Referendum,21281,8888,70.54,Remain,73,73,,2026-10-22T02:35:40Z
+49,Athabasca-Barrhead-Westlock,10,Separation,Remain,Referendum,13685,9666,58.61,Remain,62,62,,2026-10-22T02:35:40Z
+50,Banff-Kananaskis,10,Separation,Remain,Referendum,23008,5725,80.08,Remain,64,64,,2026-10-22T02:35:40Z
+51,Bonnyville-Cold Lake-St. Paul,10,Separation,Remain,Referendum,7836,4798,62.02,Remain,58,74,,2026-10-22T02:35:40Z
+52,Brooks-Medicine Hat,10,Separation,Remain,Referendum,13944,8128,63.18,Remain,71,71,,2026-10-22T02:35:40Z
+53,Camrose,10,Separation,Remain,Referendum,14646,8248,63.97,Remain,64,70,,2026-10-22T02:35:40Z
+54,Cardston-Siksika,10,Separation,Remain,Referendum,9918,7493,56.96,Remain,67,68,,2026-10-22T02:35:40Z
+55,Central Peace-Notley,10,Separation,Remain,Referendum,6415,6515,49.61,Referendum,60,60,,2026-10-22T02:35:40Z
+56,Chestermere-Strathmore,10,Separation,Remain,Referendum,19829,8891,69.04,Remain,69,71,,2026-10-22T02:35:40Z
+57,Cypress-Medicine Hat,10,Separation,Remain,Referendum,16935,7919,68.14,Remain,59,59,,2026-10-22T02:35:40Z
+58,Drayton Valley-Devon,10,Separation,Remain,Referendum,14064,11661,54.67,Remain,68,68,,2026-10-22T02:35:40Z
+59,Drumheller-Stettler,10,Separation,Remain,Referendum,10312,9772,51.34,Remain,71,71,,2026-10-22T02:35:40Z
+60,Fort McMurray-Lac La Biche,10,Separation,Remain,Referendum,8167,5299,60.65,Remain,58,63,,2026-10-22T02:35:40Z
+61,Fort McMurray-Wood Buffalo,10,Separation,Remain,Referendum,6933,4415,61.09,Remain,13,40,,2026-10-22T02:35:40Z
+62,Fort Saskatchewan-Vegreville,10,Separation,Remain,Referendum,17057,8516,66.70,Remain,61,82,,2026-10-22T02:35:40Z
+63,Grande Prairie,10,Separation,Remain,Referendum,11522,6893,62.57,Remain,44,52,,2026-10-22T02:35:40Z
+64,Grande Prairie-Wapiti,10,Separation,Remain,Referendum,11930,11414,51.11,Remain,69,81,,2026-10-22T02:35:40Z
+65,Highwood,10,Separation,Remain,Referendum,20198,10599,65.58,Remain,112,112,,2026-10-22T02:35:40Z
+66,Innisfail-Sylvan Lake,10,Separation,Remain,Referendum,15028,11446,56.77,Remain,73,73,,2026-10-22T02:35:40Z
+67,Lac Ste. Anne-Parkland,10,Separation,Remain,Referendum,15504,11237,57.98,Remain,75,75,,2026-10-22T02:35:40Z
+68,Lacombe-Ponoka,10,Separation,Remain,Referendum,14198,10434,57.64,Remain,72,72,,2026-10-22T02:35:40Z
+69,Leduc-Beaumont,10,Separation,Remain,Referendum,20792,8547,70.87,Remain,68,68,,2026-10-22T02:35:40Z
+70,Lesser Slave Lake,10,Separation,Remain,Referendum,6849,2993,69.59,Remain,45,48,,2026-10-22T02:35:40Z
+71,Lethbridge-East,10,Separation,Remain,Referendum,18982,4972,79.24,Remain,67,69,,2026-10-22T02:35:40Z
+72,Lethbridge-West,10,Separation,Remain,Referendum,21482,4970,81.21,Remain,67,67,,2026-10-22T02:35:40Z
+73,Livingstone-Macleod,10,Separation,Remain,Referendum,17601,10319,63.04,Remain,93,94,,2026-10-22T02:35:40Z
+74,Maskwacis-Wetaskiwin,10,Separation,Remain,Referendum,13763,7518,64.67,Remain,53,57,,2026-10-22T02:35:40Z
+75,Morinville-St. Albert,10,Separation,Remain,Referendum,22184,7699,74.24,Remain,58,64,,2026-10-22T02:35:40Z
+76,Olds-Didsbury-Three Hills,10,Separation,Remain,Referendum,15216,12302,55.29,Remain,71,71,,2026-10-22T02:35:40Z
+77,Peace River,10,Separation,Remain,Referendum,8458,6252,57.50,Remain,68,69,,2026-10-22T02:35:40Z
+78,Red Deer-North,10,Separation,Remain,Referendum,14917,6464,69.77,Remain,64,64,,2026-10-22T02:35:40Z
+79,Red Deer-South,10,Separation,Remain,Referendum,18635,7728,70.69,Remain,71,73,,2026-10-22T02:35:40Z
+80,Rimbey-Rocky Mountain House-Sundre,10,Separation,Remain,Referendum,12239,12775,48.93,Referendum,83,85,,2026-10-22T02:35:40Z
+81,Sherwood Park,10,Separation,Remain,Referendum,24272,5767,80.80,Remain,61,61,,2026-10-22T02:35:40Z
+82,Spruce Grove-Stony Plain,10,Separation,Remain,Referendum,22495,8729,72.04,Remain,66,67,,2026-10-22T02:35:40Z
+83,St. Albert,10,Separation,Remain,Referendum,25500,5266,82.88,Remain,59,60,,2026-10-22T02:35:40Z
+84,Strathcona-Sherwood Park,10,Separation,Remain,Referendum,21858,7767,73.78,Remain,63,63,,2026-10-22T02:35:40Z
+85,Taber-Warner,10,Separation,Remain,Referendum,9932,8568,53.69,Remain,70,70,,2026-10-22T02:35:40Z
+86,Vermilion-Lloydminster-Wainwright,10,Separation,Remain,Referendum,10879,7076,60.59,Remain,56,66,,2026-10-22T02:35:40Z
+87,West Yellowhead,10,Separation,Remain,Referendum,13942,9287,60.02,Remain,73,74,,2026-10-22T02:35:40Z
